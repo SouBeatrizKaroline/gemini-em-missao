@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="./img-001-apresentacao-batman.png" width="480" alt="Gemini em Missão — Beatriz e Batman">
+<div align="center">
+
+## 🐈‍⬛ Miau na área!
+
+### Conheça quem roubou a cena logo no começo da missão
+
+*Entre IA, tecnologia, criatividade e alguns novelos de lã,*  
+*Batman assumiu oficialmente o cargo de porta-voz não oficial desta jornada.* 😼🚀
+
+<br>
+
+**🐾 Batman — Supervisor de Projetos • Fiscal de Reuniões • Especialista em Teclados**
+
+</div>
 
 # 🐱✨ Gemini em Missão
 
