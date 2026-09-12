@@ -548,9 +548,13 @@ Na segunda, fiz uma apresentação direta.
 
 # 📢 16–18/08 — Compartilhando a conquista
 
+**Semana:** 00 — Onboarding  
+**Tipo:** Ação de Impacto / Publicação  
+**Status:** ✅ Concluído
+
 ### 🎯 O que foi proposto
 
-Contar publicamente que passei a fazer parte do programa.
+Contar publicamente que passei a fazer parte do **Programa de Embaixadores Estudantis do Google**, transformando a conquista em um registro da minha jornada.
 
 ### 📋 Como fazer
 
@@ -560,27 +564,77 @@ A atividade sugeria:
 2. compartilhar em uma rede social;
 3. explicar o que a conquista representava;
 4. falar sobre o propósito da participação;
-5. utilizar `#EmbaixadoresEstudantisGoogle`.
+5. utilizar a hashtag `#EmbaixadoresEstudantisGoogle`.
+
+---
 
 ### 🚀 O que eu fiz
 
-> `[Adicionar a publicação real quando aparecer nos próximos trechos.]`
+Transformei esse momento em uma publicação no **LinkedIn**, compartilhando publicamente minha entrada no Programa de Embaixadores Estudantis do Google.
 
-### 🌐 Publicações
+Além de celebrar a conquista, a publicação se tornou um dos primeiros registros públicos desta jornada e um ponto de partida para documentar os experimentos, aprendizados, conteúdos e projetos desenvolvidos durante o programa.
 
-| Plataforma | Link |
+---
+
+### 🌐 Publicação da atividade
+
+| Plataforma | Publicação |
 |---|---|
-| 💼 LinkedIn | `[Adicionar]` |
-| 📸 Instagram | `[Adicionar]` |
-| 🎵 TikTok | `[Adicionar]` |
-| Outra | `[Adicionar]` |
+| 💼 LinkedIn | [Ver publicação](https://www.linkedin.com/posts/beatrizkcs_embaixadoresestudantisgoogle-embaixadoresestudantisgooglegemini-activity-7494394307228049408-2Iqe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACr1MqMByBIAjO5wlUJa0E77dw2bL0lnWOQ) |
 
-<img src="./img-002-anuncio-embaixadora.png" width="680" alt="Publicação anunciando participação no programa">
+---
 
-### 🧠 Aprendizado
+### 🖼️ Evidência
 
-> `[Adicionar]`
+<p align="center">
+  <img src="./semana00-entrega02-impacto01-anuncio-embaixadora.png"
+       width="680"
+       alt="Publicação anunciando minha participação como Embaixadora Estudantil do Google">
+</p>
 
+---
+
+### 🧠 O que aprendi
+
+Essa atividade marcou a passagem entre **viver uma experiência** e também **documentá-la publicamente**.
+
+Percebi que compartilhar uma conquista pode ir além de simplesmente anunciar que algo aconteceu. Também pode ser uma oportunidade para:
+
+- 📝 registrar um marco da trajetória;
+- 🎯 explicar o propósito por trás daquela conquista;
+- 🤝 encontrar pessoas com interesses semelhantes;
+- 🌐 ampliar conexões e trocas;
+- 💼 fortalecer a construção de um portfólio público;
+- 🚀 criar continuidade para projetos e conteúdos futuros.
+
+Esse primeiro registro também ajudou a estabelecer uma ideia que quero manter durante toda a jornada:
+
+> **não mostrar apenas o resultado final, mas registrar o processo, os experimentos, os aprendizados e a evolução.**
+
+---
+
+### 📈 Evolução
+
+A publicação passou a funcionar como um dos pontos iniciais da minha presença pública durante o programa.
+
+A partir dela, comecei a pensar a experiência não apenas como uma sequência de atividades, mas como uma jornada que também poderia ser transformada em:
+
+`aprendizado` → `experimento` → `conteúdo` → `compartilhamento` → `conexão` → `impacto`
+
+---
+
+### 🌐 Onde acompanhar minha jornada
+
+Além deste repositório, compartilho projetos, experimentos, conteúdos e partes da minha jornada em diferentes plataformas:
+
+| Rede | Perfil |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/beatrizkcs](https://www.linkedin.com/in/beatrizkcs/) |
+| ▶️ YouTube | [@1aspiraqualquer](https://www.youtube.com/@1aspiraqualquer) |
+| 📸 Instagram | [@1aspiraqualquer](https://www.instagram.com/1aspiraqualquer/) |
+| 🎵 TikTok | [@1aspiraqualquer](https://www.tiktok.com/@1aspiraqualquer) |
+
+> 🐱 **Miau na área!** Ao longo da jornada, essas redes também funcionam como espaços para transformar experimentos com IA em conteúdos mais acessíveis, criativos e compartilháveis.
 ---
 
 # 🚀 21/08 — Encontro de lançamento
