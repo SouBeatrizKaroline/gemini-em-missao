@@ -189,7 +189,13 @@ A partir dali, passei a compartilhar um pouco da minha trajetória e experiênci
 
 ### 🧠 Primeira percepção
 
-> `[Adicionar futuramente uma reflexão sobre a chegada à comunidade.]`
+> Logo nos primeiros dias, percebi que essa jornada não seria apenas sobre aprender a utilizar o Gemini ou explorar novas ferramentas de IA. A comunidade também fazia parte da experiência.
+>
+> Encontrar estudantes de diferentes cursos, regiões, experiências e interesses me fez enxergar o programa como um espaço para **trocar conhecimento, criar conexões e transformar interesses em possíveis colaborações**.
+>
+> Minha primeira reação foi justamente tentar conhecer melhor as pessoas: entender o que cada uma estudava, o que sabia compartilhar, o que queria aprender e quais interesses poderiam aproximá-las.
+>
+> Foi daí que surgiu uma das minhas primeiras iniciativas espontâneas dentro da comunidade — e também um dos primeiros aprendizados da jornada: **tecnologia conecta ferramentas, mas são as pessoas, seus contextos e suas necessidades que dão sentido ao que construímos.**
 
 ---
 
@@ -281,18 +287,54 @@ A proposta permitia que cada pessoa escolhesse se queria compartilhar:
 
 ### 🧠 O que aprendi
 
-> `[Adicionar]`
+Essa iniciativa me ensinou que **facilitar conexões entre pessoas também exige pensar em segurança, privacidade e contexto**.
+
+A intenção inicial era simples: tornar mais fácil descobrir pessoas com interesses, conhecimentos e objetivos em comum. Mas, ao longo da experiência, percebi que qualquer mecanismo de networking também envolve decisões sobre:
+
+- quais informações realmente precisam ser compartilhadas;
+- quem pode acessar essas informações;
+- por quanto tempo elas devem permanecer disponíveis;
+- como deixar claro que a participação é opcional;
+- como evitar exposição desnecessária;
+- como equilibrar descoberta, colaboração e segurança.
+
+Também percebi que existe uma tensão real entre **visibilidade e privacidade**.
+
+Em comunidades, projetos, carreira e criação de conteúdo, alguma exposição pode facilitar encontros, oportunidades e colaborações. Ao mesmo tempo, quanto mais informações ficam concentradas ou organizadas em um único lugar, maior precisa ser o cuidado com acesso, consentimento e finalidade.
+
+Foi uma experiência que me fez pensar de forma mais crítica sobre tecnologia e comunidade:
+
+> **não basta perguntar “isso conecta pessoas?” — também é preciso perguntar “isso conecta de forma segura, consciente e responsável?”**
 
 ### 📈 Evolução
 
 **Conexões que surgiram:**  
-`[Adicionar]`
+A iniciativa ajudou a estimular conversas sobre interesses, áreas de atuação, conhecimentos e possibilidades de colaboração entre participantes.
+
+Mais importante do que contabilizar conexões específicas foi perceber que existia uma demanda real por mecanismos que facilitassem descobrir **quem está interessado em quê** dentro de uma comunidade grande.
 
 **Projetos ou conversas que nasceram disso:**  
-`[Adicionar]`
+A experiência gerou principalmente uma discussão mais ampla sobre como criar espaços de networking que sejam úteis sem depender de exposição excessiva de informações pessoais.
+
+Isso acabou transformando uma iniciativa simples de organização de contatos em uma reflexão sobre:
+
+`comunidade` → `descoberta` → `privacidade` → `confiança` → `responsabilidade`
 
 **O que faria diferente hoje:**  
-`[Adicionar]`
+Hoje eu começaria pela privacidade e pelo desenho do fluxo antes de pensar na planilha ou na ferramenta.
+
+Em vez de concentrar informações pessoais em uma base compartilhada, eu exploraria alternativas como:
+
+- perfis com informações mínimas e opcionais;
+- interesses representados por tags;
+- busca por temas ou habilidades sem exibir todos os dados;
+- conexões mediadas por interesse mútuo;
+- acesso restrito e com finalidade definida;
+- informações com prazo de validade;
+- possibilidade simples de editar ou remover dados;
+- orientações claras sobre o que é seguro compartilhar.
+
+A principal mudança seria aplicar uma lógica de **privacy by design** desde o início: coletar o mínimo necessário e criar a experiência de networking em torno das pessoas, e não em torno da quantidade de dados disponíveis.
 
 ---
 
