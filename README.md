@@ -162,7 +162,7 @@ Nem toda atividade precisa conter todas essas partes. O README prioriza **fideli
   - [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio)
   - [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio)
   - [🧩 Sessão Gemini #03 — Gemini Canvas no dia a dia](#semana3-visualizacoes)
-  - [🎬 Ação de Impacto — Minha Semana em Vídeo](#semana3-video-omni)
+  - [🎬 Ação de Impacto — Minha Semana em Vídeo com Gemini Omni](#semana3-video-omni)
 - [💬 Evolução dos Prompts](#evolucao-prompts)
 - [🎥 Conteúdos e Projetos Públicos](#conteudos-publicacoes)
 - [📈 Minha Evolução](#minha-evolucao)
@@ -194,7 +194,7 @@ Nem toda atividade precisa conter todas essas partes. O README prioriza **fideli
 | 08/09/2026 | Semana 3 | Onde está o seu desafio? | 💬 Desafio | ✅ |
 | 09/09/2026 | Semana 3 | Transforme seu desafio | 🎨 Desafio | ✅ |
 | 10/09/2026 | Semana 3 | Gemini Canvas no dia a dia | 🧩 Sessão | ✅ participação |
-| 11/09/2026 | Semana 3 | Minha Semana em Vídeo | 🎬 Impacto | 📝 A documentar |
+| 11/09/2026 | Semana 3 | Minha Semana em Vídeo com Gemini Omni | 🎬 Impacto | ✅ |
 | Em breve | Próxima etapa | Nova missão... | 🚀 | ⏳ |
 
 ---
@@ -2163,7 +2163,7 @@ Nesta semana, a proposta foi explorar como Gemini pode ajudar a compreender cont
 | 08/09 | [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio) | ✅ |
 | 09/09 | [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio) | ✅ |
 | 10/09 | [🧩 Sessão Gemini #03 — Gemini Canvas no dia a dia](#semana3-visualizacoes) | ✅ |
-| 11/09 | [🎬 Ação de Impacto — Minha Semana em Vídeo](#semana3-video-omni) | 📝 |
+| 11/09 | [🎬 Ação de Impacto — Minha Semana em Vídeo com Gemini Omni](#semana3-video-omni) | ✅ |
 
 ---
 
@@ -2807,29 +2807,203 @@ Isso também reforçou uma ideia que vem aparecendo ao longo da jornada:
 <a id="semana3-video-omni"></a>
 
 <details>
-<summary><strong>🎬 11/09 — Ação de Impacto: Minha Semana em Vídeo</strong></summary>
+<summary><strong>🎬 11/09 — Ação de Impacto: Minha Semana em Vídeo com Gemini Omni</strong></summary>
 
 <br>
 
 **Semana:** 03 — Aprendizagem visual e interativa  
 **Tipo:** 🌟 Ação de Impacto  
-**Status:** 📝 A documentar
+**Pontuação:** ⭐ 40 pontos  
+**Status:** ✅ Concluído
 
 ### 🎯 O que foi proposto
 
-Sintetizar a experiência da semana em um vídeo curto e publicar o resultado.
+Encerrar a Semana 3 transformando parte da experiência em um **vídeo curto criado com Gemini Omni** e publicá-lo em uma rede social.
 
-As rotas sugeridas eram:
+O desafio permitia escolher entre três rotas.
 
-1. 🧠 minha dificuldade superada;
-2. 🧩 resumo da Sessão Gemini;
-3. 🚀 minha semana como Embaixadora.
+### 🧠 Rota 1 — Minha dificuldade superada
 
-### 📝 Registro atual
+Contar:
 
-A entrega, o roteiro, o prompt e o link público ainda precisam ser recuperados.
+- qual era o desafio de aprendizagem;
+- o que estava dificultando a compreensão;
+- como uma representação visual ajudou;
+- o que ficou mais claro;
+- o que ainda permaneceu como dúvida.
 
-Até isso acontecer, o README não exibe vídeo, thumbnail ou métricas fictícias.
+### 🧩 Rota 2 — Resumo da Sessão Gemini #03
+
+Criar um resumo em vídeo com:
+
+- principais sacadas;
+- aprendizados da sessão;
+- formas como as interações com Gemini podem apoiar níveis mais profundos de compreensão.
+
+### 🚀 Rota 3 — Minha semana como Embaixadora
+
+Contar a experiência geral da Semana 3, integrando:
+
+- trocas;
+- criação;
+- aprendizagem;
+- experimentação;
+- evolução ao longo da semana.
+
+---
+
+## 📋 Como fazer
+
+### 1️⃣ Escolher uma rota
+
+Definir qual recorte da Semana 3 seria transformado em vídeo.
+
+### 2️⃣ Criar com Gemini Omni
+
+A orientação era iniciar uma nova conversa no Gemini e utilizar o recurso:
+
+```text
++ → Criar vídeo
+```
+
+### 3️⃣ Publicar
+
+O vídeo deveria ser compartilhado publicamente em uma rede como:
+
+- Instagram Reels;
+- TikTok;
+- YouTube Shorts;
+- LinkedIn Video.
+
+Também era solicitado o uso da hashtag:
+
+`#EmbaixadoresEstudantisGoogle`
+
+---
+
+## 🚀 O que eu fiz
+
+Produzi o vídeo utilizando o **Gemini Omni** e ampliei a entrega publicando o conteúdo em **três plataformas diferentes**:
+
+- 📸 Instagram Reels;
+- 🎵 TikTok;
+- ▶️ YouTube Shorts.
+
+Em vez de deixar o experimento restrito à comunidade do programa, transformei a atividade em conteúdo público e distribuí o resultado em diferentes formatos de vídeo curto.
+
+---
+
+## 🎯 Rota escolhida
+
+> **Ainda preciso recuperar qual das três rotas utilizei como base do vídeo.**
+
+Como este repositório prioriza fidelidade ao que realmente aconteceu, não associei uma rota específica sem ter o registro original.
+
+---
+
+## 🤖 Gemini em ação
+
+Nesta atividade, o Gemini não apareceu apenas como tema ou apoio de raciocínio.
+
+Ele foi utilizado diretamente para a **criação do vídeo** por meio do recurso Gemini Omni.
+
+```text
+EXPERIÊNCIA DA SEMANA
+        ↓
+ESCOLHA DO RECORTE
+        ↓
+GEMINI OMNI
+        ↓
+CRIAÇÃO DO VÍDEO
+        ↓
+PUBLICAÇÃO
+        ↓
+DISTRIBUIÇÃO EM 3 REDES
+```
+
+---
+
+## 🎥 Resultado
+
+### 🌐 Publicações
+
+| Plataforma | Publicação |
+|---|---|
+| 📸 Instagram Reels | [Assistir no Instagram](https://www.instagram.com/reel/DdKJ6b7ukht/?stkn=a3dsNHB2Y2JtMDZ4) |
+| 🎵 TikTok | [Assistir no TikTok](https://www.tiktok.com/@1aspiraqualquer/video/7684356709984259335?is_from_webapp=1&sender_device=pc) |
+| ▶️ YouTube Shorts | [Assistir no YouTube](https://youtube.com/shorts/G8pfajemQfI?si=qbdQBbPdJsNUrIa2) |
+
+---
+
+## 🔄 Fechando o ciclo da Semana 3
+
+A atividade funcionou como uma síntese prática de uma semana que começou identificando uma dificuldade de aprendizagem e passou por diferentes formas de organizar, visualizar e aprofundar o raciocínio.
+
+```text
+IDENTIFICAR A DIFICULDADE
+        ↓
+TORNAR O RACIOCÍNIO VISUAL
+        ↓
+EXPERIMENTAR OUTRAS FORMAS DE COMPREENDER
+        ↓
+EXPLORAR O CANVAS
+        ↓
+TRANSFORMAR A EXPERIÊNCIA EM VÍDEO
+        ↓
+COMPARTILHAR
+```
+
+Ao longo da semana, o foco deixou de ser apenas:
+
+> **“Como obter uma resposta?”**
+
+e passou cada vez mais por perguntas como:
+
+> **“Como tornar uma ideia mais compreensível?”**
+
+> **“Como organizar o raciocínio?”**
+
+> **“Como testar outra representação?”**
+
+> **“Como transformar o que aprendi em algo que outra pessoa também consiga acessar?”**
+
+---
+
+## 🧠 O que aprendi
+
+Essa atividade reforçou uma ideia que vem aparecendo em diferentes momentos da jornada:
+
+> **criar com IA também pode envolver traduzir uma experiência para outra linguagem.**
+
+Nesse caso, o aprendizado e as experimentações da semana saíram de:
+
+```text
+texto
+   ↓
+reflexão
+   ↓
+representação visual
+   ↓
+Canvas
+```
+
+e chegaram a:
+
+```text
+vídeo
+   ↓
+conteúdo
+   ↓
+compartilhamento público
+```
+
+Também foi interessante publicar em mais de uma plataforma, porque a mesma criação passou a circular em contextos diferentes sem precisar permanecer presa ao formato original da atividade.
+
+### 🐾 Principal aprendizado da missão
+
+> **Aprender, criar e compartilhar podem fazer parte do mesmo processo: uma experiência pode virar uma representação, uma representação pode virar conteúdo e o conteúdo pode levar aquele aprendizado para outras pessoas.**
+
+> 📌 O roteiro, o prompt exato e a rota escolhida ainda não foram recuperados. Quando esses registros forem encontrados, podem ser acrescentados sem alterar a estrutura desta seção.
 
 ---
 
@@ -2977,6 +3151,9 @@ Nesta tabela aparecem apenas links públicos já recuperados.
 | Onboarding | Anúncio como Embaixadora Estudantil | Onboarding | LinkedIn | [Abrir publicação](https://www.linkedin.com/posts/beatrizkcs_embaixadoresestudantisgoogle-embaixadoresestudantisgooglegemini-activity-7494394307228049408-2Iqe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACr1MqMByBIAjO5wlUJa0E77dw2bL0lnWOQ) |
 | Semana 2 | EntreNós | Radar de Oportunidades | Protótipo | [Abrir projeto](https://entrenos.goskip.app/) |
 | Semana 2 | Do Campo ao Conteúdo | Ação de Impacto | TikTok | [Assistir](https://vt.tiktok.com/ZSq8K1pdS/) |
+| Semana 3 | Minha Semana em Vídeo | Ação de Impacto | Instagram Reels | [Assistir](https://www.instagram.com/reel/DdKJ6b7ukht/?stkn=a3dsNHB2Y2JtMDZ4) |
+| Semana 3 | Minha Semana em Vídeo | Ação de Impacto | TikTok | [Assistir](https://www.tiktok.com/@1aspiraqualquer/video/7684356709984259335?is_from_webapp=1&sender_device=pc) |
+| Semana 3 | Minha Semana em Vídeo | Ação de Impacto | YouTube Shorts | [Assistir](https://youtube.com/shorts/G8pfajemQfI?si=qbdQBbPdJsNUrIa2) |
 
 ---
 
@@ -3039,7 +3216,7 @@ Nesta tabela aparecem apenas links públicos já recuperados.
 - [x] 💬 Onde está o seu desafio?
 - [x] 🎨 Transforme seu desafio
 - [x] 🧩 Participação na Sessão Gemini #03 — Gemini Canvas
-- [ ] 🎬 Documentar Minha Semana em Vídeo
+- [x] 🎬 Minha Semana em Vídeo com Gemini Omni
 - [ ] 🚀 Próxima missão...
 
 ---
