@@ -500,7 +500,7 @@ Na segunda, fiz uma apresentação direta.
 
 # 🎨 Resultado visual
 
-<img src="./img-001-apresentacao-batman.png" width="720" alt="Imagem criada com Gemini para o quebra-gelo">
+<img src="./semana00-entrega01-desafio01-quebra-gelo-batman.png" width="720" alt="Imagem criada com Gemini para o quebra-gelo">
 
 ### 🔎 Elementos da imagem
 
