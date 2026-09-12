@@ -128,28 +128,28 @@ Cada atividade segue, sempre que fizer sentido, este fluxo:
 
 ---
 
-# 🗺️ Linha do Tempo
+## 🗺️ Linha do Tempo
 
 | Data | Etapa | Missão / Atividade | Tipo | Status |
 |---|---|---|---|:---:|
 | 14/08/2026 | Onboarding | Entrada na comunidade | 🌱 Marco | ✅ |
 | 15/08/2026 | Onboarding | Conexões e networking | 🤝 Iniciativa | ✅ |
 | 16/08/2026 | Onboarding | Quebra-gelo criativo | 🎨 Atividade | ✅ |
-| 16–18/08/2026 | Onboarding | Compartilhando a conquista | 📢 Impacto | ✅ |
-| 21/08/2026 | Onboarding | Encontro de lançamento | 🚀 Encontro | ✅ |
-| 24–31/08/2026 | Semana 1 | Meu jeito de trabalhar com IA | 🤖 Tema | ✅ |
-| 25/08/2026 | Semana 1 | Auditoria de Prompt | 🧠 Desafio | ✅ |
-| 28/08/2026 | Semana 1 | Study Notebooks | 📚 Sessão | ✅ |
-| 01/09/2026 | Semana 2 | Meu Mapa de Impacto | 🗺️ Desafio | ✅ |
-| 02–03/09/2026 | Semana 2 | Embaixadora em Campo | 🕵️ Desafio | ✅ |
-| 03/09/2026 | Semana 2 | Radar de Oportunidades | 📡 Atividade | ✅ |
-| 04/09/2026 | Semana 2 | Canvas + Bases de Dados | 💻 Sessão | ✅ |
-| 04/09/2026 | Semana 2 | Conteúdo para estudantes | 📱 Impacto | ✅ |
-| 04/09/2026 | Semana 2 | Do Campo ao Conteúdo | 🎙️ Impacto | ✅ |
-| 08/09/2026 | Semana 3 | Onde está o seu desafio? | 💬 Desafio | ✅ |
-| 09/09/2026 | Semana 3 | Transforme seu desafio | 🎨 Desafio | ✅ |
-| 10/09/2026 | Semana 3 | Visualizações Interativas | 🧩 Sessão | ✅ |
-| 11/09/2026 | Semana 3 | Minha Semana em Vídeo | 🎬 Impacto | ✅ |
+| 16–18/08/2026 | Onboarding | Compartilhando a conquista | 📢 Impacto | ⏳ A confirmar |
+| 21/08/2026 | Onboarding | Encontro de lançamento | 🚀 Encontro | ⏳ A confirmar |
+| 24–31/08/2026 | Semana 1 | Meu jeito de trabalhar com IA | 🤖 Ciclo | 📝 Em documentação |
+| 25/08/2026 | Semana 1 | Auditoria de Prompt | 🧠 Desafio | ⏳ A confirmar |
+| 28/08/2026 | Semana 1 | Study Notebooks | 📚 Sessão | 📝 Em documentação |
+| 01/09/2026 | Semana 2 | Meu Mapa de Impacto | 🗺️ Desafio | ⏳ A confirmar |
+| 02–03/09/2026 | Semana 2 | Embaixadora em Campo | 🕵️ Desafio | ⏳ A confirmar |
+| 03/09/2026 | Semana 2 | Radar de Oportunidades | 📡 Atividade | ⏳ A confirmar |
+| 04/09/2026 | Semana 2 | Canvas + Bases de Dados | 💻 Sessão | 📝 Em documentação |
+| 04/09/2026 | Semana 2 | Conteúdo para estudantes | 📱 Impacto | 📝 Em documentação |
+| 04/09/2026 | Semana 2 | Do Campo ao Conteúdo | 🎙️ Impacto | 📝 Em documentação |
+| 08/09/2026 | Semana 3 | Onde está o seu desafio? | 💬 Desafio | ⏳ A confirmar |
+| 09/09/2026 | Semana 3 | Transforme seu desafio | 🎨 Desafio | ⏳ A confirmar |
+| 10/09/2026 | Semana 3 | Visualizações Interativas | 🧩 Sessão | ⏳ A confirmar |
+| 11/09/2026 | Semana 3 | Minha Semana em Vídeo | 🎬 Impacto | ⏳ A confirmar |
 | Em breve | Próxima etapa | Nova missão... | 🚀 | ⏳ |
 
 ---
@@ -500,7 +500,7 @@ Na segunda, fiz uma apresentação direta.
 
 # 🎨 Resultado visual
 
-<img src="./semana00-entrega01-desafio01-quebra-gelo-batman.png" width="720" alt="Imagem criada com Gemini para o quebra-gelo">
+<img src="semana00-entrega01-desafio01-quebra-gelo-batman.png" width="720" alt="Imagem criada com Gemini para o quebra-gelo">
 
 ### 🔎 Elementos da imagem
 
