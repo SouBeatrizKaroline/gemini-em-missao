@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ## 🐈‍⬛ Miau na área!
@@ -186,7 +187,7 @@ Nem toda atividade precisa conter todas essas partes. O README prioriza **fideli
 | 04/09/2026 | Semana 2 | Canvas + Bases de Dados | 💻 Sessão | ✅ participação |
 | 04/09/2026 | Semana 2 | Do Campo ao Conteúdo | 🎙️ Impacto | ✅ |
 | 08/09/2026 | Semana 3 | Onde está o seu desafio? | 💬 Desafio | ✅ |
-| 09/09/2026 | Semana 3 | Transforme seu desafio | 🎨 Desafio | 📝 A documentar |
+| 09/09/2026 | Semana 3 | Transforme seu desafio | 🎨 Desafio | ✅ |
 | 10/09/2026 | Semana 3 | Visualizações Interativas | 🧩 Sessão | 📝 A documentar |
 | 11/09/2026 | Semana 3 | Minha Semana em Vídeo | 🎬 Impacto | 📝 A documentar |
 | Em breve | Próxima etapa | Nova missão... | 🚀 | ⏳ |
@@ -2155,7 +2156,7 @@ Nesta semana, a proposta foi explorar como Gemini pode ajudar a compreender cont
 | Data | Etapa | Status |
 |---|---|:---:|
 | 08/09 | [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio) | ✅ |
-| 09/09 | [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio) | 📝 |
+| 09/09 | [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio) | ✅ |
 | 10/09 | [🧩 Sessão Gemini #03 — Visualizações Interativas](#semana3-visualizacoes) | 📝 |
 | 11/09 | [🎬 Ação de Impacto — Minha Semana em Vídeo](#semana3-video-omni) | 📝 |
 
@@ -2258,17 +2259,18 @@ Isso abriu uma hipótese para o desafio seguinte: experimentar formas de **exter
 
 **Semana:** 03 — Aprendizagem visual e interativa  
 **Tipo:** 🎯 Desafio oficial  
-**Status:** 📝 A documentar
+**Pontuação:** ⭐ 25 pontos  
+**Status:** ✅ Concluído
 
 ### 🎯 O que foi proposto
 
-Pegar a dificuldade identificada no dia anterior e utilizar:
+Pegar a dificuldade de aprendizagem identificada no desafio anterior e utilizar:
 
-> **meu próprio raciocínio + Google Gemini + representação visual**
+> **meu próprio raciocínio + Google Gemini + uma forma de representação visual**
 
-para experimentar outra forma de compreender o conteúdo.
+para experimentar uma nova maneira de compreender e explicar esse conteúdo.
 
-O processo sugerido era:
+A proposta apresentava um processo simples para aplicar no dia a dia:
 
 ```text
 👀 OBSERVE
@@ -2284,23 +2286,238 @@ O processo sugerido era:
 📤 COMPARTILHE
 ```
 
-Entre as possibilidades estavam:
+A ideia era utilizar recursos visuais — como símbolos, formas, conexões, esquemas e diagramas — para apoiar a compreensão, a organização, a memória e a comunicação de ideias.
 
-- mapa mental;
-- mapa conceitual;
-- fluxograma;
-- storyboard;
-- analogia visual;
-- sketchnote;
-- linha do tempo;
-- diagrama;
-- infográfico.
+### 🤖 Onde o Gemini entrava
 
-### 📝 Registro atual
+O Google Gemini poderia funcionar como **apoio de raciocínio**, ajudando a:
 
-Ainda não recuperei a minha entrega real deste desafio nesta documentação.
+- observar o tema por outros ângulos;
+- identificar o que era essencial;
+- perceber relações entre ideias;
+- explorar diferentes formas de representação;
+- comparar possibilidades;
+- refinar a explicação criada.
 
-Por isso, **não incluí prompt, imagem, representação escolhida ou resultado provisório**.
+O objetivo não era deixar a IA decidir a representação final, mas utilizá-la para ampliar a análise antes da escolha.
+
+---
+
+## 📋 Como fazer
+
+### 1️⃣ Análise pessoal
+
+Antes de abrir o Gemini, a proposta era pensar:
+
+- onde estava a maior dificuldade;
+- se o problema envolvia sequência;
+- comparação;
+- causa e efeito;
+- hierarquia;
+- conexões;
+- ou uma ideia abstrata.
+
+Também era necessário formular uma hipótese inicial sobre **o que poderia tornar aquele conteúdo mais fácil de assimilar**.
+
+### 2️⃣ Ampliar a análise com Gemini
+
+O desafio forneceu um prompt-base para conduzir o raciocínio em cinco etapas:
+
+1. **OBSERVE** — identificar o que precisava ser compreendido;
+2. **SIMPLIFIQUE** — separar o central do secundário;
+3. **VISUALIZE** — propor três formas diferentes de representação;
+4. **CONECTE** — mostrar quais relações deveriam aparecer visualmente;
+5. **ANALISE MINHA HIPÓTESE** — comparar a análise da IA com a hipótese inicial, sem decidir por mim.
+
+<details>
+<summary><strong>🤖 Abrir prompt-base do desafio</strong></summary>
+
+```text
+Quero usar uma forma de representação visual para me ajudar a explorar por outros ângulos um desafio de aprendizagem. O desafio que compartilhei foi: "[COLE SUA FRASE COM O DESAFIO QUE COMPARTILHOU]". Antes de falar com você, minha hipótese é que a principal dificuldade está em visualizar: [INSIRA SUA HIPÓTESE — por exemplo: uma sequência, uma diferença entre conceitos, uma relação de causa e efeito, conexões entre ideias, uma hierarquia ou uma ideia abstrata].
+
+Quero que você seja meu apoio de raciocínio visual. Ainda não gere nenhuma imagem. Vamos seguir com as seguintes etapas:
+
+1. OBSERVE: Analise a dificuldade descrita e identifique quais elementos, conceitos ou informações é necessário compreender para responder especificamente àquilo que eu estou tendo dificuldade para entender.
+
+2. SIMPLIFIQUE: Organize essa informação nas ideias e estruturas essenciais. Separe o central do secundário, conservando tudo o que for necessário para que a explicação continue correta e faça sentido.
+
+3. VISUALIZE: Proponha 3 maneiras diferentes de dar forma visual a essas ideias. Você pode considerar, quando fizer sentido: mapa mental, mapa conceitual, fluxograma, storyboard, analogia visual, sketchnote/anotações visuais, linha do tempo, diagrama, infográfico ou outra técnica adequada. Para cada possibilidade, explique: o que ajudaria a tornar mais visível; por que poderia ajudar especificamente com a dificuldade apresentada; e o que poderia ficar menos evidente ou simplificado demais nesse formato.
+
+4. CONECTE: Para cada possibilidade visual, mostre quais relações entre os elementos deveriam ficar claramente representadas. Considere, quando couber: sequência, causa e consequência, comparação, hierarquia, dependência, parte e todo, associação entre conceitos ou transformação ao longo do tempo.
+
+5. ANALISE MINHA HIPÓTESE: Compare sua análise com a minha hipótese inicial. Diga-me se parece coerente e explique brevemente o porquê. Se identificar outra relação que possa ser mais importante para que eu compreenda o conteúdo, apresente-a como uma possibilidade, sem decidir por mim.
+
+Ao final, não escolha a representação por mim. Faça-me uma pergunta que me ajude a decidir qual das possibilidades quero testar.
+```
+
+</details>
+
+---
+
+## 🚀 O que eu fiz
+
+Decidi transformar meu desafio em uma representação visual mais lúdica e acessível usando o **Chibi** e a metáfora de um **novelo do raciocínio**.
+
+A ideia nasceu da sensação descrita no desafio anterior: às vezes eu consigo compreender um conteúdo, mas, na hora de recuperar, estruturar ou explicar o raciocínio, parece que o “fio” se perdeu dentro de um novelo.
+
+Em vez de criar apenas um esquema técnico, quis transformar o processo em uma espécie de **guia visual para desenrolar as ideias uma etapa de cada vez**.
+
+---
+
+## 🧠 Ponto de partida
+
+No desafio anterior, eu havia identificado duas dificuldades complementares:
+
+> **Eu tenho dificuldade em organizar uma boa linha de raciocínio que eu me sinta mais confiante quando for repassar e relembrar o conteúdo.**
+
+E também:
+
+> **Eu tenho dificuldade em entender certas lógicas principalmente em questão de estruturação social, por que tenho TEA, então consigo estudar e compreender de modo geral, mas não ter uma visão neurotipica.**
+
+A partir dessas respostas, minha hipótese era que uma representação visual poderia ajudar principalmente a:
+
+- organizar as etapas do raciocínio;
+- diferenciar fatos de suposições;
+- tornar o contexto mais explícito;
+- enxergar relações entre ideias;
+- considerar perspectivas diferentes;
+- reconstruir uma explicação com minhas próprias palavras.
+
+---
+
+## ✅ Representação escolhida
+
+Escolhi organizar o raciocínio em **seis etapas numeradas**:
+
+```text
+1. TEMA
+   ↓
+2. PISTAS
+   ↓
+3. CONTEXTO
+   ↓
+4. CONEXÕES
+   ↓
+5. PERSPECTIVAS
+   ↓
+6. EXPLICAÇÃO
+```
+
+### 1️⃣ Tema — O que vamos entender?
+
+Começar delimitando exatamente o assunto que quero explorar.
+
+### 2️⃣ Pistas — O que sabemos de fato?
+
+Separar informações conhecidas de interpretações e suposições.
+
+### 3️⃣ Contexto — O que falta descobrir?
+
+Observar a situação, as regras e os elementos explícitos ou implícitos que podem alterar a compreensão.
+
+### 4️⃣ Conexões — Como as ideias se ligam?
+
+Seguir o “fio” entre os elementos e diferenciar evidências de possibilidades.
+
+### 5️⃣ Perspectivas — Dá para olhar de outro jeito?
+
+Considerar que podem existir outras explicações e que perguntar também faz parte do processo.
+
+### 6️⃣ Explicação — Vamos contar com nossas palavras?
+
+Reorganizar aquilo que foi compreendido em uma explicação própria:
+
+```text
+Entendi que...
+        ↓
+porque...
+        ↓
+por exemplo...
+```
+
+---
+
+## ✨ Resultado — Chibi e o Novelo do Raciocínio
+
+<p align="center">
+  <img src="./semana03-entrega01-desafio02-chibi-novelo-raciocinio.jpeg"
+       width="900"
+       alt="Chibi e o Novelo do Raciocínio — representação visual criada para o Desafio #02 da Semana 3">
+</p>
+
+A metáfora do novelo representa justamente o processo de encontrar a “pontinha” de uma ideia e seguir o fio até que as relações fiquem mais claras.
+
+---
+
+## 💬 Texto que compartilhei com a imagem
+
+> 🐈🧶 **Desafio #02 - Semana 3 - 09/09/2026 - Chibi e o Novelo do Raciocínio!**
+>
+> Miaaau, pessoal! Chibi na área, com a lupa na patinha e um novelo cheio de ideias para desenrolar com vocês! 🔎
+>
+> Sabe quando você entende o conteúdo, mas, na hora de explicar, parece que o fio desapareceu dentro do novelo? Vamos procurar essa pontinha juntos: sigam os números da imagem para descobrir as pistas, explorar o contexto e conectar as ideias até conseguir contar tudo com suas próprias palavras. 🐾
+>
+> E fica o meu lembrete de frajola: cada pessoa tem seu jeito de aprender, então vamos no nosso ritmo, com curiosidade e sem medo de perguntar - uma patinha de cada vez! 💜
+
+---
+
+## 🔎 O que ficou mais claro
+
+A atividade me ajudou a perceber que, no meu caso, compreender melhor nem sempre significa simplesmente **receber mais informação**.
+
+Muitas vezes, eu preciso tornar a estrutura do raciocínio mais explícita.
+
+A sequência visual ajudou a externalizar perguntas que eu posso fazer durante o processo:
+
+```text
+Qual é o tema?
+      ↓
+O que eu realmente sei?
+      ↓
+Que contexto ainda falta?
+      ↓
+Como as partes se conectam?
+      ↓
+Existe outra perspectiva?
+      ↓
+Consigo explicar com minhas palavras?
+```
+
+Isso transforma algo abstrato — “organizar melhor meu raciocínio” — em etapas mais concretas que posso percorrer.
+
+---
+
+## 🧠 O que aprendi
+
+A visualização pode funcionar não apenas como uma forma de **mostrar** o que já entendi, mas como uma ferramenta para **pensar enquanto tento entender**.
+
+Nesse caso, ela me ajudou a transformar:
+
+```text
+"preciso organizar melhor meu raciocínio"
+```
+
+em:
+
+```text
+delimitar
+   ↓
+observar
+   ↓
+contextualizar
+   ↓
+conectar
+   ↓
+mudar de perspectiva
+   ↓
+explicar
+```
+
+Também gostei de transformar o exercício em algo mais leve e memorável com o Chibi e o novelo, porque a metáfora faz sentido com a própria dificuldade que eu queria representar.
+
+### 🐾 Principal aprendizado da missão
+
+> **Às vezes, compreender não é encontrar imediatamente uma resposta. É conseguir localizar a ponta do fio e construir o caminho do raciocínio uma conexão de cada vez.**
 
 ---
 
@@ -2579,7 +2796,7 @@ Nesta tabela aparecem apenas links públicos já recuperados.
 - [x] 💻 Participação na Sessão Gemini #02 — Canvas
 - [x] 🎙️ Do Campo ao Conteúdo
 - [x] 💬 Onde está o seu desafio?
-- [ ] 🎨 Documentar Transforme seu desafio
+- [x] 🎨 Transforme seu desafio
 - [ ] 🧩 Documentar Visualizações Interativas
 - [ ] 🎬 Documentar Minha Semana em Vídeo
 - [ ] 🚀 Próxima missão...
