@@ -615,7 +615,7 @@ Além de celebrar a conquista, a publicação se tornou um dos primeiros registr
 ### 🖼️ Evidência
 
 <p align="center">
-  <img src="./semana00-entrega02-impacto01-anuncio-embaixadora.png"
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHxBrEUbBuMOA/feedshare-image-high-res/B4DaAFv6LDKQAQ-/0/1786802840501?e=1790812800&v=beta&t=g1B4ftmC3iaRtYcVtfkeEy8Ja0qGuTX_9jl6dtPvyio"
        width="680"
        alt="Publicação anunciando minha participação como Embaixadora Estudantil do Google">
 </p>
