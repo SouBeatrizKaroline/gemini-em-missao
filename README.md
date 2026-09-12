@@ -572,33 +572,6 @@ Na segunda, fiz uma apresentação direta.
 | ✨ Constelações | Conexões entre áreas aparentemente distantes |
 | ♾️ Fluxos | Aprendizado contínuo |
 
-### 🤖 Gemini em ação
-
-**Ferramenta:** geração de imagem com Google Gemini.
-
-<details>
-<summary><strong>💬 Prompt utilizado</strong></summary>
-
-```text
-[Adicionar o prompt original quando localizado nas próximas conversas.]
-```
-
-</details>
-
-### 🧠 O que aprendi
-
-> `[Adicionar reflexão.]`
-
-### 🔄 O que faria diferente?
-
-> `[Adicionar.]`
-
-### 📈 Evolução
-
-**Revisitando esta atividade em `[data]`:**
-
-> `[Como faria essa apresentação depois de adquirir mais experiência?]`
-
 ---
 
 # 📢 16–18/08 — Compartilhando a conquista
