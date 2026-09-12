@@ -93,53 +93,85 @@ Quando uma atividade depende de algum desses recursos, registro apenas:
 
 # 🧭 Como este README funciona
 
-Cada atividade segue, sempre que fizer sentido, este fluxo:
+O README foi organizado para funcionar como um **diário de bordo navegável**.
+
+As semanas permanecem visíveis para mostrar a evolução da jornada. Já cada desafio, sessão, ação de impacto ou experiência pode ser **aberta e fechada individualmente**.
+
+> 💡 **Como navegar:** use o sumário para ir direto a uma atividade e clique no título dela para abrir ou recolher o conteúdo.
+
+Dentro de cada missão, mantenho — sempre que fizer sentido — este fluxo:
 
 ```text
-📅 DATA
-   ↓
-📚 SEMANA
-   ↓
+📅 DATA / ETAPA
+      ↓
 🎯 O QUE FOI PROPOSTO
-   ↓
+      ↓
 📋 COMO FAZER
-   ↓
+      ↓
 🚀 O QUE EU FIZ
-   ↓
+      ↓
 💬 MINHAS RESPOSTAS
-   ↓
+      ↓
 🤖 GEMINI EM AÇÃO
-   ↓
+      ↓
 ✨ RESULTADO
-   ↓
-📸 EVIDÊNCIAS
-   ↓
-🌐 PUBLICAÇÕES
-   ↓
+      ↓
+📸 EVIDÊNCIAS / 🌐 PUBLICAÇÕES
+      ↓
 🧠 APRENDIZADOS
-   ↓
+      ↓
 🔄 MELHORIAS
-   ↓
+      ↓
 📈 EVOLUÇÃO
 ```
 
----
-
-# ⚡ Navegação
-
-- [🗺️ Linha do Tempo](#️-linha-do-tempo)
-- [🌱 Onboarding](#-onboarding)
-- [🤖 Semana 1](#-semana-1--meu-jeito-de-trabalhar-com-ia)
-- [🌎 Semana 2](#-semana-2--onde-a-ia-pode-expandir-possibilidades)
-- [🧠 Semana 3](#-semana-3--aprendizagem-visual-e-interativa)
-- [🧪 Laboratório Gemini](#-laboratório-gemini)
-- [💬 Evolução dos Prompts](#-evolução-dos-prompts)
-- [🎥 Conteúdos](#-conteúdos-e-publicações)
-- [🖼️ Galeria](#️-galeria-da-jornada)
-- [📈 Evolução](#-minha-evolução)
-- [🏆 Marcos](#-marcos-da-jornada)
+As **respostas originais**, prompts longos e materiais complementares também podem aparecer em blocos recolhíveis dentro de cada atividade. Assim, o repositório continua completo sem obrigar quem visita a percorrer todas as entregas de uma vez.
 
 ---
+<a id="sumario"></a>
+
+# ⚡ Sumário da Jornada
+
+- [🗺️ Linha do Tempo](#linha-do-tempo)
+- [🌱 Onboarding](#onboarding)
+  - [🌐 14/08 — Entrada na comunidade](#onboarding-entrada)
+  - [🤝 15/08 — Conexões e networking](#onboarding-networking)
+  - [🐱 16/08 — Quebra-gelo criativo](#onboarding-quebra-gelo)
+  - [📢 16–18/08 — Compartilhando a conquista](#onboarding-conquista)
+  - [🚀 21/08 — Encontro de lançamento](#onboarding-lancamento)
+- [🤖 Semana 1 — Meu jeito de trabalhar com IA](#semana-1)
+  - [🛠️ Preparação](#semana1-preparacao)
+  - [🐱🎨 Chibi — Identidade do Team 03](#semana1-chibi)
+  - [🧠 Desafio #01 — Auditoria de Prompt](#semana1-auditoria-prompt)
+  - [💎 Recursos avançados](#semana1-recursos-avancados)
+  - [📚 Sessão Gemini #01 — Study Notebooks](#semana1-study-notebooks)
+  - [🌟 Atividades de Impacto](#semana1-impacto)
+  - [🏁 Retrospectiva](#semana1-retrospectiva)
+- [🌎 Semana 2 — Onde a IA pode expandir possibilidades?](#semana-2)
+  - [🗺️ Desafio #01 — Meu Mapa de Impacto](#semana2-mapa-impacto)
+  - [🕵️ Desafio #02 — Embaixadora em Campo](#semana2-embaixadora-campo)
+  - [📡 Radar de Oportunidades](#semana2-radar-oportunidades)
+  - [🌱 Compartilhando oportunidades](#semana2-compartilhando-oportunidades)
+  - [📱 Conteúdo para estudantes](#semana2-conteudo-estudantes)
+  - [💻 Sessão Gemini #02 — Canvas + Bases de Dados](#semana2-canvas-bases)
+  - [🎙️ Ação de Impacto — Do Campo ao Conteúdo](#semana2-campo-conteudo)
+  - [🏁 Retrospectiva](#semana2-retrospectiva)
+- [🧠 Semana 3 — Aprendizagem visual e interativa](#semana-3)
+  - [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio)
+  - [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio)
+  - [🧩 Sessão Gemini #03 — Visualizações Interativas](#semana3-visualizacoes)
+  - [🎬 Ação de Impacto — Minha Semana em Vídeo](#semana3-video-omni)
+- [🧪 Laboratório Gemini](#laboratorio-gemini)
+- [💬 Evolução dos Prompts](#evolucao-prompts)
+- [🎥 Conteúdos e Publicações](#conteudos-publicacoes)
+- [🖼️ Galeria da Jornada](#galeria)
+- [📈 Minha Evolução](#minha-evolucao)
+- [🏆 Marcos da Jornada](#marcos)
+- [📊 Jornada em números](#jornada-numeros)
+- [📝 Modelo das próximas atividades](#modelo-atividades)
+
+---
+<a id="linha-do-tempo"></a>
 
 ## 🗺️ Linha do Tempo
 
@@ -167,6 +199,8 @@ Cada atividade segue, sempre que fizer sentido, este fluxo:
 
 ---
 
+<a id="onboarding"></a>
+
 # 🌱 ONBOARDING
 
 ### 14 a 23 de agosto de 2026
@@ -177,7 +211,27 @@ O início da jornada foi dedicado à entrada na comunidade, às primeiras conex�
 
 ---
 
-## 🌐 14/08 — Entrada na comunidade
+### 🧭 Nesta etapa
+
+| Data | Registro |
+|---|---|
+| 14/08 | [🌐 Entrada na comunidade](#onboarding-entrada) |
+| 15/08 | [🤝 Conexões e networking](#onboarding-networking) |
+| 16/08 | [🐱 Quebra-gelo criativo](#onboarding-quebra-gelo) |
+| 16–18/08 | [📢 Compartilhando a conquista](#onboarding-conquista) |
+| 21/08 | [🚀 Encontro de lançamento](#onboarding-lancamento) |
+
+> **Clique em qualquer atividade para abrir ou recolher o conteúdo completo.**
+
+---
+
+<a id="onboarding-entrada"></a>
+
+<details>
+<summary><strong>🌐 14/08 — Entrada na comunidade</strong></summary>
+
+<br>
+
 
 ### 🎯 O que foi proposto
 
@@ -212,7 +266,18 @@ A partir dali, passei a compartilhar um pouco da minha trajetória e experiênci
 
 ---
 
-# 🤝 15/08 — Conexões e networking
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="onboarding-networking"></a>
+
+<details>
+<summary><strong>🤝 15/08 — Conexões e networking</strong></summary>
+
+<br>
+
 
 ### 🎯 O contexto
 
@@ -351,7 +416,18 @@ A principal mudança seria aplicar uma lógica de **privacy by design** desde o 
 
 ---
 
-# 🐱 16/08 — Quebra-gelo criativo
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="onboarding-quebra-gelo"></a>
+
+<details>
+<summary><strong>🐱 16/08 — Quebra-gelo criativo</strong></summary>
+
+<br>
+
 
 ### 🎯 O que foi proposto
 
@@ -574,7 +650,18 @@ Na segunda, fiz uma apresentação direta.
 
 ---
 
-# 📢 16–18/08 — Compartilhando a conquista
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="onboarding-conquista"></a>
+
+<details>
+<summary><strong>📢 16–18/08 — Compartilhando a conquista</strong></summary>
+
+<br>
+
 
 **Semana:** 00 — Onboarding  
 **Tipo:** Ação de Impacto / Publicação  
@@ -665,7 +752,18 @@ Além deste repositório, compartilho projetos, experimentos, conteúdos e parte
 > 🐱 **Miau na área!** Ao longo da jornada, essas redes também funcionam como espaços para transformar experimentos com IA em conteúdos mais acessíveis, criativos e compartilháveis.
 ---
 
-# 🚀 21/08 — Encontro de lançamento
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="onboarding-lancamento"></a>
+
+<details>
+<summary><strong>🚀 21/08 — Encontro de lançamento</strong></summary>
+
+<br>
+
 
 **Semana:** 00 — Onboarding  
 **Tipo:** 🎓 Encontro de lançamento  
@@ -766,6 +864,13 @@ Este próprio repositório é uma consequência dessa decisão.
 
 ---
 
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana-1"></a>
+
 # 🤖 SEMANA 1 — Meu jeito de trabalhar com IA
 
 ### 📅 24 a 31 de agosto de 2026
@@ -776,7 +881,29 @@ O primeiro ciclo oficial teve como foco observar **como cada pessoa já trabalha
 
 ---
 
-# 🛠️ 24/08 — Preparação para a Semana 1
+## 🧭 Sumário da Semana 1
+
+| Data | Etapa |
+|---|---|
+| 24/08 | [🛠️ Preparação para a Semana 1](#semana1-preparacao) |
+| Semana 1 | [🐱🎨 Chibi — Identidade do Team 03](#semana1-chibi) |
+| 25/08 | [🧠 Desafio #01 — Auditoria de Prompt](#semana1-auditoria-prompt) |
+| 26/08 | [💎 Explorando recursos avançados](#semana1-recursos-avancados) |
+| 28/08 | [📚 Sessão Gemini #01 — Study Notebooks](#semana1-study-notebooks) |
+| Semana 1 | [🌟 Atividades de Impacto](#semana1-impacto) |
+| Encerramento | [🏁 Retrospectiva](#semana1-retrospectiva) |
+
+> **As atividades abaixo são recolhíveis.** Abra apenas o que quiser consultar.
+
+---
+
+<a id="semana1-preparacao"></a>
+
+<details>
+<summary><strong>🛠️ 24/08 — Preparação para a Semana 1</strong></summary>
+
+<br>
+
 
 **Semana:** 01  
 **Tema:** 🤖✨ Meu Jeito de Trabalhar com IA  
@@ -836,7 +963,18 @@ Durante essa preparação:
 
 ---
 
-# 🐱🎨 Chibi — Construindo a identidade do Team 03
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana1-chibi"></a>
+
+<details>
+<summary><strong>🐱🎨 Chibi — Construindo a identidade do Team 03</strong></summary>
+
+<br>
+
 
 Durante a preparação para a primeira semana, também aconteceu uma movimentação mais descontraída dentro do **Team 03**: a escolha de um mascote para representar o grupo.
 
@@ -959,7 +1097,18 @@ E isso combinava bastante com a missão que estava apenas começando:
 
 ---
 
-# 🧠 25/08 — Desafio #01: Auditoria de Prompt
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana1-auditoria-prompt"></a>
+
+<details>
+<summary><strong>🧠 25/08 — Desafio #01: Auditoria de Prompt</strong></summary>
+
+<br>
+
 
 **Semana:** 01 — Meu Jeito de Trabalhar com IA  
 **Etapa:** 🛠️ APRENDER  
@@ -1257,7 +1406,18 @@ A ideia principal continua a mesma, mas hoje eu daria mais espaço para a IA **e
 
 ---
 
-# 💎 26/08 — Explorando recursos avançados
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana1-recursos-avancados"></a>
+
+<details>
+<summary><strong>💎 26/08 — Explorando recursos avançados</strong></summary>
+
+<br>
+
 
 ### 🎯 O que foi apresentado
 
@@ -1284,7 +1444,18 @@ Explorar possibilidades ampliadas do ecossistema Gemini para:
 
 ---
 
-# 📚 28/08 — Sessão Gemini #01: Study Notebooks
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana1-study-notebooks"></a>
+
+<details>
+<summary><strong>📚 28/08 — Sessão Gemini #01: Study Notebooks</strong></summary>
+
+<br>
+
 
 ### 🎯 O que foi proposto
 
@@ -1335,7 +1506,18 @@ A ideia era utilizar os Study Notebooks para:
 
 ---
 
-# 🌟 Atividades de Impacto — Semana 1
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana1-impacto"></a>
+
+<details>
+<summary><strong>🌟 Atividades de Impacto — Semana 1</strong></summary>
+
+<br>
+
 
 Na validação da primeira semana, também era possível registrar conteúdos públicos produzidos durante a jornada como **Atividades de Impacto**.
 
@@ -1378,7 +1560,18 @@ Até duas produções poderiam ser registradas.
 
 ---
 
-# 🏁 Retrospectiva — Semana 1
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana1-retrospectiva"></a>
+
+<details>
+<summary><strong>🏁 Retrospectiva — Semana 1</strong></summary>
+
+<br>
+
 
 ### Antes
 
@@ -1397,6 +1590,13 @@ Até duas produções poderiam ser registradas.
 > `[Adicionar]`
 
 ---
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana-2"></a>
 
 # 🌎 SEMANA 2 — Onde a IA pode expandir possibilidades?
 
@@ -1424,7 +1624,30 @@ A pergunta principal era:
 
 ---
 
-# 🗺️ 01/09 — Desafio #01: Meu Mapa de Impacto
+## 🧭 Sumário da Semana 2
+
+| Data | Etapa |
+|---|---|
+| 01/09 | [🗺️ Desafio #01 — Meu Mapa de Impacto](#semana2-mapa-impacto) |
+| 02–03/09 | [🕵️ Desafio #02 — Embaixadora em Campo](#semana2-embaixadora-campo) |
+| 03/09 | [📡 Radar de Oportunidades](#semana2-radar-oportunidades) |
+| 03/09 | [🌱 Compartilhando oportunidades](#semana2-compartilhando-oportunidades) |
+| 04/09 | [📱 Conteúdo para estudantes](#semana2-conteudo-estudantes) |
+| 04/09 | [💻 Sessão Gemini #02 — Canvas + Bases de Dados](#semana2-canvas-bases) |
+| 04/09 | [🎙️ Ação de Impacto — Do Campo ao Conteúdo](#semana2-campo-conteudo) |
+| Encerramento | [🏁 Retrospectiva](#semana2-retrospectiva) |
+
+> **As atividades abaixo são recolhíveis.** O enunciado, suas respostas, entregas e aprendizados permanecem completos dentro de cada uma.
+
+---
+
+<a id="semana2-mapa-impacto"></a>
+
+<details>
+<summary><strong>🗺️ 01/09 — Desafio #01: Meu Mapa de Impacto</strong></summary>
+
+<br>
+
 
 ### ⭐ 25 pontos
 
@@ -1637,7 +1860,18 @@ Compartilhar o mapa criado e explicar o planejamento.
 
 ---
 
-# 🕵️ 02–03/09 — Desafio #02: Embaixadora em Campo
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana2-embaixadora-campo"></a>
+
+<details>
+<summary><strong>🕵️ 02–03/09 — Desafio #02: Embaixadora em Campo</strong></summary>
+
+<br>
+
 
 ### ⭐ 25 pontos
 
@@ -1723,7 +1957,18 @@ Depois, era necessário guardar as principais observações porque elas seriam u
 
 ---
 
-# 📡 03/09 — Radar de Oportunidades
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana2-radar-oportunidades"></a>
+
+<details>
+<summary><strong>📡 03/09 — Radar de Oportunidades</strong></summary>
+
+<br>
+
 
 ### 🎯 O que foi proposto
 
@@ -1785,7 +2030,18 @@ O objetivo era formular **uma boa hipótese**.
 
 ---
 
-# 🌱 03/09 — Compartilhando oportunidades
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana2-compartilhando-oportunidades"></a>
+
+<details>
+<summary><strong>🌱 03/09 — Compartilhando oportunidades</strong></summary>
+
+<br>
+
 
 ### 🎯 O que foi proposto
 
@@ -1813,7 +2069,18 @@ A proposta incentivava divulgar a oportunidade para:
 
 ---
 
-# 📱 04/09 — Conteúdo para estudantes
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana2-conteudo-estudantes"></a>
+
+<details>
+<summary><strong>📱 04/09 — Conteúdo para estudantes</strong></summary>
+
+<br>
+
 
 ### 🎯 O que foi proposto
 
@@ -1844,7 +2111,18 @@ Criar um **vídeo curto** mostrando:
 
 ---
 
-# 💻 04/09 — Sessão Gemini #02: Canvas + Bases de Dados
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana2-canvas-bases"></a>
+
+<details>
+<summary><strong>💻 04/09 — Sessão Gemini #02: Canvas + Bases de Dados</strong></summary>
+
+<br>
+
 
 ### ⭐ 20 pontos pela participação ao vivo
 
@@ -1908,7 +2186,18 @@ A ideia era mostrar como dados que inicialmente estão separados podem se transf
 
 ---
 
-# 🎙️ 04/09 — Ação de Impacto: Do Campo ao Conteúdo
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana2-campo-conteudo"></a>
+
+<details>
+<summary><strong>🎙️ 04/09 — Ação de Impacto: Do Campo ao Conteúdo</strong></summary>
+
+<br>
+
 
 ### ⭐ 40 pontos
 
@@ -1996,7 +2285,18 @@ A entrega poderia ser:
 
 ---
 
-# 🏁 Retrospectiva — Semana 2
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana2-retrospectiva"></a>
+
+<details>
+<summary><strong>🏁 Retrospectiva — Semana 2</strong></summary>
+
+<br>
+
 
 ### Semana 1
 
@@ -2028,6 +2328,13 @@ TECNOLOGIA
 
 ---
 
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana-3"></a>
+
 # 🧠 SEMANA 3 — Aprendizagem visual e interativa
 
 ### 📅 08 a 11 de setembro de 2026
@@ -2036,7 +2343,26 @@ Nesta semana, a proposta foi explorar como Gemini pode ajudar a compreender cont
 
 ---
 
-# 💬 08/09 — Desafio #01: Onde está o seu desafio?
+## 🧭 Sumário da Semana 3
+
+| Data | Etapa |
+|---|---|
+| 08/09 | [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio) |
+| 09/09 | [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio) |
+| 10/09 | [🧩 Sessão Gemini #03 — Visualizações Interativas](#semana3-visualizacoes) |
+| 11/09 | [🎬 Ação de Impacto — Minha Semana em Vídeo](#semana3-video-omni) |
+
+> **Abra uma missão por vez** para acompanhar o processo completo sem perder a visão geral da semana.
+
+---
+
+<a id="semana3-onde-desafio"></a>
+
+<details>
+<summary><strong>💬 08/09 — Desafio #01: Onde está o seu desafio?</strong></summary>
+
+<br>
+
 
 ### ⭐ 25 pontos
 
@@ -2113,7 +2439,18 @@ Primeiro deveria ajudar a **delimitar o problema**.
 
 ---
 
-# 🎨 09/09 — Desafio #02: Transforme seu desafio
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana3-transforme-desafio"></a>
+
+<details>
+<summary><strong>🎨 09/09 — Desafio #02: Transforme seu desafio</strong></summary>
+
+<br>
+
 
 ### ⭐ 25 pontos
 
@@ -2259,7 +2596,18 @@ Apresentar o visual e conversar sobre como ele ajudou — ou não — na compree
 
 ---
 
-# 🧩 10/09 — Sessão Gemini #03: Visualizações Interativas
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana3-visualizacoes"></a>
+
+<details>
+<summary><strong>🧩 10/09 — Sessão Gemini #03: Visualizações Interativas</strong></summary>
+
+<br>
+
 
 ### ⭐ 20 pontos pela participação ao vivo
 
@@ -2300,7 +2648,18 @@ Depois de trabalhar com representações estáticas, a sessão explorou o que mu
 
 ---
 
-# 🎬 11/09 — Ação de Impacto: Minha Semana em Vídeo com Gemini Omni
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="semana3-video-omni"></a>
+
+<details>
+<summary><strong>🎬 11/09 — Ação de Impacto: Minha Semana em Vídeo com Gemini Omni</strong></summary>
+
+<br>
+
 
 ### ⭐ 40 pontos
 
@@ -2418,6 +2777,13 @@ Compartilhar em uma rede de vídeo, como:
 
 ---
 
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+---
+<a id="laboratorio-gemini"></a>
+
 # 🧪 Laboratório Gemini
 
 Alguns experimentos começam como uma atividade simples e continuam crescendo depois.
@@ -2433,6 +2799,8 @@ Alguns experimentos começam como uma atividade simples e continuam crescendo de
 | `[data]` | Vídeo | `[Adicionar]` | Gemini Omni | 🔄 | `[Adicionar]` |
 
 ---
+
+<a id="evolucao-prompts"></a>
 
 # 💬 Evolução dos Prompts
 
@@ -2537,6 +2905,8 @@ Monte um plano de estudos para mim.
 
 ---
 
+<a id="conteudos-publicacoes"></a>
+
 # 🎥 Conteúdos e Publicações
 
 | Data | Conteúdo | Origem | Plataforma | Link |
@@ -2548,6 +2918,8 @@ Monte um plano de estudos para mim.
 | `[data]` | Minha Semana em Vídeo | Semana 3 | `[Rede]` | `[Assistir]` |
 
 ---
+
+<a id="galeria"></a>
 
 # 🖼️ Galeria da Jornada
 
@@ -2564,6 +2936,8 @@ Monte um plano de estudos para mim.
 </p>
 
 ---
+
+<a id="minha-evolucao"></a>
 
 # 📈 Minha Evolução
 
@@ -2599,6 +2973,8 @@ Monte um plano de estudos para mim.
 
 ---
 
+<a id="marcos"></a>
+
 # 🏆 Marcos da Jornada
 
 - [x] 🌱 Entrada na comunidade
@@ -2625,6 +3001,8 @@ Monte um plano de estudos para mim.
 - [ ] 🚀 Próxima missão...
 
 ---
+
+<a id="jornada-numeros"></a>
 
 # 📊 Jornada em números
 
@@ -2668,6 +3046,8 @@ Mas:
 > **“Eu fiz, analisei, aprendi, testei de novo e melhorei.”**
 
 ---
+
+<a id="modelo-atividades"></a>
 
 # 📝 Modelo das próximas atividades
 
