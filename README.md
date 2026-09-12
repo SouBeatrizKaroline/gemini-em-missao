@@ -961,15 +961,26 @@ E isso combinava bastante com a missão que estava apenas começando:
 
 # 🧠 25/08 — Desafio #01: Auditoria de Prompt
 
+**Semana:** 01 — Meu Jeito de Trabalhar com IA  
+**Etapa:** 🛠️ APRENDER  
+**Tipo:** 🎯 Desafio oficial  
+**Status:** ✅ Concluído
+
 ### 🎯 O que foi proposto
 
-Analisar um prompt simples da rotina de estudos:
+Depois da preparação para a primeira semana, chegou o primeiro desafio prático.
+
+A comunidade recebeu exatamente o mesmo ponto de partida: um prompt simples e bastante comum na rotina de estudos:
 
 > **“Tenho uma prova na sexta-feira. Monte um plano de estudos para mim.”**
 
-A pergunta central era:
+A partir dele, cada participante deveria assumir o papel de **Auditor(a) de Prompts** e responder:
 
-> **Se esse prompt fosse meu, o que eu mudaria para receber uma resposta muito melhor?**
+> **Se esse prompt fosse seu, o que você mudaria para receber uma resposta muito melhor?**
+
+O objetivo não era encontrar uma única resposta correta, mas observar **quantas formas diferentes a comunidade conseguiria encontrar para melhorar o mesmo pedido**.
+
+---
 
 ### 📋 Como fazer
 
@@ -977,55 +988,272 @@ Era possível:
 
 - acrescentar informações;
 - contextualizar a prova;
-- informar conteúdos;
-- adicionar disponibilidade;
-- criar regras;
+- informar conteúdos e referências;
+- incluir disponibilidade;
+- criar regras e restrições;
 - mudar a estrutura;
-- pedir perguntas antes da resposta;
-- adicionar alguma estratégia própria;
-- reconstruir o prompt inteiro.
+- fazer novas perguntas;
+- adicionar estratégias já utilizadas;
+- ou reconstruir completamente o prompt.
 
-Depois era necessário:
+Depois, era necessário criar uma versão aprimorada e compartilhá-la no formato:
 
-1. criar uma versão melhorada;
-2. compartilhar a versão;
-3. explicar rapidamente **o que foi alterado e por quê**.
+> 💬 **EU MELHORARIA O PROMPT…**  
+> contando rapidamente o que havia sido alterado ou qual estratégia havia sido utilizada.
 
 Não existia um único gabarito.
 
-O objetivo era comparar diferentes maneiras de pensar ao trabalhar com IA.
+A proposta era justamente comparar diferentes maneiras de pensar e trabalhar com IA.
 
 ---
 
 ## 🚀 O que eu fiz
 
-### 💬 Minha resposta
+Minha primeira percepção foi que **não existe necessariamente um “prompt perfeito” isolado do contexto**.
 
-> `[A resposta da Beatriz para esse desafio ainda não apareceu no trecho recebido. Quando vier, será colocada aqui integralmente.]`
+A qualidade da resposta dependeria das informações que eu conseguisse fornecer sobre a prova, minha rotina, minhas preferências e os materiais disponíveis.
+
+### 💬 Minha resposta — #01
+
+<details>
+<summary><strong>💬 Ver minha resposta original</strong></summary>
+
+> Acho que dependeria do contexto, e também do quanto eu estivesse conseguindo organizar o que gostaria, quanto mais detalhes do que quero, mais precisa está é, porém para começar de maneira simplificada.
+>
+> Enviaria o print da minha agenda da semana e da grade curricular e do que mais achasse relevante
+>
+> Sendo meu professor particular da materia de [especificar] e sabendo que tenho uma prova na sexta-feira desta, onde irá ser sobre [assunto], conforme meu cronograma e disponibilidade e sem afetar meu tempo de sono, sabendo que estamos usando as referências [indicar quais], faça um cronograma de estudo completo para que eu estudei até a quinta antes da prova. Tenho preferência por estudos [especificar metodo, longo ou curto e afins].
+
+</details>
+
+---
 
 ### ✨ Meu prompt aprimorado
 
+A estrutura que propus foi:
+
 ```text
-[Adicionar prompt real]
+Sendo meu professor particular da matéria de [especificar] e sabendo que tenho uma prova na sexta-feira desta, onde irá ser sobre [assunto], conforme meu cronograma e disponibilidade e sem afetar meu tempo de sono, sabendo que estamos usando as referências [indicar quais], faça um cronograma de estudo completo para que eu estude até a quinta antes da prova.
+
+Tenho preferência por estudos [especificar método, longo ou curto e afins].
 ```
+
+Além do texto, eu também sugeri fornecer à IA materiais que ajudassem a entender melhor minha rotina e o contexto acadêmico, como:
+
+- 📅 minha agenda da semana;
+- 🎓 minha grade curricular;
+- 📚 referências utilizadas na disciplina;
+- 📝 conteúdo previsto para a prova;
+- ⏰ horários realmente disponíveis;
+- 😴 a restrição de não prejudicar meu tempo de sono;
+- 🧠 minhas preferências de estudo.
+
+---
 
 ### 🔎 O que mudei
 
-> `[Adicionar explicação real.]`
+O prompt original dizia apenas:
 
-### 🤖 Resultado
+> “Tenho uma prova na sexta-feira. Monte um plano de estudos para mim.”
 
-<img src="./img-003-semana1-auditoria-prompt.png" width="680" alt="Auditoria de Prompt">
+Para mim, faltavam informações essenciais.
+
+Por isso, acrescentei diferentes camadas de contexto:
+
+| Elemento | O que acrescentei | Por quê |
+|---|---|---|
+| 🎓 Papel | Professor particular | Dar um contexto para a forma de orientação |
+| 📚 Disciplina | Matéria específica | Evitar um planejamento genérico |
+| 📝 Conteúdo | Assuntos da prova | Direcionar o estudo |
+| 📖 Fontes | Referências utilizadas | Aproximar o plano do material real |
+| 📅 Agenda | Cronograma e disponibilidade | Criar um plano possível de executar |
+| 😴 Restrição | Não afetar meu sono | Evitar um cronograma irreal |
+| 🧠 Preferências | Meu método de estudo | Personalizar a estratégia |
+| 📎 Contexto adicional | Agenda, grade e outros materiais | Dar mais informações para a IA raciocinar sobre minha rotina |
+
+A principal mudança foi sair de:
+
+`pedido genérico`
+
+para:
+
+`contexto + objetivo + materiais + disponibilidade + restrições + preferências`
+
+---
+
+## 💡 Uma segunda estratégia que sugeri
+
+Depois da primeira resposta, acrescentei outra possibilidade: **usar a própria IA para ajudar a melhorar o prompt antes de executar a tarefa principal**.
+
+### 💬 Minha resposta — #02
+
+<details>
+<summary><strong>💬 Ver minha segunda contribuição</strong></summary>
+
+> Uma coisa é pedir a própria IA para estruturar e melhorar o prompt antes, principalmente no início, se eu não usasse ela, poderia ajudar, pois cada IA atende melhor por formulações diferentes
+
+</details>
+
+Essa ideia adicionava uma etapa anterior ao processo:
+
+`ideia inicial` → `IA ajuda a estruturar o prompt` → `revisão` → `prompt aprimorado` → `execução`
+
+Em vez de depender apenas de saber escrever um prompt avançado desde o início, a própria IA poderia funcionar como uma parceira na estruturação da solicitação.
+
+---
+
+## 🔥 Aprendendo com a comunidade
+
+Depois que todos trabalharam sobre o mesmo prompt, surgiu uma segunda parte do desafio.
+
+A orientação foi procurar entre as respostas dos outros participantes uma técnica, melhoria ou estratégia que eu gostaria de incorporar aos meus próximos prompts.
+
+Depois de escolher uma contribuição, era necessário completar:
+
+> 💡 **VOU USAR ESSA DICA PORQUE…**
+
+### 💬 Minha resposta — #03
+
+<details>
+<summary><strong>🔥 A dica que escolhi levar comigo</strong></summary>
+
+> Eu usaria essa dica, para entender melhor o funcionamento de markdowns na IA, pois não é algo que costumo utilizar tanto e dependendo da IA pode realmente funcionar bem
+
+</details>
+
+### 💡 O que levei dos outros participantes
+
+Escolhi explorar melhor o uso de **Markdown na interação com modelos de IA**.
+
+Até aquele momento, não era algo que eu costumava utilizar tanto na estruturação dos meus prompts.
+
+A contribuição de outra pessoa me chamou atenção para a possibilidade de utilizar elementos como:
+
+```markdown
+# Contexto
+
+## Objetivo
+
+### Restrições
+
+- Disponibilidade
+- Conteúdo
+- Prazo
+- Preferências
+
+## Formato esperado
+```
+
+como uma forma de tornar solicitações maiores mais organizadas e facilitar a separação das instruções.
+
+---
 
 ### 🧠 O que aprendi
 
-> `[Adicionar]`
+O desafio reforçou algo que eu já percebia no uso cotidiano de IA: **quanto mais contexto relevante eu consigo fornecer, menor a necessidade de a IA preencher lacunas por conta própria**.
+
+Mas também trouxe um aprendizado novo.
+
+Como todas as pessoas começaram exatamente com o mesmo prompt, ficou muito evidente que existem várias maneiras de chegar a uma solicitação melhor.
+
+Algumas pessoas acrescentaram contexto. Outras trabalharam a estrutura. Outras utilizaram técnicas que eu ainda não costumava aplicar.
+
+Foi justamente essa comparação que tornou o exercício interessante.
+
+> **Melhorar prompts não é apenas aprender uma fórmula. É desenvolver repertório para decidir quais informações, estruturas e restrições fazem sentido para cada problema.**
+
+Também saí do desafio querendo experimentar mais o **Markdown como ferramenta de estruturação de prompts**.
+
+---
 
 ### 📈 Como eu faria hoje
 
+Hoje eu manteria a ideia central da minha resposta original — fornecer contexto real sobre minha rotina — mas acrescentaria uma etapa de diagnóstico antes de pedir o cronograma definitivo.
+
+Por exemplo:
+
 ```text
-[Adicionar futuramente uma nova versão do mesmo prompt]
+# Papel
+
+Atue como meu professor particular e orientador de estudos para [DISCIPLINA].
+
+# Contexto
+
+Tenho uma prova na sexta-feira sobre:
+
+[CONTEÚDOS]
+
+As principais referências utilizadas são:
+
+[REFERÊNCIAS]
+
+Também fornecerei minha agenda da semana, minha grade curricular e os materiais que considerar relevantes.
+
+# Restrições
+
+- O planejamento deve terminar na quinta-feira.
+- Não reduza meu tempo habitual de sono.
+- Considere apenas os horários realmente disponíveis na minha agenda.
+- Minha preferência de estudo é [MÉTODO/PREFERÊNCIA].
+- Priorize os conteúdos em que eu demonstrar maior dificuldade.
+
+# Antes de criar o cronograma
+
+Analise as informações fornecidas e identifique o que ainda está faltando para montar um plano realmente personalizado.
+
+Faça apenas as perguntas necessárias para preencher essas lacunas.
+
+Depois das minhas respostas:
+
+1. identifique os conteúdos prioritários;
+2. distribua os estudos de acordo com minha disponibilidade;
+3. inclua momentos de revisão e recuperação;
+4. indique objetivos concretos para cada bloco;
+5. reserve um momento final de revisão antes da prova.
+
+# Formato da resposta
+
+Apresente:
+
+1. um resumo da estratégia;
+2. uma tabela com dia, horário, conteúdo, objetivo e método;
+3. pontos de atenção;
+4. uma checklist final para acompanhar meu progresso.
 ```
+
+### 🔄 Evolução do meu raciocínio
+
+Comparando as duas versões, minha lógica evoluiu de:
+
+**2026 — resposta original**
+
+`dar mais contexto → pedir um cronograma melhor`
+
+para:
+
+**releitura posterior**
+
+`dar contexto → identificar lacunas → perguntar → priorizar → planejar → acompanhar`
+
+A ideia principal continua a mesma, mas hoje eu daria mais espaço para a IA **entender o problema antes de tentar resolvê-lo**.
+
+---
+
+### 🖼️ Evidência
+
+<p align="center">
+  <img
+    src="./semana01-entrega02-desafio01-auditoria-prompt.png"
+    width="680"
+    alt="Desafio de Auditoria de Prompt da Semana 1"
+  >
+</p>
+
+---
+
+### 🐾 Principal aprendizado da missão
+
+> **Um bom prompt não precisa nascer pronto. Ele pode ser construído em diálogo, ganhar contexto, incorporar técnicas de outras pessoas e melhorar conforme entendemos melhor o problema que queremos resolver.**
 
 ---
 
