@@ -14,8 +14,13 @@
 
 </div>
 
+<br>
+
+<div align="center">
+      
 # 🐱✨ Gemini em Missão
 
+</div>
 <div align="center">
 
 ### Minha jornada como Embaixadora Estudantil do Google 2026
