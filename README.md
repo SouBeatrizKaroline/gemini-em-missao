@@ -1260,39 +1260,64 @@ Depois de escolher uma contribuição, era necessário completar:
 
 > 💡 **VOU USAR ESSA DICA PORQUE…**
 
+Eu concluí essa etapa escolhendo **o prompt de uma colega** que utilizava Markdown, definição de formato de saída, restrições e a própria GenIA como apoio para melhorar o prompt.
+
+### 👥 Contribuição que escolhi
+
+> 🔐 **Privacidade:** a identificação da colega não é reproduzida neste README. O conteúdo da contribuição é mantido porque faz parte do aprendizado da atividade.
+
+<details>
+<summary><strong>💬 Ver a contribuição e o prompt da colega</strong></summary>
+
+> 💬 **EU MELHORARIA O PROMPT…**
+>
+> Primeiro usaria markdowns, pois já ouvi falar que a IA responde melhor a esse estilo de prompt, além de especificar o formato de saída que eu desejo para que a resposta seja algo que eu consiga entender, além de colocar restrições, como por exemplo não buscar informações em certo site. Além de pedir para a própria GenIA, melhorar o prompt para mim.
+>
+> **PROMPT:**
+
+```text
+Atue como um tutor acadêmico e monte um plano de estudos intensivo para uma prova que farei nesta sexta-feira.
+
+Contexto
+Matéria / Tópicos: [Insira a matéria e os tópicos principais]
+Tempo disponível: [Ex: 2 horas por noite]
+Nível de conhecimento atual: [Ex: Básico / Intermediário / Revisão]
+
+Formato de Saída Desejado
+Apresente o cronograma organizado por dias (de hoje até quinta-feira).
+Use tabelas ou listas em tópicos com destaques em negrito para facilitar a leitura rápida e visual.
+Mantenha as explicações diretas, sem linguagem rebuscada ou acadêmica excessiva.
+
+Restrições
+Não utilize fontes ou conteúdos do site [Insira o site que deseja excluir, ex: Wikipedia / site X].
+Não sobrecarregue a véspera da prova (quinta-feira); foque apenas em revisão leve e descanso.
+Evite introduções longas ou textos teóricos; vá direto ao plano de ação diário.
+```
+
+</details>
+
 ### 💬 Minha resposta — #03
 
 <details>
-<summary><strong>🔥 A dica que escolhi levar comigo</strong></summary>
+<summary><strong>🔥 Por que escolhi essa dica</strong></summary>
 
 > Eu usaria essa dica, para entender melhor o funcionamento de markdowns na IA, pois não é algo que costumo utilizar tanto e dependendo da IA pode realmente funcionar bem
 
 </details>
 
-### 💡 O que levei dos outros participantes
+### 💡 O que levei dessa contribuição
 
-Escolhi explorar melhor o uso de **Markdown na interação com modelos de IA**.
+O que mais me chamou atenção foi que o prompt da colega não melhorava apenas o **conteúdo do pedido**. Ele também organizava a maneira como a solicitação seria interpretada e como a resposta deveria ser entregue.
 
-Até aquele momento, não era algo que eu costumava utilizar tanto na estruturação dos meus prompts.
+| Elemento | O que aparecia no prompt |
+|---|---|
+| 🧱 **Markdown / estrutura** | Separação entre contexto, formato de saída e restrições |
+| 🎯 **Contexto** | Matéria, tópicos, tempo disponível e nível de conhecimento |
+| 🖥️ **Formato de saída** | Cronograma por dias, tabelas ou listas e leitura visual |
+| 🚧 **Restrições** | Exclusão de fontes, carga leve na véspera e resposta direta |
+| 🤖 **Meta-prompting** | Uso da própria GenIA para ajudar a melhorar o prompt |
 
-A contribuição de outra pessoa me chamou atenção para a possibilidade de utilizar elementos como:
-
-```markdown
-# Contexto
-
-## Objetivo
-
-### Restrições
-
-- Disponibilidade
-- Conteúdo
-- Prazo
-- Preferências
-
-## Formato esperado
-```
-
-como uma forma de tornar solicitações maiores mais organizadas e facilitar a separação das instruções.
+Essa etapa foi importante porque me permitiu comparar minha forma de construir prompts com a de outra participante e identificar uma técnica concreta que eu realmente queria testar depois.
 
 ---
 
@@ -1419,7 +1444,7 @@ A ideia principal continua a mesma, mas hoje eu daria mais espaço para a IA **e
 
 **Semana:** 01 — Meu jeito de trabalhar com IA  
 **Tipo:** 🧪 Exploração  
-**Status:** 📝 Registro parcial
+**Status:** ✅ Concluído
 
 ### 🎯 O que foi apresentado
 
@@ -1434,11 +1459,11 @@ Explorar possibilidades ampliadas do ecossistema Gemini para:
 - experimentos com IA;
 - prototipagem.
 
-### 🧠 Registro atual
+### 🧠 Registro disponível
 
-Esta parte da semana ainda não tem, no material recuperado, uma entrega individual específica que possa ser documentada com fidelidade.
+A atividade foi **concluída**. No entanto, o material recuperado até aqui não contém uma entrega individual específica dessa exploração com detalhes suficientes para reproduzi-la com fidelidade.
 
-Por isso, mantive somente o que foi efetivamente apresentado e retirei prompts, imagens e resultados fictícios.
+Por isso, o README registra a conclusão da atividade e mantém somente as informações que estão confirmadas, sem inventar prompts, imagens ou resultados que não foram recuperados.
 
 ---
 
