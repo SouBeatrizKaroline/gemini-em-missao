@@ -907,11 +907,8 @@ Isso também tornou o Chibi uma forma divertida de criar:
 
 <div align="center">
 
-<img
-  src="./semana01-entrega01-iniciativa01-mascote-chibi.png"
-  width="480"
-  alt="Chibi, mascote escolhido pelo Team 03 durante o Programa de Embaixadores Estudantis do Google"
-/>
+
+<img src="chibi-01.png" width="720" alt="Chibi, mascote escolhido pelo Team 03 durante o Programa de Embaixadores Estudantis do Google">
 
 <br><br>
 
@@ -928,15 +925,7 @@ Além da identidade principal, criei diferentes versões e figurinhas do persona
 
 <div align="center">
 
-<img src="chibi-01.png" width="180" alt="Figurinha do Chibi 01">
 <img src="chibi-02.png" width="180" alt="Figurinha do Chibi 02">
-<img src="chibi-03.png" width="180" alt="Figurinha do Chibi 03">
-
-<br>
-
-<img src="chibi-04.png" width="180" alt="Figurinha do Chibi 04">
-<img src="chibi-05.png" width="180" alt="Figurinha do Chibi 05">
-<img src="chibi-06.png" width="180" alt="Figurinha do Chibi 06">
 
 </div>
 
