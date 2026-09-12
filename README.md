@@ -2460,7 +2460,7 @@ por exemplo...
 ## ✨ Resultado — Chibi e o Novelo do Raciocínio
 
 <p align="center">
-  <img src="./semana03-entrega01-desafio02-chibi-novelo-raciocinio.jpeg"
+  <img src="semana03-entrega01-desafio02-transforme-seu-desafio.png"
        width="900"
        alt="Chibi e o Novelo do Raciocínio — representação visual criada para o Desafio #02 da Semana 3">
 </p>
