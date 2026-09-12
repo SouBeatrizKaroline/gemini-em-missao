@@ -156,7 +156,7 @@ Nem toda atividade precisa conter todas essas partes. O README prioriza **fideli
 - [🧠 Semana 3 — Aprendizagem visual e interativa](#semana-3)
   - [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio)
   - [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio)
-  - [🧩 Sessão Gemini #03 — Visualizações Interativas](#semana3-visualizacoes)
+  - [🧩 Sessão Gemini #03 — Gemini Canvas no dia a dia](#semana3-visualizacoes)
   - [🎬 Ação de Impacto — Minha Semana em Vídeo](#semana3-video-omni)
 - [💬 Evolução dos Prompts](#evolucao-prompts)
 - [🎥 Conteúdos e Projetos Públicos](#conteudos-publicacoes)
@@ -188,7 +188,7 @@ Nem toda atividade precisa conter todas essas partes. O README prioriza **fideli
 | 04/09/2026 | Semana 2 | Do Campo ao Conteúdo | 🎙️ Impacto | ✅ |
 | 08/09/2026 | Semana 3 | Onde está o seu desafio? | 💬 Desafio | ✅ |
 | 09/09/2026 | Semana 3 | Transforme seu desafio | 🎨 Desafio | ✅ |
-| 10/09/2026 | Semana 3 | Visualizações Interativas | 🧩 Sessão | 📝 A documentar |
+| 10/09/2026 | Semana 3 | Gemini Canvas no dia a dia | 🧩 Sessão | ✅ participação |
 | 11/09/2026 | Semana 3 | Minha Semana em Vídeo | 🎬 Impacto | 📝 A documentar |
 | Em breve | Próxima etapa | Nova missão... | 🚀 | ⏳ |
 
@@ -2157,7 +2157,7 @@ Nesta semana, a proposta foi explorar como Gemini pode ajudar a compreender cont
 |---|---|:---:|
 | 08/09 | [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio) | ✅ |
 | 09/09 | [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio) | ✅ |
-| 10/09 | [🧩 Sessão Gemini #03 — Visualizações Interativas](#semana3-visualizacoes) | 📝 |
+| 10/09 | [🧩 Sessão Gemini #03 — Gemini Canvas no dia a dia](#semana3-visualizacoes) | ✅ |
 | 11/09 | [🎬 Ação de Impacto — Minha Semana em Vídeo](#semana3-video-omni) | 📝 |
 
 ---
@@ -2530,30 +2530,266 @@ Também gostei de transformar o exercício em algo mais leve e memorável com o 
 <a id="semana3-visualizacoes"></a>
 
 <details>
-<summary><strong>🧩 10/09 — Sessão Gemini #03: Visualizações Interativas</strong></summary>
+<summary><strong>🧩 10/09 — Sessão Gemini #03: Gemini Canvas no dia a dia</strong></summary>
 
 <br>
 
 **Semana:** 03 — Aprendizagem visual e interativa  
 **Tipo:** 🎓 Sessão Gemini  
-**Status:** 📝 A documentar
+**Status:** ✅ Participação registrada
 
-### 🎯 O que foi proposto
+### 🎯 O que foi explorado
 
-Depois de trabalhar com representações estáticas, a sessão explorou o que muda quando uma representação pode ser:
+A terceira Sessão Gemini ampliou o olhar sobre o **Gemini Canvas** e mostrou que ele pode ser utilizado em contextos muito diferentes — não apenas para criar uma aplicação ou uma representação visual específica.
 
-- explorada;
-- manipulada;
-- simulada;
-- testada;
-- modificada;
-- utilizada de forma interativa.
+A proposta foi explorar o Canvas como um espaço de construção que pode acompanhar diferentes necessidades do cotidiano.
 
-### 📝 Registro atual
+Entre as possibilidades apresentadas estavam usos para:
 
-O enunciado da sessão está preservado, mas ainda não recuperei de forma confiável minha resposta pós-sessão, experimento ou prompt.
+- 📚 estudar;
+- 🔎 aprofundar um assunto;
+- 🧠 organizar conhecimentos;
+- 💭 desenvolver uma ideia;
+- 📝 estruturar conteúdos;
+- 🏠 trabalhar em algo pessoal;
+- 💻 criar e experimentar projetos;
+- 🔄 refinar algo ao longo de várias interações;
+- 📊 transformar informações em formatos mais organizados;
+- ✨ explorar novas formas de aprender, criar e resolver tarefas do dia a dia.
 
-Nenhuma imagem é exibida enquanto a evidência real não for recuperada.
+---
+
+## 💡 Uma ferramenta, diferentes contextos
+
+Uma das ideias que mais ficaram da sessão foi perceber que o Canvas não precisa estar associado a um único tipo de tarefa.
+
+Ele pode começar a partir de necessidades muito diferentes.
+
+### 📚 Estudo
+
+```text
+ESTUDO
+   ↓
+aprofundar um conteúdo
+   ↓
+organizar conceitos
+   ↓
+explorar outra explicação
+   ↓
+refinar a compreensão
+```
+
+### 🏠 Vida pessoal
+
+```text
+VIDA PESSOAL
+   ↓
+organizar uma ideia
+   ↓
+planejar algo
+   ↓
+estruturar informações
+```
+
+### 💻 Projetos
+
+```text
+PROJETOS
+   ↓
+explorar possibilidades
+   ↓
+criar uma primeira versão
+   ↓
+testar
+   ↓
+ajustar
+   ↓
+refinar
+```
+
+### 🔄 Dia a dia
+
+```text
+DIA A DIA
+   ↓
+pegar algo que está disperso
+   ↓
+organizar
+   ↓
+transformar
+   ↓
+continuar trabalhando em cima
+```
+
+Isso tornou o Canvas menos uma ferramenta com uma função única e mais um **ambiente no qual uma ideia pode evoluir**.
+
+---
+
+## 📚 Canvas para estudar
+
+No contexto de aprendizagem, o Canvas pode ajudar a transformar um assunto em algo que possa ser trabalhado de outras formas.
+
+Por exemplo:
+
+- organizar um tema em partes;
+- aprofundar conceitos;
+- comparar informações;
+- explorar relações entre ideias;
+- estruturar uma linha de raciocínio;
+- transformar conteúdos em esquemas;
+- desenvolver materiais de apoio;
+- continuar refinando uma explicação conforme novas dúvidas aparecem.
+
+Essa possibilidade se conectou diretamente com os desafios da própria Semana 3.
+
+Depois de pensar em como **visualizar e estruturar o raciocínio**, o Canvas aparece como mais um espaço no qual esse processo pode continuar acontecendo.
+
+---
+
+## 🔎 Canvas para se aprofundar
+
+Outro ponto importante foi perceber que não é necessário utilizar o Gemini apenas para receber uma resposta rápida.
+
+Um assunto pode começar simples e continuar sendo desenvolvido:
+
+```text
+PERGUNTA
+   ↓
+PRIMEIRA EXPLORAÇÃO
+   ↓
+NOVAS DÚVIDAS
+   ↓
+APROFUNDAMENTO
+   ↓
+REORGANIZAÇÃO
+   ↓
+NOVA VERSÃO
+```
+
+Nesse sentido, o Canvas pode servir como um espaço para **permanecer no problema por mais tempo**.
+
+Em vez de:
+
+> **perguntar → receber → encerrar**
+
+a lógica pode se aproximar de:
+
+> **explorar → construir → revisar → aprofundar → transformar**
+
+---
+
+## 🏠 Canvas para algo pessoal
+
+A sessão também ajudou a mostrar que esse tipo de uso não precisa ficar restrito à universidade ou ao trabalho.
+
+O Canvas também pode apoiar situações pessoais nas quais seja útil:
+
+- organizar pensamentos;
+- planejar;
+- comparar possibilidades;
+- estruturar informações;
+- transformar uma ideia em algo mais concreto;
+- desenvolver algo aos poucos.
+
+Isso amplia bastante a forma como eu enxergava a ferramenta.
+
+---
+
+## 💻 Canvas como espaço de construção
+
+Uma diferença que comecei a perceber foi entre utilizar o Gemini apenas como uma conversa e utilizar o Canvas como um espaço para **continuar trabalhando sobre aquilo que está sendo criado**.
+
+```text
+CHAT
+
+pergunta
+   ↓
+resposta
+```
+
+versus:
+
+```text
+CANVAS
+
+ideia
+   ↓
+primeira estrutura
+   ↓
+experimentação
+   ↓
+alterações
+   ↓
+aprofundamento
+   ↓
+refinamento
+   ↓
+nova versão
+```
+
+Não significa que um formato substitui o outro.
+
+São maneiras diferentes de interagir com a IA dependendo daquilo que quero fazer.
+
+---
+
+## 🔗 Conexão com as sessões anteriores
+
+Também comecei a perceber uma evolução entre as Sessões Gemini.
+
+### 📚 Sessão #01
+
+O foco estava em trabalhar melhor com **fontes, conteúdos e conhecimento estruturado**.
+
+### 💻 Sessão #02
+
+Foi meu primeiro contato mais direto com o **Canvas**, entendendo que uma resposta poderia começar a se transformar em algo construído.
+
+### 🧩 Sessão #03
+
+O olhar se ampliou para perceber **quantas situações diferentes poderiam utilizar esse espaço de construção**:
+
+```text
+ESTUDAR
+   +
+APROFUNDAR
+   +
+ORGANIZAR
+   +
+CRIAR
+   +
+EXPERIMENTAR
+   +
+USAR NO DIA A DIA
+        ↓
+GEMINI CANVAS
+```
+
+---
+
+## 🧠 O que aprendi
+
+O principal aprendizado desta sessão foi que uma mesma ferramenta pode assumir papéis diferentes dependendo do contexto.
+
+Não preciso pensar:
+
+> **“Para que serve o Canvas?”**
+
+como se existisse apenas uma resposta.
+
+Uma pergunta mais útil pode ser:
+
+> **“O que estou tentando compreender, organizar ou construir — e de que forma o Canvas pode me ajudar nesse processo?”**
+
+Isso também reforçou uma ideia que vem aparecendo ao longo da jornada:
+
+> **a ferramenta não precisa definir o problema; o problema e o contexto ajudam a definir como a ferramenta será utilizada.**
+
+### 🐾 Principal aprendizado da sessão
+
+> **O Canvas pode ser menos um lugar para gerar uma coisa pronta e mais um espaço para desenvolver uma ideia — seja para estudar, se aprofundar, criar algo pessoal ou simplesmente organizar melhor alguma parte do dia a dia.**
+
+> 📌 Esta sessão foi registrada como experiência de aprendizagem. Não associei uma imagem específica porque, até o momento, não foi recuperada uma entrega visual individual ligada a ela.
 
 ---
 
@@ -2797,7 +3033,7 @@ Nesta tabela aparecem apenas links públicos já recuperados.
 - [x] 🎙️ Do Campo ao Conteúdo
 - [x] 💬 Onde está o seu desafio?
 - [x] 🎨 Transforme seu desafio
-- [ ] 🧩 Documentar Visualizações Interativas
+- [x] 🧩 Participação na Sessão Gemini #03 — Gemini Canvas
 - [ ] 🎬 Documentar Minha Semana em Vídeo
 - [ ] 🚀 Próxima missão...
 
