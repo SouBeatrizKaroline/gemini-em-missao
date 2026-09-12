@@ -1698,12 +1698,14 @@ Quero levar essas descobertas ainda mais longe, alcançando:
 ### 🖼️ Resultado visual
 
 <p align="center">
-  <img src="./img-007-semana2-mapa-impacto.png" width="720" alt="Meu Mapa de Impacto como Embaixadora Estudantil Google Gemini">
+  <img src="semana02-entrega01-desafio01-meu-mapa-de-impacto.png" width="720" alt="Meu Mapa de Impacto como Embaixadora Estudantil Google Gemini">
 </p>
 
 ### 🎬 Entrega #02 — A Jornada do Impacto
 
 Além da imagem, criei uma versão em vídeo acompanhada de uma pequena narrativa.
+
+https://github.com/user-attachments/assets/25e5edae-a93f-4704-bafc-ebf85e8558ab
 
 <details>
 <summary><strong>📖 Abrir a história — A Jornada do Impacto</strong></summary>
