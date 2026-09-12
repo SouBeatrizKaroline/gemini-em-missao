@@ -667,35 +667,102 @@ Além deste repositório, compartilho projetos, experimentos, conteúdos e parte
 
 # 🚀 21/08 — Encontro de lançamento
 
+**Semana:** 00 — Onboarding  
+**Tipo:** 🎓 Encontro de lançamento  
+**Status:** ✅ Participação registrada
+
 ### 🎯 O que foi proposto
 
-Participar do encontro que marcou oficialmente o início da jornada.
+Participar do encontro que marcou oficialmente o início da jornada como **Embaixadora Estudantil do Google**.
 
-Entre os temas apresentados para os meses seguintes estavam:
+O encontro apresentou a estrutura do programa, o papel dos embaixadores e alguns dos principais temas que seriam explorados durante os meses seguintes.
+
+Entre eles estavam:
 
 - 💼 carreira;
 - 📢 criação de conteúdo;
 - ⚡ produtividade;
 - 💻 IA e desenvolvimento;
-- 📚 pesquisa;
-- 🤖 Gemini;
+- 📚 pesquisa e estudos;
+- 🤖 ecossistema Gemini;
 - 🏅 portfólio e certificações;
 - 🌎 networking;
-- 🤝 liderança.
+- 🤝 liderança e comunidade.
+
+Também conhecemos melhor a dinâmica da jornada, que seria construída por meio de sessões, atividades, desafios e ações de impacto ao longo das semanas.
+
+---
 
 ### 🚀 O que eu fiz
 
-**Participação:** `[Adicionar]`
+Participei do encontro de lançamento e comecei a organizar como queria viver e documentar essa experiência.
+
+Mais do que acompanhar as atividades propostas, decidi transformar o programa em uma oportunidade para:
+
+- experimentar diferentes formas de utilizar IA;
+- registrar prompts, resultados e aprendizados;
+- transformar experiências em conteúdo;
+- compartilhar conhecimento com outras pessoas;
+- fortalecer meu portfólio;
+- criar conexões com estudantes de diferentes áreas;
+- observar minha própria evolução ao longo da jornada.
+
+Foi também a partir desse início que este repositório começou a ganhar uma função maior: não apenas guardar entregas, mas **documentar todo o processo**.
+
+---
 
 ### 💡 Principais insights
 
-1. `[Adicionar]`
-2. `[Adicionar]`
-3. `[Adicionar]`
+#### 1. Ser embaixadora vai além de conhecer uma ferramenta
+
+Uma das primeiras percepções foi que o papel de embaixadora não seria apenas aprender a utilizar o Gemini.
+
+Também envolveria **experimentar, compartilhar, ensinar, criar conteúdo e multiplicar conhecimento** dentro e fora da comunidade.
+
+---
+
+#### 2. A jornada seria construída pela prática
+
+O programa apresentou uma dinâmica baseada em atividades, desafios, sessões e ações de impacto.
+
+Isso reforçou para mim a ideia de que aprender IA não acontece apenas consumindo conteúdo.
+
+É preciso:
+
+`testar` → `errar` → `ajustar` → `entender` → `aplicar` → `compartilhar`
+
+---
+
+#### 3. Comunidade também fazia parte do aprendizado
+
+O lançamento reforçou algo que eu já tinha começado a perceber durante o onboarding: grande parte do valor da experiência estaria também nas pessoas.
+
+Cursos, conhecimentos, perspectivas e interesses diferentes poderiam gerar novas ideias, projetos e formas de utilizar tecnologia.
+
+Por isso, comecei a olhar para o programa como uma combinação de:
+
+**IA + aprendizado + comunidade + experimentação + impacto**
+
+---
 
 ### 📈 O que se tornou prática depois?
 
-> `[Adicionar.]`
+Algumas ideias apresentadas nesse início acabaram se tornando parte da forma como passei a viver o programa.
+
+Entre elas:
+
+- 📝 documentar minhas atividades e aprendizados;
+- 🤖 experimentar diferentes recursos do Gemini;
+- 🎨 utilizar IA também em processos criativos;
+- 📢 transformar aprendizados em conteúdo;
+- 🌐 compartilhar parte da jornada publicamente;
+- 🤝 buscar conexões e possibilidades de colaboração;
+- 🔍 refletir não apenas sobre o resultado, mas sobre o processo;
+- 📚 testar formas diferentes de utilizar IA para estudar e organizar conhecimento.
+
+Este próprio repositório é uma consequência dessa decisão.
+
+> **Em vez de guardar apenas as entregas finais, comecei a registrar também o caminho até elas.**
 
 ---
 
@@ -709,23 +776,197 @@ O primeiro ciclo oficial teve como foco observar **como cada pessoa já trabalha
 
 ---
 
-# 🛠️ 24/08 — Preparação
+# 🛠️ 24/08 — Preparação para a Semana 1
+
+**Semana:** 01  
+**Tema:** 🤖✨ Meu Jeito de Trabalhar com IA  
+**Tipo:** 🛠️ Preparação + 🎨 Construção de comunidade  
+**Status:** ✅ Concluído
 
 ### 🎯 O que precisava ser feito
 
-Antes das missões práticas, a orientação foi:
+Antes das primeiras missões práticas, a orientação era preparar o ambiente para o início da Semana 1.
 
-- revisar informações necessárias para a jornada;
+Entre os pontos dessa preparação estavam:
+
+- revisar as informações necessárias para a jornada;
 - organizar o ambiente;
 - garantir acesso aos recursos;
 - acompanhar o calendário;
-- preparar-se para a primeira sessão Gemini.
+- preparar-se para os primeiros desafios;
+- preparar-se para a primeira Sessão Gemini.
+
+---
+
+## ⚡ O que esperar da Semana 1
+
+A primeira semana oficial começou com uma missão maior conectando todas as atividades:
+
+> ## 🤖✨ MEU JEITO DE TRABALHAR COM IA
+
+A proposta era observar como cada pessoa já utilizava inteligência artificial, experimentar novas formas de trabalhar e estudar com o Gemini e, ao final da semana, avançar para o uso de conteúdos, referências e materiais de estudo em um ambiente estruturado de conhecimento.
+
+### 🗓️ Resumão da semana
+
+| Dia | Etapa | O que estava previsto |
+|---|---|---|
+| 💎 Segunda-feira | **PREPARAR** | Validar os dados e preparar a semana |
+| 🛠️ Terça-feira | **APRENDER** | Primeiro desafio prático da semana |
+| ⚡ Quarta-feira | **PREPARAR** | Orientações relacionadas aos recursos necessários para as próximas atividades |
+| 💼 Quinta-feira | **COMPARTILHAR** | Sacadas de uso do Gemini no cotidiano acadêmico e preparação para a sessão |
+| 📣 Sexta-feira | **APROFUNDAR E IMPACTAR** | Primeira Sessão Gemini, aprofundamento em Study Notebooks e novas atividades de compartilhamento |
+
+A lógica da semana começava a ficar clara:
+
+`PREPARAR` → `APRENDER` → `EXPERIMENTAR` → `COMPARTILHAR` → `APROFUNDAR` → `IMPACTAR`
+
+---
 
 ### 🚀 O que eu fiz
 
-- [ ] `[Adicionar]`
-- [ ] `[Adicionar]`
-- [ ] `[Adicionar]`
+Durante essa preparação:
+
+- [x] acompanhei as orientações e o calendário da primeira semana;
+- [x] organizei os próximos passos da jornada;
+- [x] acompanhei a preparação para os primeiros desafios;
+- [x] comecei a estruturar como registraria minhas experiências e aprendizados;
+- [x] participei das interações e construções coletivas do **Team 03**;
+- [x] contribuí para a construção da identidade visual do mascote escolhido pelo time;
+- [x] criei diferentes figurinhas do **Chibi** para serem utilizadas pelo grupo.
+
+---
+
+# 🐱🎨 Chibi — Construindo a identidade do Team 03
+
+Durante a preparação para a primeira semana, também aconteceu uma movimentação mais descontraída dentro do **Team 03**: a escolha de um mascote para representar o grupo.
+
+A proposta de termos um mascote começou a partir da iniciativa de outro colega. A ideia ganhou participação do grupo e acabou se transformando em uma votação.
+
+E o escolhido foi...
+
+<div align="center">
+
+## 🐱🎉 CHIBI! 🎉🐱
+
+**Mascote eleito pelo Team 03**
+
+</div>
+
+---
+
+### 🗳️ O resultado da votação
+
+A escolha foi anunciada de forma divertida, como se o Chibi tivesse acabado de vencer uma eleição:
+
+> 🗳️ **ATENÇÃO, ATENÇÃO! SAIU O RESULTADO DAS URNAS!** 🚨🐾
+>
+> Após uma votação histórica, com intensa campanha de fofura e propostas irresistíveis, o TEAM 03 anuncia o seu mascote eleito:
+>
+> 🐱🎉 **CHIBI!** 🎉🐱
+>
+> Com uma plataforma baseada em curiosidade, colaboração, criatividade e inovação, Chibi conquistou os votos e, principalmente, os corações do nosso time! 💙
+>
+> **Suas principais propostas de campanha:**
+>
+> ✅ Mais conhecimento compartilhado.  
+> ✅ Mais conexão entre estudantes.  
+> ✅ Mais criatividade e inovação.  
+> ✅ Mais inteligência artificial para transformar realidades.  
+> ✅ E, claro, muito mais fofura nessa jornada! 🐾
+>
+> A decisão foi democrática, a vitória foi merecida e o mandato começa agora! 🚀
+>
+> **CHIBI ELEITO! A escolha do TEAM 03!** 💙❤️💛💚
+>
+> `#EmbaixadoresEstudantisGoogle` `#Team03` `#ChibiEleito` `#ProtagonismoEstudantil` `#Inovação`
+
+---
+
+### 🎨 Minha contribuição
+
+Embora a proposta inicial de criação de um mascote tenha surgido a partir de outro integrante do grupo, minha principal contribuição aconteceu depois da escolha:
+
+> **transformar o Chibi em uma identidade visual que pudesse realmente ser utilizada pelo Team 03.**
+
+A partir do personagem escolhido coletivamente, trabalhei na construção visual do mascote e criei **diversas figurinhas do Chibi** para que ele pudesse aparecer nas conversas, interações e momentos da comunidade.
+
+O personagem deixou de ser apenas o vencedor de uma votação e começou a ganhar diferentes expressões e situações.
+
+Isso também tornou o Chibi uma forma divertida de criar:
+
+- 🐾 identidade para o Team 03;
+- 🎨 consistência visual;
+- 💬 figurinhas para comunicação;
+- 😺 expressões e reações para diferentes situações;
+- 🤝 sensação de pertencimento ao grupo;
+- 🚀 uma linguagem visual própria para acompanhar a jornada.
+
+---
+
+### 🖼️ Conheça o Chibi
+
+<div align="center">
+
+<img
+  src="./semana01-entrega01-iniciativa01-mascote-chibi.png"
+  width="480"
+  alt="Chibi, mascote escolhido pelo Team 03 durante o Programa de Embaixadores Estudantis do Google"
+/>
+
+<br><br>
+
+<strong>🐱 Chibi — Mascote do Team 03</strong><br>
+<em>Curiosidade • Colaboração • Criatividade • Inovação</em>
+
+</div>
+
+---
+
+### 😺 As figurinhas do Chibi
+
+Além da identidade principal, criei diferentes versões e figurinhas do personagem para que o mascote pudesse acompanhar as interações do grupo.
+
+<div align="center">
+
+<img src="chibi-01.png" width="180" alt="Figurinha do Chibi 01">
+<img src="chibi-02.png" width="180" alt="Figurinha do Chibi 02">
+<img src="chibi-03.png" width="180" alt="Figurinha do Chibi 03">
+
+<br>
+
+<img src="chibi-04.png" width="180" alt="Figurinha do Chibi 04">
+<img src="chibi-05.png" width="180" alt="Figurinha do Chibi 05">
+<img src="chibi-06.png" width="180" alt="Figurinha do Chibi 06">
+
+</div>
+
+> 🖼️ **Nota:** a galeria pode crescer conforme novas versões do Chibi forem recuperadas e adicionadas ao repositório.
+
+---
+
+### 🧠 O que aprendi
+
+Essa experiência mostrou que construir uma comunidade também passa por elementos que parecem pequenos.
+
+Um mascote, uma figurinha ou uma brincadeira interna podem ajudar a criar **identidade, pertencimento e uma linguagem compartilhada entre pessoas que ainda estão começando a se conhecer**.
+
+Também foi interessante participar de algo que nasceu de forma colaborativa: uma pessoa trouxe a ideia, o grupo participou da escolha e eu pude contribuir utilizando criatividade e design para transformar o personagem em algo que pudesse ser usado pela comunidade.
+
+> **Nem toda contribuição precisa começar com a ideia original. Às vezes, colaborar significa pegar uma boa ideia coletiva e usar aquilo que você sabe fazer para ajudá-la a ganhar forma.**
+
+---
+
+### 📈 Como isso evoluiu
+
+O Chibi não ficou restrito à votação.
+
+Com a criação da identidade visual e das figurinhas, o personagem começou a se tornar um elemento recorrente da experiência do grupo e também passou a representar visualmente valores que combinavam com aquela primeira semana:
+
+`curiosidade` → `experimentação` → `criatividade` → `colaboração` → `compartilhamento`
+
+E isso combinava bastante com a missão que estava apenas começando:
+
+> 🤖✨ **descobrir o nosso próprio jeito de trabalhar com IA.**
 
 ---
 
