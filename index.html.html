@@ -1,0 +1,1203 @@
+<!doctype html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Gemini em Missão — jornada de Beatriz Karoline como Embaixadora Estudantil do Google 2026." />
+  <title>Gemini em Missão 🐱✨</title>
+  <style>
+    :root{
+      --bg:#07101f;
+      --bg-2:#0b1730;
+      --card:rgba(12,26,51,.78);
+      --card-solid:#101f3d;
+      --text:#f7f9ff;
+      --muted:#aebbd6;
+      --line:rgba(255,255,255,.10);
+      --shadow:0 22px 70px rgba(0,0,0,.32);
+      --blue:#76a7ff;
+      --cyan:#6de3ff;
+      --violet:#b58cff;
+      --pink:#ff8ec7;
+      --yellow:#ffd66d;
+      --green:#7be7b5;
+      --danger:#ff8e9e;
+      --radius:26px;
+      --radius-sm:16px;
+      --max:1220px;
+    }
+    html[data-theme="light"]{
+      --bg:#f8fbff;
+      --bg-2:#eef5ff;
+      --card:rgba(255,255,255,.85);
+      --card-solid:#fff;
+      --text:#17223a;
+      --muted:#60708e;
+      --line:rgba(34,58,101,.12);
+      --shadow:0 20px 60px rgba(65,91,145,.14);
+      --blue:#326cff;
+      --cyan:#00a9d6;
+      --violet:#7a4ee6;
+      --pink:#d94c96;
+      --yellow:#b77a00;
+      --green:#13875e;
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{
+      margin:0;
+      color:var(--text);
+      background:
+        radial-gradient(circle at 10% 0%, rgba(118,167,255,.18), transparent 28%),
+        radial-gradient(circle at 88% 5%, rgba(181,140,255,.18), transparent 31%),
+        radial-gradient(circle at 45% 75%, rgba(109,227,255,.08), transparent 28%),
+        linear-gradient(180deg,var(--bg),var(--bg-2) 55%,var(--bg));
+      font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height:1.68;
+      min-height:100vh;
+      overflow-x:hidden;
+    }
+    body::before{
+      content:"";
+      position:fixed; inset:0;
+      pointer-events:none;
+      opacity:.18;
+      background-image:
+        radial-gradient(circle at 20% 30%, #fff 0 1px, transparent 1.4px),
+        radial-gradient(circle at 70% 25%, #fff 0 1px, transparent 1.4px),
+        radial-gradient(circle at 55% 65%, #fff 0 1px, transparent 1.4px);
+      background-size:160px 160px,230px 230px,290px 290px;
+      mask-image:linear-gradient(to bottom,black,transparent 82%);
+    }
+    a{color:inherit}
+    button,input{font:inherit}
+    .progress{
+      position:fixed; top:0; left:0; height:4px; width:0;
+      z-index:9999;
+      background:linear-gradient(90deg,var(--cyan),var(--blue),var(--violet),var(--pink));
+      box-shadow:0 0 24px rgba(109,227,255,.55);
+    }
+    .topbar{
+      position:sticky; top:0; z-index:120;
+      backdrop-filter:blur(18px);
+      background:color-mix(in srgb,var(--bg) 78%,transparent);
+      border-bottom:1px solid var(--line);
+    }
+    .topbar-inner{
+      max-width:var(--max); margin:auto; padding:12px 20px;
+      display:flex; gap:12px; align-items:center; justify-content:space-between;
+    }
+    .brand{
+      display:flex; align-items:center; gap:10px; font-weight:900; letter-spacing:-.02em;
+      text-decoration:none;
+    }
+    .brand-mark{
+      width:38px; height:38px; display:grid; place-items:center;
+      border-radius:14px;
+      background:linear-gradient(135deg,rgba(109,227,255,.25),rgba(181,140,255,.28),rgba(255,142,199,.22));
+      border:1px solid var(--line);
+      box-shadow:inset 0 1px rgba(255,255,255,.12);
+    }
+    .toolbar{display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end}
+    .icon-btn,.pill-btn{
+      border:1px solid var(--line);
+      color:var(--text);
+      background:color-mix(in srgb,var(--card-solid) 76%,transparent);
+      border-radius:999px;
+      min-height:40px;
+      cursor:pointer;
+      transition:.2s ease;
+    }
+    .icon-btn{width:42px; display:grid; place-items:center}
+    .pill-btn{padding:0 14px; display:flex; gap:8px; align-items:center; font-weight:800}
+    .icon-btn:hover,.pill-btn:hover{transform:translateY(-2px); border-color:color-mix(in srgb,var(--blue) 52%,var(--line));}
+    .hero{
+      max-width:var(--max); margin:0 auto; padding:84px 20px 48px;
+      display:grid; grid-template-columns:1.3fr .7fr; gap:34px; align-items:center;
+    }
+    .hero h1{
+      font-size:clamp(3.6rem,9vw,7.8rem);
+      line-height:.86; margin:0;
+      letter-spacing:-.075em;
+    }
+    .gradient-text{
+      background:linear-gradient(100deg,var(--cyan),var(--blue) 30%,var(--violet) 60%,var(--pink));
+      color:transparent; background-clip:text; -webkit-background-clip:text;
+    }
+    .hero-kicker{
+      display:inline-flex; align-items:center; gap:8px;
+      border:1px solid var(--line);
+      background:rgba(255,255,255,.05);
+      padding:8px 12px; border-radius:999px;
+      color:var(--muted); font-weight:800; margin-bottom:18px;
+    }
+    .hero p{font-size:clamp(1.05rem,2vw,1.28rem); color:var(--muted); max-width:760px}
+    .hero-actions{display:flex; flex-wrap:wrap; gap:12px; margin-top:26px}
+    .cta{
+      text-decoration:none; padding:13px 18px; border-radius:16px; font-weight:900;
+      border:1px solid var(--line); transition:.2s ease;
+      display:inline-flex; align-items:center; gap:8px;
+    }
+    .cta.primary{
+      color:#07101f; background:linear-gradient(110deg,var(--cyan),#a7d4ff,var(--violet));
+      border-color:transparent;
+    }
+    .cta:hover{transform:translateY(-3px); box-shadow:var(--shadow)}
+    .cat-orbit{
+      min-height:390px; position:relative; display:grid; place-items:center;
+    }
+    .orb{
+      width:min(330px,78vw); aspect-ratio:1; border-radius:50%;
+      background:
+        radial-gradient(circle at 35% 30%,rgba(255,255,255,.34),transparent 18%),
+        conic-gradient(from 210deg,var(--cyan),var(--blue),var(--violet),var(--pink),var(--yellow),var(--cyan));
+      padding:2px;
+      animation:float 5s ease-in-out infinite;
+      box-shadow:0 28px 90px rgba(87,123,255,.26);
+    }
+    .orb-inner{
+      width:100%; height:100%; border-radius:50%;
+      display:grid; place-items:center;
+      background:radial-gradient(circle at 50% 35%,#17305d,#09142b 68%);
+      border:10px solid color-mix(in srgb,var(--bg) 75%,transparent);
+      position:relative; overflow:hidden;
+    }
+    html[data-theme="light"] .orb-inner{background:radial-gradient(circle at 50% 30%,#ffffff,#dfeaff 70%)}
+    .cat-face{font-size:7.2rem; filter:drop-shadow(0 15px 20px rgba(0,0,0,.25));}
+    .mini-orbit{
+      position:absolute; display:grid; place-items:center;
+      width:54px; height:54px; border-radius:18px;
+      background:var(--card-solid); border:1px solid var(--line); box-shadow:var(--shadow);
+      font-size:1.6rem;
+    }
+    .o1{top:10%;left:5%;animation:float 4.2s ease-in-out infinite .4s}
+    .o2{top:19%;right:3%;animation:float 4.8s ease-in-out infinite .8s}
+    .o3{bottom:17%;left:2%;animation:float 4.5s ease-in-out infinite .2s}
+    .o4{bottom:9%;right:8%;animation:float 5.2s ease-in-out infinite 1.1s}
+    @keyframes float{50%{transform:translateY(-10px) rotate(1deg)}}
+    .layout{
+      max-width:var(--max); margin:auto; padding:0 20px 70px;
+      display:grid; grid-template-columns:280px minmax(0,1fr); gap:28px;
+    }
+    .sidebar{
+      position:sticky; top:78px; align-self:start; max-height:calc(100vh - 96px); overflow:auto;
+      padding:18px;
+      border:1px solid var(--line); background:var(--card);
+      backdrop-filter:blur(16px); border-radius:22px;
+      box-shadow:var(--shadow);
+    }
+    .sidebar h3{font-size:.86rem; text-transform:uppercase; letter-spacing:.12em; color:var(--muted); margin:0 0 10px}
+    .nav-link{
+      display:flex; gap:9px; align-items:center;
+      padding:9px 10px; border-radius:12px;
+      text-decoration:none; color:var(--muted); font-size:.92rem; font-weight:720;
+      margin:2px 0;
+    }
+    .nav-link:hover,.nav-link.active{background:rgba(118,167,255,.12); color:var(--text)}
+    .nav-link.active{box-shadow:inset 3px 0 var(--cyan)}
+    .side-progress{
+      height:8px; border-radius:999px; background:rgba(255,255,255,.07);
+      overflow:hidden; margin-top:14px;
+    }
+    .side-progress > span{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--cyan),var(--violet),var(--pink));transition:.3s}
+    .side-caption{font-size:.78rem;color:var(--muted);margin-top:8px}
+    main{min-width:0}
+    section{scroll-margin-top:92px; margin:0 0 34px}
+    .section-head{
+      display:flex; align-items:end; justify-content:space-between; gap:16px; margin:0 0 16px;
+    }
+    .section-head h2{font-size:clamp(2rem,5vw,3.4rem);line-height:1;margin:0;letter-spacing:-.04em}
+    .section-head p{color:var(--muted); margin:.6rem 0 0; max-width:800px}
+    .eyebrow{font-size:.78rem; font-weight:900; letter-spacing:.13em; text-transform:uppercase; color:var(--cyan)}
+    .grid{display:grid; grid-template-columns:repeat(12,minmax(0,1fr)); gap:16px}
+    .card{
+      grid-column:span 6;
+      border:1px solid var(--line);
+      background:var(--card);
+      backdrop-filter:blur(14px);
+      border-radius:var(--radius);
+      padding:22px;
+      box-shadow:var(--shadow);
+      position:relative; overflow:hidden;
+    }
+    .card::after{
+      content:""; position:absolute; width:150px; height:150px; border-radius:50%;
+      right:-80px; bottom:-80px;
+      background:radial-gradient(circle,rgba(181,140,255,.2),transparent 66%);
+      pointer-events:none;
+    }
+    .card.wide{grid-column:1/-1}
+    .card.third{grid-column:span 4}
+    .card h3{font-size:1.32rem;margin:.1rem 0 .5rem;letter-spacing:-.02em}
+    .card p{color:var(--muted)}
+    .tag-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
+    .tag{
+      display:inline-flex; align-items:center; gap:5px; padding:5px 9px;
+      border-radius:999px; border:1px solid var(--line); color:var(--muted);
+      background:rgba(255,255,255,.04); font-size:.77rem; font-weight:800;
+    }
+    .quote{
+      margin:16px 0; padding:16px 18px 16px 20px;
+      border-left:3px solid var(--violet);
+      background:linear-gradient(90deg,rgba(181,140,255,.1),transparent);
+      border-radius:0 16px 16px 0; color:var(--text);
+      font-weight:720;
+    }
+    .flow{
+      display:flex; gap:7px; flex-wrap:wrap; align-items:center; justify-content:center;
+      margin:16px 0;
+    }
+    .flow span{
+      padding:7px 10px; border:1px solid var(--line); border-radius:12px;
+      background:rgba(255,255,255,.04); font-weight:850; font-size:.86rem;
+    }
+    .flow b{color:var(--cyan)}
+    details.activity{
+      border:1px solid var(--line);
+      background:var(--card);
+      border-radius:var(--radius);
+      overflow:hidden;
+      margin:0 0 16px;
+      box-shadow:var(--shadow);
+    }
+    details.activity > summary{
+      cursor:pointer; list-style:none; padding:20px 22px;
+      display:flex; gap:12px; align-items:center; justify-content:space-between;
+      font-weight:930; font-size:1.08rem;
+    }
+    details.activity > summary::-webkit-details-marker{display:none}
+    .summary-title{display:flex;align-items:center;gap:10px}
+    .summary-meta{font-size:.75rem;color:var(--muted);font-weight:800}
+    .chev{transition:.25s}
+    details[open] .chev{transform:rotate(180deg)}
+    .activity-body{padding:0 22px 24px;border-top:1px solid var(--line)}
+    .activity-body h4{margin:22px 0 6px;font-size:1.04rem;color:var(--text)}
+    .activity-body p,.activity-body li{color:var(--muted)}
+    .activity-body strong{color:var(--text)}
+    .activity-body ul{padding-left:20px}
+    .response{
+      padding:16px 18px; border:1px solid var(--line); border-radius:18px;
+      background:rgba(255,255,255,.035); color:var(--muted); white-space:pre-line;
+      margin:12px 0;
+    }
+    .response strong{color:var(--text)}
+    pre{
+      overflow:auto; padding:16px;
+      border:1px solid var(--line); border-radius:18px;
+      background:#040b18; color:#dfe8ff;
+      font-size:.84rem; line-height:1.55;
+    }
+    html[data-theme="light"] pre{background:#12213f;color:#f3f7ff}
+    .media{
+      display:flex; flex-direction:column; align-items:center; justify-content:center;
+      text-align:center; gap:12px; margin:20px 0;
+      padding:20px; border:1px solid var(--line); border-radius:22px;
+      background:linear-gradient(145deg,rgba(109,227,255,.07),rgba(181,140,255,.07));
+    }
+    .media video{max-width:760px;width:100%;border-radius:18px;border:1px solid var(--line);background:#000}
+    .link-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;width:100%}
+    .link-card{
+      text-decoration:none; padding:14px; border:1px solid var(--line); border-radius:16px;
+      background:rgba(255,255,255,.035); font-weight:900; transition:.2s;
+    }
+    .link-card:hover{transform:translateY(-3px);background:rgba(118,167,255,.12)}
+    .timeline{position:relative;margin:20px 0 10px}
+    .timeline::before{
+      content:""; position:absolute; left:18px; top:7px; bottom:7px; width:2px;
+      background:linear-gradient(var(--cyan),var(--violet),var(--pink));
+      opacity:.7;
+    }
+    .t-item{position:relative;padding-left:54px;margin:0 0 17px}
+    .t-dot{
+      position:absolute;left:8px;top:2px;width:22px;height:22px;border-radius:50%;
+      border:4px solid var(--card-solid); background:var(--cyan); box-shadow:0 0 0 1px var(--line);
+    }
+    .t-item:nth-child(3n+2) .t-dot{background:var(--violet)}
+    .t-item:nth-child(3n) .t-dot{background:var(--pink)}
+    .t-item small{color:var(--muted);font-weight:800}
+    .t-item b{display:block;margin-top:2px}
+    .project{
+      text-decoration:none; display:block; min-height:180px; transition:.25s;
+    }
+    .project:hover{transform:translateY(-5px)}
+    .project .emoji{font-size:2.4rem}
+    .search-wrap{
+      display:flex; gap:10px; margin:0 0 22px; flex-wrap:wrap;
+    }
+    .search{
+      flex:1; min-width:240px; border:1px solid var(--line); color:var(--text);
+      background:var(--card); border-radius:16px; padding:12px 14px; outline:none;
+    }
+    .search:focus{border-color:var(--blue);box-shadow:0 0 0 4px rgba(118,167,255,.12)}
+    .counter{color:var(--muted);font-size:.86rem;margin-top:8px}
+    .hidden-by-search{display:none!important}
+    .milestones{
+      display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;
+    }
+    .mile{
+      display:flex;gap:10px;align-items:flex-start;padding:12px 13px;border-radius:15px;
+      background:rgba(255,255,255,.035);border:1px solid var(--line)
+    }
+    .mile i{font-style:normal}
+    .footer{
+      max-width:var(--max);margin:0 auto;padding:46px 20px 70px;text-align:center;color:var(--muted)
+    }
+    .footer h2{color:var(--text);font-size:clamp(2.4rem,7vw,5rem);line-height:.96;margin:.4rem 0 1rem}
+    .cat-toast{
+      position:fixed; right:18px; bottom:18px; z-index:300;
+      background:var(--card-solid); border:1px solid var(--line); box-shadow:var(--shadow);
+      border-radius:18px; padding:12px 14px; max-width:320px;
+      opacity:0; transform:translateY(15px); pointer-events:none; transition:.25s;
+    }
+    .cat-toast.show{opacity:1;transform:none}
+    .mobile-menu{display:none}
+    @media (max-width:980px){
+      .hero{grid-template-columns:1fr; padding-top:55px}
+      .cat-orbit{min-height:290px}
+      .orb{width:260px}
+      .layout{grid-template-columns:1fr}
+      .sidebar{display:none}
+      .mobile-menu{display:inline-grid}
+      .card,.card.third{grid-column:1/-1}
+    }
+    @media (max-width:680px){
+      .topbar-inner{padding:10px 14px}
+      .brand span:last-child{display:none}
+      .pill-btn span.label{display:none}
+      .hero{padding:48px 16px 36px}
+      .layout{padding:0 14px 55px}
+      .hero h1{font-size:3.7rem}
+      .link-grid{grid-template-columns:1fr}
+      .milestones{grid-template-columns:1fr}
+      .section-head{align-items:start;flex-direction:column}
+      details.activity > summary{align-items:flex-start}
+      .summary-meta{display:none}
+    }
+    @media (prefers-reduced-motion:reduce){
+      *,*::before,*::after{scroll-behavior:auto!important;animation:none!important;transition:none!important}
+    }
+  </style>
+</head>
+<body>
+  <div class="progress" id="progress"></div>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#inicio">
+        <span class="brand-mark">🐱</span>
+        <span>Gemini em Missão</span>
+      </a>
+      <div class="toolbar">
+        <button class="pill-btn" id="expandBtn" title="Abrir ou fechar todas as atividades">🧩 <span class="label">Abrir tudo</span></button>
+        <button class="icon-btn mobile-menu" id="menuBtn" title="Abrir navegação">☰</button>
+        <button class="icon-btn" id="catBtn" title="Mensagem do Batman">🐈‍⬛</button>
+        <button class="icon-btn" id="themeBtn" title="Alternar tema">☀️</button>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero" id="inicio">
+    <div>
+      <div class="hero-kicker">🐈‍⬛ Miau na área • Jornada 2026</div>
+      <h1><span class="gradient-text">Gemini</span><br>em Missão</h1>
+      <p><strong>Minha jornada como Embaixadora Estudantil do Google 2026.</strong> Um diário interativo sobre IA, aprendizado, comunidade, criação, experimentação e impacto — com Batman supervisionando tudo, obviamente.</p>
+      <div class="hero-actions">
+        <a class="cta primary" href="#jornada">🚀 Explorar jornada</a>
+        <a class="cta" href="#projetos">🤖 Ver projetos</a>
+        <a class="cta" href="https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/" target="_blank" rel="noopener">🌐 Portfólio Canvas</a>
+      </div>
+      <div class="tag-row">
+        <span class="tag">🤖 Gemini</span><span class="tag">🎓 Educação</span><span class="tag">💻 Tecnologia</span>
+        <span class="tag">🎨 Criatividade</span><span class="tag">🌎 Impacto</span><span class="tag">🧠 Aprendizado</span>
+      </div>
+    </div>
+    <div class="cat-orbit" aria-label="Ilustração decorativa com tema felino">
+      <div class="orb"><div class="orb-inner"><div class="cat-face">🐈‍⬛</div></div></div>
+      <div class="mini-orbit o1">🤖</div>
+      <div class="mini-orbit o2">🧶</div>
+      <div class="mini-orbit o3">💻</div>
+      <div class="mini-orbit o4">✨</div>
+    </div>
+  </section>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <h3>Navegação</h3>
+      <a class="nav-link" href="#sobre">🌟 Sobre</a>
+      <a class="nav-link" href="#jornada">🗺️ Linha do tempo</a>
+      <a class="nav-link" href="#onboarding">🌱 Onboarding</a>
+      <a class="nav-link" href="#semana1">🤖 Semana 1</a>
+      <a class="nav-link" href="#semana2">🌎 Semana 2</a>
+      <a class="nav-link" href="#semana3">🧠 Semana 3</a>
+      <a class="nav-link" href="#projetos">🚀 Projetos</a>
+      <a class="nav-link" href="#evolucao">📈 Evolução</a>
+      <a class="nav-link" href="#marcos">🏆 Marcos</a>
+      <div class="side-progress"><span id="sideProgress"></span></div>
+      <div class="side-caption" id="sideCaption">0% da página explorada</div>
+    </aside>
+
+    <main>
+      <section id="sobre">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">🌟 Sobre o projeto</div>
+            <h2>Um diário de bordo,<br><span class="gradient-text">não uma checklist.</span></h2>
+            <p>O foco é registrar o caminho: o que foi proposto, como interpretei, o que fiz, como usei IA e no que cada experiência se transformou.</p>
+          </div>
+        </div>
+
+        <div class="grid">
+          <article class="card third"><h3>🎯 O que foi proposto</h3><p>As missões, sessões, desafios e ações de impacto da jornada.</p></article>
+          <article class="card third"><h3>🚀 O que eu fiz</h3><p>Minhas respostas, decisões, experimentos e criações reais.</p></article>
+          <article class="card third"><h3>🧠 O que mudou</h3><p>Aprendizados, refinamentos, novas perguntas e evolução ao longo das semanas.</p></article>
+          <article class="card wide">
+            <h3>🔐 Privacidade</h3>
+            <p>Como este é um espaço público, informações internas da comunidade, dados pessoais de terceiros, formulários, códigos individuais e materiais de circulação restrita não são reproduzidos. O registro permanece centrado na minha experiência.</p>
+            <div class="quote">o que precisava ser feito → o que eu fiz → o que aprendi → no que aquilo se transformou</div>
+          </article>
+        </div>
+      </section>
+
+      <section id="jornada">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">🗺️ Linha do tempo</div>
+            <h2>Da primeira conexão<br>ao primeiro <span class="gradient-text">vídeo Omni.</span></h2>
+          </div>
+        </div>
+        <div class="card wide">
+          <div class="timeline">
+            <div class="t-item"><span class="t-dot"></span><small>14/08/2026 • Onboarding</small><b>🌐 Entrada na comunidade</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>15/08/2026 • Onboarding</small><b>🤝 Conexões e networking</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>16/08/2026 • Onboarding</small><b>🐱 Quebra-gelo criativo</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>16–18/08/2026</small><b>📢 Compartilhando a conquista</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>21/08/2026</small><b>🚀 Encontro de lançamento</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>25/08/2026 • Semana 1</small><b>🧠 Auditoria de Prompt</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>28/08/2026</small><b>📚 Sessão Gemini #01 — Study Notebooks</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>01/09/2026 • Semana 2</small><b>🗺️ Meu Mapa de Impacto</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>02–03/09/2026</small><b>🕵️ Embaixadora em Campo</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>03/09/2026</small><b>📡 Radar de Oportunidades → EntreNós</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>04/09/2026</small><b>💻 Canvas + Bases de Dados</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>04/09/2026</small><b>🎙️ Do Campo ao Conteúdo</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>08/09/2026 • Semana 3</small><b>💬 Onde está o seu desafio?</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>09/09/2026</small><b>🎨 Chibi e o Novelo do Raciocínio</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>10/09/2026</small><b>🧩 Gemini Canvas no dia a dia</b></div>
+            <div class="t-item"><span class="t-dot"></span><small>11/09/2026</small><b>🎬 Minha Semana em Vídeo com Gemini Omni</b></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="onboarding" class="search-scope">
+        <div class="section-head">
+          <div>
+            <div class="eyebrow">🌱 14 a 23 de agosto</div>
+            <h2>Onboarding</h2>
+            <p>Conhecer → Conectar → Compartilhar → Preparar.</p>
+          </div>
+        </div>
+
+        <details class="activity searchable" open>
+          <summary><span class="summary-title">🌐 Entrada na comunidade</span><span><span class="summary-meta">14/08</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <h4>🎯 O que foi proposto</h4>
+            <p>Entrar na comunidade oficial e conhecer sua dinâmica: trocar conhecimentos, conversar sobre estudos e carreira, compartilhar experiências com Gemini, acompanhar desafios, colaborar e desenvolver liderança.</p>
+            <h4>🚀 O que eu fiz</h4>
+            <p>Comecei acompanhando as conversas e conhecendo participantes de diferentes áreas. A partir dali, passei a compartilhar um pouco da minha trajetória e experiências com tecnologia, projetos, comunidades e hackathons.</p>
+            <div class="quote">Tecnologia conecta ferramentas, mas são as pessoas, seus contextos e suas necessidades que dão sentido ao que construímos.</div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🤝 Conexões e networking</span><span><span class="summary-meta">15/08</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>As conversas passaram por desenvolvimento, jogos, hackathons, criatividade, estudos, idiomas, carreira e comunidades.</p>
+            <div class="quote">“A dica é: não se apegue à solução e sim ao problema.”</div>
+            <h4>🌐 Iniciativa espontânea</h4>
+            <p>Criei uma iniciativa não oficial e voluntária para facilitar conexões entre participantes por área de estudo, conhecimentos que poderiam ensinar, assuntos que gostariam de aprender, interesses e redes.</p>
+            <div class="response"><strong>Texto compartilhado</strong>
+
+Fala, pessoal! 👋✨
+
+Agora que o grupo foi reaberto, estou compartilhando uma planilha para quem quiser conhecer melhor os colegas, trocar redes sociais, divulgar projetos e fortalecer nosso networking.
+
+Além das redes sociais, vocês podem compartilhar:
+🎓 Área de estudo ou atuação
+💡 Conhecimentos que podem ensinar ou compartilhar
+🌱 Assuntos que gostariam de aprender
+🎮 Nick de jogos
+🌐 Outras redes e comunidades
+💬 Observações, ideias e interesses
+
+A ideia é facilitar conexões entre pessoas que possam aprender, ensinar, criar projetos e se ajudar durante o programa.
+
+Preencham apenas os campos que fizerem sentido — não é necessário completar tudo.
+
+⚠️ Esta é uma iniciativa não oficial, criada informalmente entre participantes.
+🔒 O preenchimento é totalmente voluntário.</div>
+            <h4>🧠 O que aprendi</h4>
+            <p>Networking também envolve privacidade, consentimento, finalidade e cuidado com a concentração de dados. Hoje eu pensaria em perfis mínimos, tags de interesse, conexões mediadas por interesse mútuo e privacy by design.</p>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🐱 Quebra-gelo criativo</span><span><span class="summary-meta">16/08</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <h4>🎯 O que foi proposto</h4>
+            <p>Criar uma apresentação pessoal criativa utilizando o Google Gemini, com imagem ou representação simbólica que mostrasse personalidade, trajetória, interesses e propósito.</p>
+            <h4>🚀 O que eu fiz</h4>
+            <p>Fiz duas respostas complementares: na primeira, Batman virou narrador; na segunda, fiz uma apresentação direta.</p>
+
+            <details class="activity">
+              <summary><span class="summary-title">🐈‍⬛ Batman apresenta Beatriz</span><span class="chev">⌄</span></summary>
+              <div class="activity-body">
+                <div class="response">🐾 <strong>Miau, Embaixadores! Permitam-me fazer as apresentações…</strong>
+
+Meu nome é Batman. 🐈‍⬛🤍 Tenho 6 anos, sou um respeitável gato frajola, supervisor oficial de projetos, fiscal de reuniões, especialista em deitar em cima do teclado e, aparentemente, fui promovido a porta-voz da minha humana.
+
+Sim, porque hoje quem vai apresentar a Beatriz Karoline sou eu. 😼
+
+E já aviso: <strong>não tentem entender a trajetória dela olhando apenas para os nomes dos cursos.</strong> Eu tentei. Depois percebi que existe método no caos. 😂
+
+Minha humana é formada em Enfermagem pela UFPE, fez Edificações pelo SENAI, passou por algumas disciplinas do Técnico em Mecânica e também é Tecnóloga em Análise e Desenvolvimento de Sistemas pela UNINASSAU.
+
+À primeira vista, parece que ela simplesmente abriu o catálogo de cursos e pensou: “sim”. 😂 Mas ela consegue juntar formações que parecem não conversar e encontrar conexões.
+
+A Enfermagem ensinou sobre pessoas, cuidado, saúde e resolução de problemas reais. Edificações e Mecânica trouxeram estrutura, medidas e processos. A tecnologia trouxe a possibilidade de transformar problemas em sistemas, produtos e soluções digitais.
+
+No fim das contas, não são várias histórias desconectadas. São <strong>várias ferramentas dentro da mesma caixa</strong>. 🧰✨
+
+Talvez seja por isso que vocês vão encontrá-la em hackathons, game jams, projetos, desafios de inovação e comunidades de tecnologia.
+
+Ela adora receber um problema e pensar:
+“Tá… mas e se juntarmos tecnologia + saúde + dados + criatividade + experiência do usuário + uma ideia completamente inesperada?”
+
+E cinco minutos depois provavelmente já existe um protótipo. 😂
+
+Para ela, comunidade não é só estar em um grupo. É trocar conhecimento, criar oportunidades, ensinar, aprender, conhecer perspectivas diferentes e crescer junto com outras pessoas.
+
+E eu, Batman, sou o companheiro dela em todas essas vidas. 🐈‍⬛💚
+
+Agora eu tenho uma missão para vocês:
+<strong>Qual é aquela coisa da trajetória de vocês que, olhando de fora, parece não combinar com o resto… mas que hoje faz todo sentido?</strong>
+
+Prazer em conhecer vocês! Agora vou devolver o celular para minha humana. Existe um novelo desacompanhado por aqui. 🧶🐈‍⬛</div>
+              </div>
+            </details>
+
+            <details class="activity">
+              <summary><span class="summary-title">👩‍💻 Minha apresentação direta</span><span class="chev">⌄</span></summary>
+              <div class="activity-body">
+                <div class="response">Oi, pessoal! 💜🚀
+
+O Batman já fez as honras e me apresentou do jeitinho dele antes 😹, mas agora chegou oficialmente a minha vez!
+
+1️⃣ Eu sou <strong>Beatriz Karoline</strong>.
+
+2️⃣ Minha trajetória passa por diferentes áreas que, à primeira vista, parecem distantes, mas que aprendi a conectar em tudo o que faço. ✨
+
+3️⃣ Estou aqui porque acredito muito no poder de <strong>conectar pessoas, conhecimentos e ideias diferentes para criar coisas que realmente façam sentido</strong>.
+
+Amo hackathons, game jams, comunidades, tecnologia, inovação e aqueles desafios em que precisamos entender um problema, criar algo novo e fazer uma ideia ganhar vida. 🚀
+
+Quero aproveitar o Programa de Embaixadores para aprender, compartilhar, conhecer novas perspectivas, fortalecer comunidades e transformar toda essa troca em projetos e oportunidades reais.</div>
+              </div>
+            </details>
+
+            <div class="tag-row">
+              <span class="tag">🐈‍⬛ Batman = identidade criativa</span><span class="tag">💻 Código = tecnologia</span><span class="tag">❤️ Saúde</span><span class="tag">🎮 Games</span><span class="tag">🧶 Novelos</span>
+            </div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">📢 Compartilhando a conquista</span><span><span class="summary-meta">16–18/08</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>Transformei minha entrada no Programa de Embaixadores Estudantis do Google em uma publicação no LinkedIn e em um dos primeiros registros públicos da jornada.</p>
+            <div class="media">
+              <a class="cta primary" target="_blank" rel="noopener" href="https://www.linkedin.com/posts/beatrizkcs_embaixadoresestudantisgoogle-embaixadoresestudantisgooglegemini-activity-7494394307228049408-2Iqe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACr1MqMByBIAjO5wlUJa0E77dw2bL0lnWOQ">💼 Abrir publicação no LinkedIn</a>
+            </div>
+            <div class="quote">Não quero mostrar apenas resultados finais. Quero registrar processo, experimentação, aprendizado e evolução.</div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🚀 Encontro de lançamento</span><span><span class="summary-meta">21/08</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>O encontro apresentou carreira, criação de conteúdo, produtividade, IA e desenvolvimento, pesquisa, estudos, Gemini, portfólio, certificações, networking, liderança e comunidade.</p>
+            <p>Decidi usar o programa para experimentar diferentes formas de IA, registrar prompts e aprendizados, transformar experiências em conteúdo, compartilhar conhecimento, fortalecer meu portfólio e criar conexões.</p>
+            <div class="flow"><span>testar</span><b>→</b><span>errar</span><b>→</b><span>ajustar</span><b>→</b><span>entender</span><b>→</b><span>aplicar</span><b>→</b><span>compartilhar</span></div>
+          </div>
+        </details>
+      </section>
+
+      <section id="semana1" class="search-scope">
+        <div class="section-head">
+          <div><div class="eyebrow">🤖 24 a 31 de agosto</div><h2>Semana 1 — Meu jeito de trabalhar com IA</h2><p>Preparar → Aprender → Experimentar → Compartilhar → Aprofundar.</p></div>
+        </div>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🛠️ Preparação</span><span class="chev">⌄</span></summary>
+          <div class="activity-body">
+            <p>Organizei ambiente, calendário e próximos passos; participei das interações do Team 03; comecei a estruturar como registraria meus aprendizados; e contribuí para a identidade visual do mascote do grupo.</p>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🐱🎨 Chibi — Identidade do Team 03</span><span class="chev">⌄</span></summary>
+          <div class="activity-body">
+            <h4>🐱 CHIBI!</h4>
+            <p>O Team 03 escolheu um mascote coletivamente. Minha principal contribuição veio depois: transformar o Chibi em uma identidade visual que pudesse realmente ser utilizada pelo grupo, criando diferentes versões e figurinhas.</p>
+            <div class="response">🗳️ <strong>ATENÇÃO, ATENÇÃO! SAIU O RESULTADO DAS URNAS!</strong> 🚨🐾
+
+Após uma votação histórica, com intensa campanha de fofura e propostas irresistíveis, o TEAM 03 anuncia o seu mascote eleito:
+
+🐱🎉 <strong>CHIBI!</strong> 🎉🐱
+
+✅ Mais conhecimento compartilhado.
+✅ Mais conexão entre estudantes.
+✅ Mais criatividade e inovação.
+✅ Mais inteligência artificial para transformar realidades.
+✅ E, claro, muito mais fofura nessa jornada! 🐾</div>
+            <div class="quote">Nem toda contribuição precisa começar com a ideia original. Às vezes, colaborar significa pegar uma boa ideia coletiva e usar aquilo que você sabe fazer para ajudá-la a ganhar forma.</div>
+          </div>
+        </details>
+
+        <details class="activity searchable" open>
+          <summary><span class="summary-title">🧠 Desafio #01 — Auditoria de Prompt</span><span><span class="summary-meta">25/08</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <h4>🎯 O ponto de partida</h4>
+            <div class="quote">“Tenho uma prova na sexta-feira. Monte um plano de estudos para mim.”</div>
+            <p>A missão era responder: <strong>se esse prompt fosse seu, o que você mudaria para receber uma resposta muito melhor?</strong></p>
+
+            <h4>💬 Minha resposta #01</h4>
+            <div class="response">Acho que dependeria do contexto, e também do quanto eu estivesse conseguindo organizar o que gostaria, quanto mais detalhes do que quero, mais precisa está é, porém para começar de maneira simplificada.
+
+Enviaria o print da minha agenda da semana e da grade curricular e do que mais achasse relevante.
+
+Sendo meu professor particular da materia de [especificar] e sabendo que tenho uma prova na sexta-feira desta, onde irá ser sobre [assunto], conforme meu cronograma e disponibilidade e sem afetar meu tempo de sono, sabendo que estamos usando as referências [indicar quais], faça um cronograma de estudo completo para que eu estudei até a quinta antes da prova. Tenho preferência por estudos [especificar metodo, longo ou curto e afins].</div>
+
+            <h4>✨ A lógica que propus</h4>
+            <div class="flow"><span>contexto</span><b>+</b><span>objetivo</span><b>+</b><span>materiais</span><b>+</b><span>disponibilidade</span><b>+</b><span>restrições</span><b>+</b><span>preferências</span></div>
+
+            <h4>💡 Segunda estratégia</h4>
+            <div class="response">Uma coisa é pedir a própria IA para estruturar e melhorar o prompt antes, principalmente no início, se eu não usasse ela, poderia ajudar, pois cada IA atende melhor por formulações diferentes.</div>
+            <div class="flow"><span>ideia inicial</span><b>→</b><span>IA estrutura</span><b>→</b><span>revisão</span><b>→</b><span>prompt aprimorado</span><b>→</b><span>execução</span></div>
+
+            <h4>🔥 Aprendendo com a comunidade</h4>
+            <p>Escolhi uma contribuição que utilizava Markdown, definição de formato de saída, restrições e meta-prompting.</p>
+            <div class="response"><strong>EU MELHORARIA O PROMPT…</strong>
+
+Primeiro usaria markdowns, pois já ouvi falar que a IA responde melhor a esse estilo de prompt, além de especificar o formato de saída que eu desejo para que a resposta seja algo que eu consiga entender, além de colocar restrições, como por exemplo não buscar informações em certo site. Além de pedir para a própria GenIA, melhorar o prompt para mim.</div>
+            <div class="response"><strong>Minha resposta:</strong>
+
+Eu usaria essa dica, para entender melhor o funcionamento de markdowns na IA, pois não é algo que costumo utilizar tanto e dependendo da IA pode realmente funcionar bem.</div>
+
+            <h4>📈 Como eu faria hoje</h4>
+<pre># Papel
+Atue como meu professor particular e orientador de estudos para [DISCIPLINA].
+
+# Contexto
+Tenho uma prova na sexta-feira sobre:
+[CONTEÚDOS]
+
+As principais referências utilizadas são:
+[REFERÊNCIAS]
+
+Também fornecerei minha agenda da semana, minha grade curricular
+e os materiais que considerar relevantes.
+
+# Restrições
+- O planejamento deve terminar na quinta-feira.
+- Não reduza meu tempo habitual de sono.
+- Considere apenas os horários realmente disponíveis.
+- Minha preferência de estudo é [MÉTODO/PREFERÊNCIA].
+- Priorize os conteúdos em que eu demonstrar maior dificuldade.
+
+# Antes de criar o cronograma
+Analise as informações fornecidas e identifique o que ainda está faltando.
+Faça apenas as perguntas necessárias.
+
+Depois:
+1. identifique conteúdos prioritários;
+2. distribua os estudos;
+3. inclua revisão e recuperação;
+4. indique objetivos para cada bloco;
+5. reserve revisão final.
+
+# Formato
+1. resumo da estratégia;
+2. tabela com dia, horário, conteúdo, objetivo e método;
+3. pontos de atenção;
+4. checklist final.</pre>
+            <div class="quote">Um bom prompt não precisa nascer pronto. Ele pode ser construído em diálogo, ganhar contexto, incorporar técnicas de outras pessoas e melhorar conforme entendemos melhor o problema.</div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">💎 Explorando recursos avançados</span><span><span class="summary-meta">26/08</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>Explorei possibilidades do ecossistema Gemini para tarefas complexas, pesquisa aprofundada, estudos, documentos, produtividade, criação, experimentos e prototipagem.</p>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">📚 Sessão Gemini #01 — Study Notebooks</span><span><span class="summary-meta">28/08</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>A sessão mostrou formas de transformar fontes, artigos, referências e materiais acadêmicos em um espaço estruturado de conhecimento.</p>
+            <div class="flow"><span>reunir</span><b>→</b><span>organizar</span><b>→</b><span>explorar</span><b>→</b><span>conectar</span><b>→</b><span>aprofundar</span></div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🏁 Retrospectiva da Semana 1</span><span class="chev">⌄</span></summary>
+          <div class="activity-body">
+            <p>Passei a prestar mais atenção em contexto, objetivo, materiais, restrições, preferências, estrutura e nas perguntas que ainda precisam ser respondidas antes da execução.</p>
+            <div class="quote">Um bom prompt não precisa nascer pronto. Ele pode ser construído, testado, comparado e refinado.</div>
+          </div>
+        </details>
+      </section>
+
+      <section id="semana2" class="search-scope">
+        <div class="section-head">
+          <div><div class="eyebrow">🌎 31 de agosto a 04 de setembro</div><h2>Semana 2 — Onde a IA pode expandir possibilidades?</h2></div>
+        </div>
+        <div class="card wide">
+          <div class="flow"><span>PESSOAS</span><b>→</b><span>CONTEXTO</span><b>→</b><span>NECESSIDADES</span><b>→</b><span>OPORTUNIDADES</span><b>→</b><span>IA</span></div>
+          <div class="quote">Onde existem situações reais em que o Gemini pode ampliar possibilidades?</div>
+        </div>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🗺️ Desafio #01 — Meu Mapa de Impacto</span><span><span class="summary-meta">01/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>Transformei os três níveis de impacto — <strong>meu grupo, minha instituição e minha comunidade</strong> — em um mapa de aventura inspirado em RPG e literatura fantástica, com gatinhos, cachorrinhos e galinhas pelo caminho. 🐱🐶🐔📚</p>
+            <div class="response">🗺️✨ <strong>Meu Mapa de Impacto</strong>
+
+🌲 Meu Grupo: quero começar pelas pessoas mais próximas, compartilhando prompts, experiências e formas práticas de usar o Gemini nos estudos, projetos e organização de ideias.
+
+🏰 Minha Instituição: quero ampliar esse conhecimento para estudantes, professores e projetos acadêmicos, mostrando aplicações responsáveis da IA.
+
+🌎 Minha Comunidade: quero levar essas descobertas ainda mais longe, alcançando jovens, comunidades digitais e projetos sociais.
+
+No centro do mapa está a ideia:
+<strong>“Uma ideia compartilhada pode atravessar fronteiras.”</strong> 💙</div>
+            <p><strong>E por que galinhas?</strong> Porque elas são nossas amigas. @-@</p>
+
+            <h4>🎬 A Jornada do Impacto</h4>
+            <p>Além da imagem, criei uma versão em vídeo acompanhada de uma narrativa.</p>
+            <div class="media">
+              <video controls preload="metadata" src="https://github.com/user-attachments/assets/25e5edae-a93f-4704-bafc-ebf85e8558ab"></video>
+              <a class="cta" target="_blank" rel="noopener" href="https://github.com/user-attachments/assets/25e5edae-a93f-4704-bafc-ebf85e8558ab">▶️ Abrir vídeo em nova aba</a>
+            </div>
+
+            <details class="activity">
+              <summary><span class="summary-title">📖 Ler a narrativa completa</span><span class="chev">⌄</span></summary>
+              <div class="activity-body">
+                <div class="response">Dizem que todo mapa guarda uma história… e este começa bem perto de mim. 🗺️🐾
+
+No primeiro território, onde está Meu Grupo, surgem as primeiras trilhas. É ali, entre conversas, ideias, dúvidas e descobertas compartilhadas, que nasce a vontade de levar conhecimento adiante.
+
+Guiada pela curiosidade, sigo as pegadas para além daquele primeiro território. A trilha atravessa pontes, livros e novos encontros até alcançar Minha Instituição, onde novos caminhos se abrem.
+
+Ali, cada conversa pode abrir uma nova passagem. Cada descoberta pode virar uma ponte. E o Mestre Gemini, com sua magia feita de tecnologia, pode nos ajudar a transformar curiosidade em descoberta, ideias em criação e perguntas em novos caminhos.
+
+Mas nenhum bom mapa termina nos muros de um reino. Ao longe, outras trilhas aparecem e alcançam Minha Comunidade.
+
+Uma pessoa aprende algo, compartilha com outra, que leva aquela descoberta para um novo lugar… e, de repente, aquilo que começou em um pequeno grupo já encontrou territórios que eu nem imaginava alcançar.
+
+Porque <strong>uma ideia compartilhada pode atravessar fronteiras.</strong> 📖🌎💫
+
+E este mapa? Ainda está longe de estar completo.</div>
+              </div>
+            </details>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🕵️ Missão Embaixadora em Campo</span><span><span class="summary-meta">02–03/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <h4>🎯 O que foi proposto</h4>
+            <p>Conversar com pessoas da comunidade acadêmica e observar situações da rotina que mereciam atenção.</p>
+            <div class="response"><strong>Mensagem que enviei</strong>
+
+Gente, posso fazer uma perguntinha aleatória sobre a rotina de vocês na faculdade? 👀😂
+
+Tô tentando entender quais são aquelas pequenas coisas da vida acadêmica que mais dão trabalho, tomam tempo ou simplesmente fazem a gente pensar: “isso podia ser muito mais fácil” kkkkk
+
+Pode ser qualquer coisa mesmo: matrícula, organizar horários, acompanhar atividades e prazos, achar informações, estudar, trabalhos em grupo, falar com algum setor, usar os sistemas da faculdade… 🫠
+
+O que mais incomoda vocês hoje?
+
+E se vocês pudessem escolher UMA coisa da faculdade para magicamente ficar mais fácil ou automática, o que escolheriam? ✨</div>
+            <h4>🔎 Padrões</h4>
+            <p>Informações acadêmicas espalhadas, burocracia, comunicação com setores, portais pouco intuitivos, matrícula, prazos, horas complementares, extensão, estágio, trabalhos em grupo e conciliação de responsabilidades.</p>
+            <div class="quote">A pergunta mudou de “qual processo posso automatizar?” para “como reduzir o esforço necessário para o estudante encontrar, compreender e organizar aquilo que já existe?”</div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">📡 Radar de Oportunidades → EntreNós</span><span><span class="summary-meta">03/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <h4>💭 Minha hipótese</h4>
+            <div class="response">Minha hipótese é que o Google Gemini poderia funcionar como uma <strong>camada de apoio entre o estudante e a grande quantidade de informações da vida acadêmica</strong>.
+
+Em vez de tentar substituir os sistemas oficiais da universidade, ele poderia ajudar o aluno a reunir, interpretar e organizar informações que já existem: regulamentos, calendários, editais, horários, oportunidades, atividades de extensão, horas complementares, bolsas, projetos, documentos e prazos.
+
+A ideia não seria a IA tomar decisões pela universidade, mas diminuir o esforço necessário para o estudante localizar, compreender e organizar aquilo que já está disponível.</div>
+            <div class="quote">Se o estudante tiver uma forma simples de centralizar, consultar e organizar as informações da própria vida acadêmica com apoio do Gemini, parte da burocracia percebida e do tempo gasto procurando informações pode ser reduzida.</div>
+            <h4>🤝 Evolução — EntreNós</h4>
+            <p>A hipótese evoluiu para um primeiro protótipo: um espaço de apoio coletivo entre estudantes, com IA apoiando organização e síntese sem substituir fontes oficiais.</p>
+            <div class="media"><a class="cta primary" href="https://entrenos.goskip.app/" target="_blank" rel="noopener">🤝 Abrir EntreNós</a></div>
+            <div class="response"><strong>Mensagem que compartilhei</strong>
+
+Gente, passando aqui pra agradecer de novo quem respondeu aquelas perguntas sobre o que mais dá trabalho na faculdade 💛
+
+Eu fui juntando as respostas, procurando os pontos em comum e percebi que muita coisa se repete: burocracia, dificuldade pra achar informação, horas complementares, extensão, organização, trabalhos em grupo, sistemas ruins…
+
+Com base nisso, comecei a desenvolver um protótipo chamado <strong>EntreNós</strong> 🤝✨
+
+A ideia é criar um espaço de apoio coletivo entre estudantes, onde dúvidas e experiências possam se conectar, com apoio do Google Gemini para organizar informações, resumir relatos e ajudar a transformar tudo isso em próximos passos.</div>
+            <div class="flow"><span>OUVIR</span><b>→</b><span>COMPARAR</span><b>→</b><span>PADRÕES</span><b>→</b><span>PROBLEMA</span><b>→</b><span>HIPÓTESE</span><b>→</b><span>TECNOLOGIA</span></div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">💻 Sessão Gemini #02 — Canvas + Bases de Dados</span><span><span class="summary-meta">04/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>A sessão apresentou dashboards visuais, aplicações funcionais, protótipos e novas formas de organizar e apresentar informações.</p>
+            <div class="flow"><span>IDEIA</span><b>→</b><span>INFORMAÇÕES</span><b>→</b><span>ESTRUTURA</span><b>→</b><span>CANVAS</span><b>→</b><span>PROTÓTIPO</span><b>→</b><span>AJUSTES</span></div>
+            <div class="quote">O Gemini não precisa terminar na resposta. A resposta também pode ser o começo de algo que ainda vou organizar, testar, transformar e construir.</div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🎙️ Ação de Impacto — Do Campo ao Conteúdo</span><span><span class="summary-meta">04/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>Criei um vídeo com o próprio Google Gemini e publiquei o resultado no TikTok. O conteúdo partiu da investigação em campo e da hipótese do Radar de Oportunidades.</p>
+            <div class="media"><a class="cta primary" href="https://vt.tiktok.com/ZSq8K1pdS/" target="_blank" rel="noopener">🎵 Assistir no TikTok</a></div>
+            <div class="quote">O conteúdo não começou com “sobre o que eu quero postar?”. Começou com “o que as pessoas estão vivendo?”.</div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🏁 Retrospectiva da Semana 2</span><span class="chev">⌄</span></summary>
+          <div class="activity-body">
+            <div class="flow"><span>PESSOAS</span><b>→</b><span>CONTEXTO</span><b>→</b><span>PROBLEMA</span><b>→</b><span>PADRÕES</span><b>→</b><span>HIPÓTESE</span><b>→</b><span>TECNOLOGIA</span></div>
+            <div class="quote">Antes de pensar no que a IA consegue fazer, vale entender quem vive o problema, como ele aparece na rotina e qual parte dele realmente precisa de apoio.</div>
+          </div>
+        </details>
+      </section>
+
+      <section id="semana3" class="search-scope">
+        <div class="section-head">
+          <div><div class="eyebrow">🧠 08 a 11 de setembro</div><h2>Semana 3 — Aprendizagem visual e interativa</h2><p>Representações visuais, raciocínio, Canvas e vídeo.</p></div>
+        </div>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">💬 Desafio #01 — Onde está o seu desafio?</span><span><span class="summary-meta">08/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>A missão era completar: <strong>“Eu tenho dificuldade para entender ______ porque ______.”</strong></p>
+            <h4>💬 Minha resposta #01</h4>
+            <div class="response"><strong>Eu tenho dificuldade em organizar uma boa linha de raciocínio que eu me sinta mais confiante quando for repassar e relembrar o conteúdo.</strong></div>
+            <h4>💬 Minha resposta #02</h4>
+            <div class="response"><strong>Eu tenho dificuldade em entender certas lógicas principalmente em questão de estruturação social, por que tenho TEA, então consigo estudar e compreender de modo geral, mas não ter uma visão neurotipica.</strong></div>
+            <div class="flow"><span>CONTEÚDO</span><b>→</b><span>COMPREENDER</span><b>→</b><span>ORGANIZAR</span><b>→</b><span>CONECTAR</span><b>→</b><span>RELEMBRAR</span><b>→</b><span>EXPLICAR</span></div>
+            <p>O desafio parecia estar na construção de uma representação mental organizada: visualizar relações, sequência, hierarquias, causa e efeito e transformar compreensão em explicação clara.</p>
+          </div>
+        </details>
+
+        <details class="activity searchable" open>
+          <summary><span class="summary-title">🎨 Desafio #02 — Chibi e o Novelo do Raciocínio</span><span><span class="summary-meta">09/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>A proposta era usar <strong>meu próprio raciocínio + Google Gemini + uma forma de representação visual</strong>.</p>
+            <div class="flow"><span>👀 OBSERVE</span><b>→</b><span>🧩 SIMPLIFIQUE</span><b>→</b><span>✏️ VISUALIZE</span><b>→</b><span>🔗 CONECTE</span><b>→</b><span>✅ REFINE</span><b>→</b><span>📤 COMPARTILHE</span></div>
+
+            <h4>🤖 Prompt-base</h4>
+<pre>Quero usar uma forma de representação visual para me ajudar a explorar por outros ângulos um desafio de aprendizagem.
+
+1. OBSERVE: analise a dificuldade.
+2. SIMPLIFIQUE: organize ideias e estruturas essenciais.
+3. VISUALIZE: proponha 3 formas diferentes de dar forma visual.
+4. CONECTE: mostre quais relações devem ficar claras.
+5. ANALISE MINHA HIPÓTESE: compare sua análise com a minha hipótese inicial.
+
+Ao final, não escolha a representação por mim.</pre>
+
+            <h4>🚀 O que eu fiz</h4>
+            <p>Transformei meu desafio em uma representação lúdica usando o <strong>Chibi</strong> e a metáfora de um <strong>novelo do raciocínio</strong>.</p>
+            <div class="flow"><span>1. TEMA</span><b>→</b><span>2. PISTAS</span><b>→</b><span>3. CONTEXTO</span><b>→</b><span>4. CONEXÕES</span><b>→</b><span>5. PERSPECTIVAS</span><b>→</b><span>6. EXPLICAÇÃO</span></div>
+            <div class="response">🐈🧶 <strong>Desafio #02 - Semana 3 - 09/09/2026 - Chibi e o Novelo do Raciocínio!</strong>
+
+Miaaau, pessoal! Chibi na área, com a lupa na patinha e um novelo cheio de ideias para desenrolar com vocês! 🔎
+
+Sabe quando você entende o conteúdo, mas, na hora de explicar, parece que o fio desapareceu dentro do novelo? Vamos procurar essa pontinha juntos: sigam os números para descobrir as pistas, explorar o contexto e conectar as ideias até conseguir contar tudo com suas próprias palavras. 🐾
+
+E fica o meu lembrete de frajola: cada pessoa tem seu jeito de aprender, então vamos no nosso ritmo, com curiosidade e sem medo de perguntar - uma patinha de cada vez! 💜</div>
+            <div class="quote">Às vezes, compreender não é encontrar imediatamente uma resposta. É conseguir localizar a ponta do fio e construir o caminho do raciocínio uma conexão de cada vez.</div>
+          </div>
+        </details>
+
+        <details class="activity searchable">
+          <summary><span class="summary-title">🧩 Sessão Gemini #03 — Canvas no dia a dia</span><span><span class="summary-meta">10/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <p>A sessão ampliou meu olhar sobre Gemini Canvas como ambiente para estudar, aprofundar assuntos, organizar conhecimentos, desenvolver ideias, trabalhar em projetos e refinar algo ao longo de várias interações.</p>
+            <div class="grid">
+              <div class="card third"><h3>📚 Estudo</h3><p>aprofundar → organizar → explorar → refinar</p></div>
+              <div class="card third"><h3>🏠 Vida pessoal</h3><p>ideia → planejamento → estrutura</p></div>
+              <div class="card third"><h3>💻 Projetos</h3><p>explorar → criar → testar → ajustar</p></div>
+            </div>
+            <div class="quote">A ferramenta não precisa definir o problema; o problema e o contexto ajudam a definir como a ferramenta será utilizada.</div>
+            <h4>🌐 Aplicação prática</h4>
+            <p>Usei o Gemini Canvas para construir um portfólio público dedicado à jornada.</p>
+            <div class="media"><a class="cta primary" target="_blank" rel="noopener" href="https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/">🐱✨ Abrir Portfólio 2026</a></div>
+          </div>
+        </details>
+
+        <details class="activity searchable" open>
+          <summary><span class="summary-title">🎬 Minha Semana em Vídeo com Gemini Omni</span><span><span class="summary-meta">11/09</span> <span class="chev">⌄</span></span></summary>
+          <div class="activity-body">
+            <h4>🎯 O que foi proposto</h4>
+            <p>Encerrar a Semana 3 transformando parte da experiência em um vídeo curto criado com Gemini Omni. As rotas incluíam dificuldade superada, resumo da Sessão Gemini #03 ou panorama da semana como Embaixadora.</p>
+            <h4>🚀 O que eu fiz</h4>
+            <p>Produzi o vídeo utilizando o <strong>Gemini Omni</strong> e ampliei a entrega publicando o conteúdo em três plataformas.</p>
+            <div class="media">
+              <h3>🎥 Minha Semana em Vídeo</h3>
+              <div class="link-grid">
+                <a class="link-card" target="_blank" rel="noopener" href="https://www.instagram.com/reel/DdKJ6b7ukht/?stkn=a3dsNHB2Y2JtMDZ4">📸 Instagram Reels</a>
+                <a class="link-card" target="_blank" rel="noopener" href="https://www.tiktok.com/@1aspiraqualquer/video/7684356709984259335?is_from_webapp=1&sender_device=pc">🎵 TikTok</a>
+                <a class="link-card" target="_blank" rel="noopener" href="https://youtube.com/shorts/G8pfajemQfI?si=qbdQBbPdJsNUrIa2">▶️ YouTube Shorts</a>
+              </div>
+            </div>
+            <div class="flow"><span>EXPERIÊNCIA</span><b>→</b><span>RECORTE</span><b>→</b><span>GEMINI OMNI</span><b>→</b><span>VÍDEO</span><b>→</b><span>3 REDES</span></div>
+            <div class="quote">Aprender, criar e compartilhar podem fazer parte do mesmo processo: uma experiência pode virar uma representação, uma representação pode virar conteúdo e o conteúdo pode levar aquele aprendizado para outras pessoas.</div>
+          </div>
+        </details>
+      </section>
+
+      <section id="projetos">
+        <div class="section-head">
+          <div><div class="eyebrow">🚀 Além das atividades</div><h2>Projetos que utilizam <span class="gradient-text">Gemini</span></h2><p>Quando a experimentação deixa de ser só uma resposta e passa a virar algo público e testável.</p></div>
+        </div>
+        <div class="grid">
+          <a class="card third project" href="https://racha-ai.goskip.app/" target="_blank" rel="noopener"><div class="emoji">🤖</div><h3>Racha AI</h3><p>Projeto que utiliza Gemini.</p><span class="tag">Abrir projeto ↗</span></a>
+          <a class="card third project" href="https://quintal-das-missoes.vercel.app/" target="_blank" rel="noopener"><div class="emoji">🌱</div><h3>Quintal das Missões</h3><p>Projeto que utiliza Gemini.</p><span class="tag">Abrir projeto ↗</span></a>
+          <a class="card third project" href="https://entrenos.goskip.app/" target="_blank" rel="noopener"><div class="emoji">🤝</div><h3>EntreNós</h3><p>Protótipo que nasceu do Radar de Oportunidades.</p><span class="tag">Abrir projeto ↗</span></a>
+          <a class="card wide project" href="https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/" target="_blank" rel="noopener"><div class="emoji">🐱✨</div><h3>Portfólio da Jornada 2026</h3><p>Criado com Gemini Canvas para reunir e apresentar publicamente a evolução da jornada.</p><span class="tag">Abrir portfólio ↗</span></a>
+        </div>
+      </section>
+
+      <section id="evolucao">
+        <div class="section-head">
+          <div><div class="eyebrow">📈 Mudança de perspectiva</div><h2>Como meu jeito de trabalhar com IA evoluiu</h2></div>
+        </div>
+        <div class="grid">
+          <article class="card third"><h3>🌱 No início</h3><p><strong>IA como ferramenta para obter respostas.</strong></p></article>
+          <article class="card third"><h3>🚀 Durante a jornada</h3><p><strong>IA para pesquisar, estruturar, visualizar, experimentar e criar.</strong></p></article>
+          <article class="card third"><h3>🌎 Próximo nível</h3><p><strong>Pessoas, pensamento crítico, contexto e validação continuam fundamentais.</strong></p></article>
+          <article class="card wide">
+            <h3>💬 Evolução dos prompts</h3>
+            <div class="flow"><span>PERGUNTA</span><b>→</b><span>RESPOSTA</span></div>
+            <div class="flow"><span>CONTEXTO</span><b>→</b><span>OBJETIVO</span><b>→</b><span>RESTRIÇÕES</span><b>→</b><span>PROMPT</span><b>→</b><span>ANÁLISE</span><b>→</b><span>REFINAMENTO</span></div>
+            <div class="flow"><span>PESSOAS</span><b>→</b><span>PROBLEMA REAL</span><b>→</b><span>CONTEXTO</span><b>→</b><span>HIPÓTESE</span><b>→</b><span>IA</span><b>→</b><span>EXPERIMENTO</span><b>→</b><span>IMPACTO</span></div>
+            <div class="quote">A pergunta deixou de ser apenas “como escrever um prompt melhor?” e passou a incluir “estou entendendo corretamente o problema que quero resolver?”</div>
+          </article>
+        </div>
+      </section>
+
+      <section id="marcos">
+        <div class="section-head">
+          <div><div class="eyebrow">🏆 Checklist viva</div><h2>Marcos da jornada</h2></div>
+        </div>
+        <div class="card wide">
+          <div class="milestones">
+            <div class="mile"><i>✅</i><span>🌱 Entrada na comunidade</span></div>
+            <div class="mile"><i>✅</i><span>🤝 Primeiras conexões</span></div>
+            <div class="mile"><i>✅</i><span>🌐 Iniciativa espontânea de networking</span></div>
+            <div class="mile"><i>✅</i><span>🐈‍⬛ Batman promovido a porta-voz</span></div>
+            <div class="mile"><i>✅</i><span>🎨 Primeira criação visual com Gemini</span></div>
+            <div class="mile"><i>✅</i><span>📢 Compartilhamento da conquista</span></div>
+            <div class="mile"><i>✅</i><span>🐱 Chibi como mascote do Team 03</span></div>
+            <div class="mile"><i>✅</i><span>🧠 Auditoria de Prompt</span></div>
+            <div class="mile"><i>✅</i><span>📚 Sessão Gemini #01</span></div>
+            <div class="mile"><i>✅</i><span>🗺️ Mapa de Impacto</span></div>
+            <div class="mile"><i>✅</i><span>🎬 A Jornada do Impacto</span></div>
+            <div class="mile"><i>✅</i><span>🕵️ Embaixadora em Campo</span></div>
+            <div class="mile"><i>✅</i><span>📡 Radar de Oportunidades</span></div>
+            <div class="mile"><i>✅</i><span>🤝 Criação do EntreNós</span></div>
+            <div class="mile"><i>✅</i><span>💻 Sessão Gemini #02 — Canvas</span></div>
+            <div class="mile"><i>✅</i><span>🎙️ Do Campo ao Conteúdo</span></div>
+            <div class="mile"><i>✅</i><span>💬 Onde está o seu desafio?</span></div>
+            <div class="mile"><i>✅</i><span>🎨 Chibi e o Novelo do Raciocínio</span></div>
+            <div class="mile"><i>✅</i><span>🧩 Sessão Gemini #03</span></div>
+            <div class="mile"><i>✅</i><span>🌐 Portfólio público com Gemini Canvas</span></div>
+            <div class="mile"><i>✅</i><span>🤖 Racha AI utilizando Gemini</span></div>
+            <div class="mile"><i>✅</i><span>🌱 Quintal das Missões utilizando Gemini</span></div>
+            <div class="mile"><i>✅</i><span>🎬 Vídeo com Gemini Omni</span></div>
+            <div class="mile"><i>✅</i><span>📱 Conteúdo em Instagram, TikTok e YouTube</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="card wide">
+          <div class="section-head">
+            <div>
+              <div class="eyebrow">🔎 Explorar o conteúdo</div>
+              <h2 style="font-size:2rem">Buscar na jornada</h2>
+              <p>Digite qualquer termo: “Canvas”, “Batman”, “prompt”, “EntreNós”, “vídeo”, “Chibi”…</p>
+            </div>
+          </div>
+          <div class="search-wrap">
+            <input class="search" id="search" type="search" placeholder="Pesquisar atividades e conteúdos..." aria-label="Pesquisar atividades" />
+            <button class="pill-btn" id="clearSearch">Limpar</button>
+          </div>
+          <div class="counter" id="counter">Todas as atividades visíveis.</div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <div>🐈‍⬛ + 🤖 + 💻 + 🎨 + 🚀</div>
+    <h2>Continua...</h2>
+    <p>Cada semana, uma nova missão. Cada missão, um novo experimento. Cada experimento, uma oportunidade de evoluir.</p>
+    <p><strong style="color:var(--text)">Beatriz Karoline</strong></p>
+    <p>
+      <a href="https://www.linkedin.com/in/beatrizkcs/" target="_blank" rel="noopener">LinkedIn</a> •
+      <a href="https://github.com/SouBeatrizKaroline" target="_blank" rel="noopener">GitHub</a> •
+      <a href="https://soubeatrizkaroline.goskip.app/" target="_blank" rel="noopener">Portfólio</a>
+    </p>
+    <p>Aprendendo • Experimentando • Criando • Compartilhando</p>
+  </footer>
+
+  <div class="cat-toast" id="catToast"><strong>🐈‍⬛ Batman informa:</strong><br><span id="catText"></span></div>
+
+  <script>
+    const root = document.documentElement;
+    const progress = document.getElementById('progress');
+    const sideProgress = document.getElementById('sideProgress');
+    const sideCaption = document.getElementById('sideCaption');
+    const themeBtn = document.getElementById('themeBtn');
+    const expandBtn = document.getElementById('expandBtn');
+    const menuBtn = document.getElementById('menuBtn');
+    const sidebar = document.getElementById('sidebar');
+    const catBtn = document.getElementById('catBtn');
+    const catToast = document.getElementById('catToast');
+    const catText = document.getElementById('catText');
+
+    // Tema
+    const savedTheme = localStorage.getItem('gemini-missao-theme');
+    if (savedTheme) root.dataset.theme = savedTheme;
+    function syncThemeIcon(){
+      themeBtn.textContent = root.dataset.theme === 'light' ? '🌙' : '☀️';
+    }
+    syncThemeIcon();
+    themeBtn.addEventListener('click',()=>{
+      root.dataset.theme = root.dataset.theme === 'light' ? 'dark' : 'light';
+      localStorage.setItem('gemini-missao-theme', root.dataset.theme);
+      syncThemeIcon();
+    });
+
+    // Progresso de leitura
+    function updateProgress(){
+      const doc = document.documentElement;
+      const max = doc.scrollHeight - innerHeight;
+      const pct = max > 0 ? Math.min(100, Math.max(0, scrollY / max * 100)) : 0;
+      progress.style.width = pct + '%';
+      sideProgress.style.width = pct + '%';
+      sideCaption.textContent = Math.round(pct) + '% da página explorada';
+    }
+    addEventListener('scroll', updateProgress, {passive:true});
+    updateProgress();
+
+    // Expandir / recolher todas
+    let allOpen = false;
+    expandBtn.addEventListener('click',()=>{
+      allOpen = !allOpen;
+      document.querySelectorAll('details.activity').forEach(d => d.open = allOpen);
+      expandBtn.innerHTML = allOpen ? '🧶 <span class="label">Recolher tudo</span>' : '🧩 <span class="label">Abrir tudo</span>';
+    });
+
+    // Menu mobile
+    menuBtn.addEventListener('click',()=>{
+      const links = [...document.querySelectorAll('.nav-link')];
+      const labels = links.map((a,i)=>`${i+1}. ${a.textContent.trim()}`).join('\n');
+      const choice = prompt('Ir para qual seção?\\n\\n' + labels);
+      const i = Number(choice)-1;
+      if (links[i]) links[i].click();
+    });
+
+    // Navegação ativa
+    const navLinks = [...document.querySelectorAll('.nav-link')];
+    const targets = navLinks.map(a => document.querySelector(a.getAttribute('href'))).filter(Boolean);
+    const obs = new IntersectionObserver(entries=>{
+      entries.forEach(entry=>{
+        if(entry.isIntersecting){
+          navLinks.forEach(a=>a.classList.toggle('active', a.getAttribute('href') === '#' + entry.target.id));
+        }
+      });
+    },{rootMargin:'-25% 0px -65% 0px', threshold:0});
+    targets.forEach(t=>obs.observe(t));
+
+    // Busca
+    const search = document.getElementById('search');
+    const clearSearch = document.getElementById('clearSearch');
+    const counter = document.getElementById('counter');
+    const searchable = [...document.querySelectorAll('.searchable')];
+    function normalize(s){
+      return s.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLowerCase();
+    }
+    function runSearch(){
+      const q = normalize(search.value.trim());
+      let visible = 0;
+      searchable.forEach(el=>{
+        const hit = !q || normalize(el.innerText).includes(q);
+        el.classList.toggle('hidden-by-search', !hit);
+        if(hit){ visible++; if(q) el.open = true; }
+      });
+      counter.textContent = q ? `${visible} atividade(s) encontrada(s) para “${search.value.trim()}”.` : 'Todas as atividades visíveis.';
+    }
+    search.addEventListener('input', runSearch);
+    clearSearch.addEventListener('click',()=>{search.value='';runSearch();search.focus()});
+
+    // Easter egg do Batman
+    const catMessages = [
+      'Seu código foi inspecionado. Encontrei 0 bugs e 3 novelos suspeitos. 😼',
+      'Lembrete felino: não se apegue à solução. Persiga o problema. 🐾',
+      'Chibi pediu criatividade. Batman pediu petiscos. A governança segue complicada.',
+      'Uma boa ideia também pode começar com um “e se...?” e uma patinha no teclado.',
+      'Status do projeto: humano trabalhando, gato supervisionando. Tudo normal. 🐈‍⬛'
+    ];
+    let toastTimer;
+    catBtn.addEventListener('click',()=>{
+      catText.textContent = catMessages[Math.floor(Math.random()*catMessages.length)];
+      catToast.classList.add('show');
+      clearTimeout(toastTimer);
+      toastTimer = setTimeout(()=>catToast.classList.remove('show'),4200);
+    });
+
+    // Lembrar quais blocos estavam abertos
+    const topDetails = [...document.querySelectorAll('main > section details.activity')];
+    topDetails.forEach((d,i)=>{
+      const key='gemini-missao-detail-'+i;
+      const saved=localStorage.getItem(key);
+      if(saved !== null) d.open = saved === '1';
+      d.addEventListener('toggle',()=>localStorage.setItem(key,d.open?'1':'0'));
+    });
+
+    // Pequena animação de entrada
+    const cards = document.querySelectorAll('.card, details.activity');
+    const reveal = new IntersectionObserver(entries=>{
+      entries.forEach(e=>{
+        if(e.isIntersecting){
+          e.target.animate(
+            [{opacity:.25, transform:'translateY(12px)'},{opacity:1,transform:'translateY(0)'}],
+            {duration:420,easing:'ease-out',fill:'both'}
+          );
+          reveal.unobserve(e.target);
+        }
+      });
+    },{threshold:.05});
+    cards.forEach(c=>reveal.observe(c));
+  </script>
+</body>
+</html>
