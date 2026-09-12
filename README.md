@@ -2821,7 +2821,40 @@ Isso também reforçou uma ideia que vem aparecendo ao longo da jornada:
 
 > **O Canvas pode ser menos um lugar para gerar uma coisa pronta e mais um espaço para desenvolver uma ideia — seja para estudar, se aprofundar, criar algo pessoal ou simplesmente organizar melhor alguma parte do dia a dia.**
 
-> 📌 Esta sessão foi registrada como experiência de aprendizagem. Não associei uma imagem específica porque, até o momento, não foi recuperada uma entrega visual individual ligada a ela.
+---
+
+## 🌐 Aplicação prática — Portfólio da jornada no Gemini Canvas
+
+Além da experiência de aprendizagem da sessão, utilizei o **Gemini Canvas** para construir um portfólio público dedicado à minha jornada como **Embaixadora Estudantil do Google 2026**.
+
+<div align="center">
+
+### 🐱✨ Portfólio 2026 — Embaixadora Estudantil Google
+
+[**🌐 Abrir portfólio criado no Gemini Canvas**](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/)
+
+</div>
+
+Esse projeto se tornou uma aplicação concreta do que comecei a perceber sobre o Canvas durante a semana:
+
+```text
+JORNADA
+   ↓
+REGISTROS
+   ↓
+ORGANIZAÇÃO
+   ↓
+GEMINI CANVAS
+   ↓
+CONSTRUÇÃO
+   ↓
+PORTFÓLIO PÚBLICO
+```
+
+Em vez de utilizar o Canvas apenas como espaço de experimentação, ele também passou a fazer parte da construção de uma presença pública para reunir e apresentar a evolução da jornada.
+
+> ✅ **Ferramenta utilizada:** Gemini Canvas  
+> 🌐 **Resultado público:** [Portfolio2026_EmbaixadorEstudantilGoogle](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/)
 
 ---
 
@@ -3171,16 +3204,57 @@ dar contexto → identificar lacunas → perguntar → priorizar → planejar �
 
 # 🎥 Conteúdos e Projetos Públicos
 
-Nesta tabela aparecem apenas links públicos já recuperados.
+Esta seção reúne somente projetos, protótipos, conteúdos e publicações que possuem **link público confirmado**.
 
-| Período | Conteúdo / Projeto | Origem | Plataforma | Link |
+---
+
+## 🤖 Projetos que utilizam Gemini
+
+Além das atividades diretamente propostas durante a jornada, também utilizei o **Gemini em projetos próprios**, explorando IA dentro de experiências, protótipos e aplicações diferentes.
+
+<div align="center">
+
+| Projeto | Uso registrado | Link |
+|---|---|---|
+| 🤖 **Racha AI** | Projeto que utiliza Gemini | [Abrir projeto](https://racha-ai.goskip.app/) |
+| 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir projeto](https://quintal-das-missoes.vercel.app/) |
+| 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir projeto](https://entrenos.goskip.app/) |
+| 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir portfólio](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
+
+</div>
+
+Esses projetos ajudam a mostrar uma evolução importante da jornada: o Gemini deixou de aparecer apenas como ferramenta para responder perguntas ou apoiar atividades e passou a fazer parte de **projetos públicos que podem ser acessados e experimentados por outras pessoas**.
+
+```text
+APRENDER
+   ↓
+EXPERIMENTAR
+   ↓
+CRIAR
+   ↓
+INTEGRAR GEMINI
+   ↓
+PUBLICAR
+   ↓
+TRANSFORMAR EM PROJETO REAL
+```
+
+---
+
+## 🌐 Registro público da jornada
+
+| Período | Conteúdo / Projeto | Origem / Uso de IA | Plataforma | Link |
 |---|---|---|---|---|
 | Onboarding | Anúncio como Embaixadora Estudantil | Onboarding | LinkedIn | [Abrir publicação](https://www.linkedin.com/posts/beatrizkcs_embaixadoresestudantisgoogle-embaixadoresestudantisgooglegemini-activity-7494394307228049408-2Iqe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACr1MqMByBIAjO5wlUJa0E77dw2bL0lnWOQ) |
-| Semana 2 | EntreNós | Radar de Oportunidades | Protótipo | [Abrir projeto](https://entrenos.goskip.app/) |
-| Semana 2 | Do Campo ao Conteúdo | Ação de Impacto | TikTok | [Assistir](https://vt.tiktok.com/ZSq8K1pdS/) |
-| Semana 3 | Minha Semana em Vídeo | Ação de Impacto | Instagram Reels | [Assistir](https://www.instagram.com/reel/DdKJ6b7ukht/?stkn=a3dsNHB2Y2JtMDZ4) |
-| Semana 3 | Minha Semana em Vídeo | Ação de Impacto | TikTok | [Assistir](https://www.tiktok.com/@1aspiraqualquer/video/7684356709984259335?is_from_webapp=1&sender_device=pc) |
-| Semana 3 | Minha Semana em Vídeo | Ação de Impacto | YouTube Shorts | [Assistir](https://youtube.com/shorts/G8pfajemQfI?si=qbdQBbPdJsNUrIa2) |
+| Semana 2 | EntreNós | Projeto com Gemini / Radar de Oportunidades | Protótipo | [Abrir projeto](https://entrenos.goskip.app/) |
+| Semana 2 | Do Campo ao Conteúdo | Ação de Impacto com Gemini | TikTok | [Assistir](https://vt.tiktok.com/ZSq8K1pdS/) |
+| Semana 3 | Portfólio da Jornada 2026 | Criado com Gemini Canvas | GitHub Pages | [Abrir portfólio](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
+| Semana 3 | Minha Semana em Vídeo | Ação de Impacto com Gemini Omni | Instagram Reels | [Assistir](https://www.instagram.com/reel/DdKJ6b7ukht/?stkn=a3dsNHB2Y2JtMDZ4) |
+| Semana 3 | Minha Semana em Vídeo | Ação de Impacto com Gemini Omni | TikTok | [Assistir](https://www.tiktok.com/@1aspiraqualquer/video/7684356709984259335?is_from_webapp=1&sender_device=pc) |
+| Semana 3 | Minha Semana em Vídeo | Ação de Impacto com Gemini Omni | YouTube Shorts | [Assistir](https://youtube.com/shorts/G8pfajemQfI?si=qbdQBbPdJsNUrIa2) |
+| Projeto público | Racha AI | Projeto que utiliza Gemini | Web App | [Abrir projeto](https://racha-ai.goskip.app/) |
+| Projeto público | Quintal das Missões | Projeto que utiliza Gemini | Web App | [Abrir projeto](https://quintal-das-missoes.vercel.app/) |
+
 
 ---
 
@@ -3243,6 +3317,10 @@ Nesta tabela aparecem apenas links públicos já recuperados.
 - [x] 💬 Onde está o seu desafio?
 - [x] 🎨 Transforme seu desafio
 - [x] 🧩 Participação na Sessão Gemini #03 — Gemini Canvas
+- [x] 🌐 Portfólio público da jornada criado no Gemini Canvas
+- [x] 🤖 Racha AI utilizando Gemini
+- [x] 🌱 Quintal das Missões utilizando Gemini
+- [x] 🤝 EntreNós utilizando Gemini
 - [x] 🎬 Minha Semana em Vídeo com Gemini Omni
 - [ ] 🚀 Próxima missão...
 
