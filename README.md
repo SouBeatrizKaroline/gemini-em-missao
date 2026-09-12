@@ -1,31 +1,19 @@
-
 <div align="center">
 
-## 🐈‍⬛ Miau na área!
-
-### Conheça quem roubou a cena logo no começo da missão
-
-*Entre IA, tecnologia, criatividade e alguns novelos de lã,*  
-*Batman assumiu oficialmente o cargo de porta-voz não oficial desta jornada.* 😼🚀
-
-<br>
-
-**🐾 Batman — Supervisor de Projetos • Fiscal de Reuniões • Especialista em Teclados**
-
-</div>
-
-<br>
-
-<div align="center">
-      
 # 🐱✨ Gemini em Missão
-
-</div>
-<div align="center">
 
 ### Minha jornada como Embaixadora Estudantil do Google 2026
 
 **Inteligência Artificial • Aprendizado • Impacto • Criação • Comunidade • Evolução**
+
+<br>
+
+🐈‍⬛ **Miau na área!**
+
+*Entre IA, tecnologia, criatividade e alguns novelos de lã,*  
+*Batman acabou assumindo o cargo de porta-voz não oficial desta jornada.* 😼🚀
+
+**🐾 Batman — Supervisor de Projetos • Fiscal de Reuniões • Especialista em Teclados**
 
 <br>
 
@@ -40,8 +28,8 @@
 
 <br>
 
-`🤖 Gemini` `🎓 Educação` `💻 Tecnologia` `🎨 Criatividade`
-`🌎 Impacto` `🧠 Aprendizado`
+`🤖 Gemini` `🎓 Educação` `💻 Tecnologia` `🎨 Criatividade`  
+`🌎 Impacto` `🧠 Aprendizado` `🐱 Gatinhos`
 
 </div>
 
@@ -49,153 +37,125 @@
 
 # 🌟 Sobre o Gemini em Missão
 
-O **Gemini em Missão** é o meu diário público de evolução durante a jornada como **Embaixadora Estudantil do Google 2026**.
+O **Gemini em Missão** é o meu diário público de evolução durante minha jornada como **Embaixadora Estudantil do Google 2026**.
 
-A proposta deste repositório não é apenas registrar que uma atividade foi concluída.
+A ideia deste repositório não é apenas marcar atividades como concluídas.
 
-Quero documentar o caminho inteiro:
+Quero registrar o caminho:
 
 - 🎯 o que foi proposto;
-- 📋 como a atividade deveria ser feita;
+- 📋 como a atividade funcionava;
 - 💭 como interpretei o desafio;
-- 💬 o que respondi;
+- 🚀 o que fiz;
+- 💬 o que respondi ou compartilhei;
 - 🤖 como utilizei o Gemini;
-- ✨ o que produzi;
-- 📸 evidências reais, quando existirem;
-- 🌐 publicações públicas, quando existirem;
+- ✨ o que criei;
+- 🌐 o que transformei em conteúdo ou projeto público;
 - 🧠 o que aprendi;
-- 🔄 o que faria diferente;
-- 📈 como aquele aprendizado evoluiu depois.
+- 🔄 como meu raciocínio evoluiu.
 
-Algumas atividades tiveram **mais de uma resposta ou entrega**. Quando isso acontecer, todas podem ser registradas.
+Algumas atividades tiveram **mais de uma resposta, criação ou desdobramento**. Quando isso aconteceu, mantive as diferentes partes porque elas ajudam a mostrar o processo — e não apenas o resultado final.
 
-> **Regra deste README:** uma atividade só recebe imagem, vídeo, prompt, link ou métrica quando esse material realmente existe e foi recuperado. Não uso elementos visuais apenas para preencher espaço.
+> 🐾 **A proposta é simples:** documentar a jornada como ela aconteceu, com espaço para experimentar, aprender, criar, errar, melhorar e tentar novamente.
 
 ---
 
 # 🔐 Sobre privacidade
 
-Este repositório é **público**.
+Este é um repositório **público**.
 
-Por isso, algumas informações utilizadas dentro da comunidade não são reproduzidas aqui.
+Por isso, informações internas da comunidade, dados pessoais de outros participantes, contatos, formulários, códigos individuais e materiais de circulação restrita não são reproduzidos aqui.
 
-Não publico:
+Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aquilo que faz sentido para contar minha própria experiência:
 
-- links internos do programa;
-- formulários de presença;
-- check-ins e check-outs privados;
-- links de RSVP;
-- painéis restritos;
-- dados pessoais de outros participantes;
-- telefones ou contatos internos;
-- códigos e benefícios individuais;
-- documentos de circulação restrita.
-
-Quando uma atividade depende de algum desses recursos, registro apenas:
-
-> **o que precisava ser feito + o que eu fiz + o resultado da minha experiência.**
-
----
-
-# 🧭 Como este README funciona
-
-O README foi organizado para funcionar como um **diário de bordo navegável**.
-
-As semanas permanecem visíveis para mostrar a evolução da jornada. Cada desafio, sessão, ação de impacto ou experiência pode ser **aberta e fechada individualmente**.
-
-> 💡 **Como navegar:** use o sumário para ir direto a uma atividade e clique no título dela para abrir ou recolher o conteúdo.
-
-Sempre que fizer sentido, as atividades seguem este fluxo:
-
-```text
-📅 DATA / ETAPA
-      ↓
-🎯 O QUE FOI PROPOSTO
-      ↓
-📋 COMO FAZER
-      ↓
-🚀 O QUE EU FIZ
-      ↓
-💬 RESPOSTAS / ENTREGAS
-      ↓
-🤖 GEMINI EM AÇÃO
-      ↓
-✨ RESULTADO
-      ↓
-📸 EVIDÊNCIA / 🌐 PUBLICAÇÃO — SE EXISTIR
-      ↓
-🧠 APRENDIZADOS
-      ↓
-🔄 MELHORIAS / 📈 EVOLUÇÃO
-```
-
-Nem toda atividade precisa conter todas essas partes. O README prioriza **fidelidade ao que realmente aconteceu**, e não o preenchimento artificial de um modelo.
+> **o que precisava ser feito → o que eu fiz → o que aprendi → no que aquilo se transformou**
 
 ---
 
 <a id="sumario"></a>
 
-# ⚡ Sumário da Jornada
+# ⚡ Explore a Jornada
 
-- [🗺️ Linha do Tempo](#linha-do-tempo)
-- [🌱 Onboarding](#onboarding)
-  - [🌐 14/08 — Entrada na comunidade](#onboarding-entrada)
-  - [🤝 15/08 — Conexões e networking](#onboarding-networking)
-  - [🐱 16/08 — Quebra-gelo criativo](#onboarding-quebra-gelo)
-  - [📢 16–18/08 — Compartilhando a conquista](#onboarding-conquista)
-  - [🚀 21/08 — Encontro de lançamento](#onboarding-lancamento)
-- [🤖 Semana 1 — Meu jeito de trabalhar com IA](#semana-1)
-  - [🛠️ Preparação](#semana1-preparacao)
-  - [🐱🎨 Chibi — Identidade do Team 03](#semana1-chibi)
-  - [🧠 Desafio #01 — Auditoria de Prompt](#semana1-auditoria-prompt)
-  - [💎 Explorando recursos avançados](#semana1-recursos-avancados)
-  - [📚 Sessão Gemini #01 — Study Notebooks](#semana1-study-notebooks)
-  - [🏁 Retrospectiva](#semana1-retrospectiva)
-- [🌎 Semana 2 — Onde a IA pode expandir possibilidades?](#semana-2)
-  - [🗺️ Desafio #01 — Meu Mapa de Impacto](#semana2-mapa-impacto)
-  - [🕵️ Missão Embaixadora em Campo](#semana2-embaixadora-campo)
-  - [📡 Radar de Oportunidades](#semana2-radar-oportunidades)
-  - [💻 Sessão Gemini #02 — Canvas + Bases de Dados](#semana2-canvas-bases)
-  - [🎙️ Ação de Impacto — Do Campo ao Conteúdo](#semana2-campo-conteudo)
-  - [🏁 Retrospectiva](#semana2-retrospectiva)
-- [🧠 Semana 3 — Aprendizagem visual e interativa](#semana-3)
-  - [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio)
-  - [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio)
-  - [🧩 Sessão Gemini #03 — Gemini Canvas no dia a dia](#semana3-visualizacoes)
-  - [🎬 Ação de Impacto — Minha Semana em Vídeo com Gemini Omni](#semana3-video-omni)
-- [💬 Evolução dos Prompts](#evolucao-prompts)
-- [🎥 Conteúdos e Projetos Públicos](#conteudos-publicacoes)
-- [📈 Minha Evolução](#minha-evolucao)
-- [🏆 Marcos da Jornada](#marcos)
-- [📝 Modelo das próximas atividades](#modelo-atividades)
-- [📸 Política de evidências](#politica-evidencias)
+<details open>
+<summary><strong>🌱 Onboarding — Começando a missão</strong></summary>
+
+- [🌐 Entrada na comunidade](#onboarding-entrada)
+- [🤝 Conexões e networking](#onboarding-networking)
+- [🐱 Quebra-gelo criativo](#onboarding-quebra-gelo)
+- [📢 Compartilhando a conquista](#onboarding-conquista)
+- [🚀 Encontro de lançamento](#onboarding-lancamento)
+
+</details>
+
+<details>
+<summary><strong>🤖 Semana 1 — Meu jeito de trabalhar com IA</strong></summary>
+
+- [🛠️ Preparação](#semana1-preparacao)
+- [🐱🎨 Chibi — Identidade do Team 03](#semana1-chibi)
+- [🧠 Desafio #01 — Auditoria de Prompt](#semana1-auditoria-prompt)
+- [💎 Explorando recursos avançados](#semana1-recursos-avancados)
+- [📚 Sessão Gemini #01 — Study Notebooks](#semana1-study-notebooks)
+- [🏁 Retrospectiva](#semana1-retrospectiva)
+
+</details>
+
+<details>
+<summary><strong>🌎 Semana 2 — Onde a IA pode expandir possibilidades?</strong></summary>
+
+- [🗺️ Desafio #01 — Meu Mapa de Impacto](#semana2-mapa-impacto)
+- [🕵️ Missão Embaixadora em Campo](#semana2-embaixadora-campo)
+- [📡 Radar de Oportunidades](#semana2-radar-oportunidades)
+- [💻 Sessão Gemini #02 — Canvas + Bases de Dados](#semana2-canvas-bases)
+- [🎙️ Ação de Impacto — Do Campo ao Conteúdo](#semana2-campo-conteudo)
+- [🏁 Retrospectiva](#semana2-retrospectiva)
+
+</details>
+
+<details>
+<summary><strong>🧠 Semana 3 — Aprendizagem visual e interativa</strong></summary>
+
+- [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio)
+- [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio)
+- [🧩 Sessão Gemini #03 — Gemini Canvas no dia a dia](#semana3-visualizacoes)
+- [🎬 Ação de Impacto — Minha Semana em Vídeo com Gemini Omni](#semana3-video-omni)
+
+</details>
+
+<details>
+<summary><strong>✨ Extras da jornada</strong></summary>
+
+- [🤖 Projetos que utilizam Gemini](#projetos-gemini)
+- [💬 Como meus prompts evoluíram](#evolucao-prompts)
+- [📈 Minha evolução](#minha-evolucao)
+- [🏆 Marcos da jornada](#marcos)
+
+</details>
 
 ---
 
 <a id="linha-do-tempo"></a>
 
-## 🗺️ Linha do Tempo
+# 🗺️ Linha do Tempo
 
-| Data | Etapa | Missão / Atividade | Tipo | Status |
-|---|---|---|---|:---:|
-| 14/08/2026 | Onboarding | Entrada na comunidade | 🌱 Marco | ✅ |
-| 15/08/2026 | Onboarding | Conexões e networking | 🤝 Iniciativa | ✅ |
-| 16/08/2026 | Onboarding | Quebra-gelo criativo | 🎨 Atividade | ✅ |
-| 16–18/08/2026 | Onboarding | Compartilhando a conquista | 📢 Impacto | ✅ |
-| 21/08/2026 | Onboarding | Encontro de lançamento | 🚀 Encontro | ✅ |
-| 24–31/08/2026 | Semana 1 | Meu jeito de trabalhar com IA | 🤖 Ciclo | ✅ |
-| 25/08/2026 | Semana 1 | Auditoria de Prompt | 🧠 Desafio | ✅ |
-| 28/08/2026 | Semana 1 | Study Notebooks | 📚 Sessão | ✅ participação |
-| 01/09/2026 | Semana 2 | Meu Mapa de Impacto | 🗺️ Desafio | ✅ |
-| 02–03/09/2026 | Semana 2 | Embaixadora em Campo | 🕵️ Investigação | ✅ |
-| 03/09/2026 | Semana 2 | Radar de Oportunidades | 📡 Desafio | ✅ |
-| 04/09/2026 | Semana 2 | Canvas + Bases de Dados | 💻 Sessão | ✅ participação |
-| 04/09/2026 | Semana 2 | Do Campo ao Conteúdo | 🎙️ Impacto | ✅ |
-| 08/09/2026 | Semana 3 | Onde está o seu desafio? | 💬 Desafio | ✅ |
-| 09/09/2026 | Semana 3 | Transforme seu desafio | 🎨 Desafio | ✅ |
-| 10/09/2026 | Semana 3 | Gemini Canvas no dia a dia | 🧩 Sessão | ✅ participação |
-| 11/09/2026 | Semana 3 | Minha Semana em Vídeo com Gemini Omni | 🎬 Impacto | ✅ |
-| Em breve | Próxima etapa | Nova missão... | 🚀 | ⏳ |
+| Data | Etapa | Missão | Status |
+|---|---|---|:---:|
+| 14/08/2026 | 🌱 Onboarding | Entrada na comunidade | ✅ |
+| 15/08/2026 | 🌱 Onboarding | Conexões e networking | ✅ |
+| 16/08/2026 | 🌱 Onboarding | Quebra-gelo criativo | ✅ |
+| 16–18/08/2026 | 🌱 Onboarding | Compartilhando a conquista | ✅ |
+| 21/08/2026 | 🌱 Onboarding | Encontro de lançamento | ✅ |
+| 24–31/08/2026 | 🤖 Semana 1 | Meu jeito de trabalhar com IA | ✅ |
+| 25/08/2026 | 🤖 Semana 1 | Auditoria de Prompt | ✅ |
+| 28/08/2026 | 🤖 Semana 1 | Study Notebooks | ✅ |
+| 01/09/2026 | 🌎 Semana 2 | Meu Mapa de Impacto | ✅ |
+| 02–03/09/2026 | 🌎 Semana 2 | Embaixadora em Campo | ✅ |
+| 03/09/2026 | 🌎 Semana 2 | Radar de Oportunidades | ✅ |
+| 04/09/2026 | 🌎 Semana 2 | Canvas + Bases de Dados | ✅ |
+| 04/09/2026 | 🌎 Semana 2 | Do Campo ao Conteúdo | ✅ |
+| 08/09/2026 | 🧠 Semana 3 | Onde está o seu desafio? | ✅ |
+| 09/09/2026 | 🧠 Semana 3 | Transforme seu desafio | ✅ |
+| 10/09/2026 | 🧠 Semana 3 | Gemini Canvas no dia a dia | ✅ |
+| 11/09/2026 | 🧠 Semana 3 | Minha Semana em Vídeo com Gemini Omni | ✅ |
 
 ---
 
@@ -203,25 +163,15 @@ Nem toda atividade precisa conter todas essas partes. O README prioriza **fideli
 
 # 🌱 ONBOARDING
 
-### 14 a 23 de agosto de 2026
+### 📅 14 a 23 de agosto de 2026
 
-> **Conhecer • Conectar • Compartilhar • Preparar**
+<div align="center">
 
-O início da jornada foi dedicado à entrada na comunidade, às primeiras conexões e à construção da nossa presença como Embaixadores e Embaixadoras.
+**Conhecer → Conectar → Compartilhar → Preparar**
 
----
+</div>
 
-### 🧭 Nesta etapa
-
-| Data | Registro |
-|---|---|
-| 14/08 | [🌐 Entrada na comunidade](#onboarding-entrada) |
-| 15/08 | [🤝 Conexões e networking](#onboarding-networking) |
-| 16/08 | [🐱 Quebra-gelo criativo](#onboarding-quebra-gelo) |
-| 16–18/08 | [📢 Compartilhando a conquista](#onboarding-conquista) |
-| 21/08 | [🚀 Encontro de lançamento](#onboarding-lancamento) |
-
-> **Clique em qualquer atividade para abrir ou recolher o conteúdo completo.**
+O começo da jornada foi dedicado à entrada na comunidade, às primeiras conexões e à construção da nossa presença como Embaixadores e Embaixadoras.
 
 ---
 
@@ -231,7 +181,6 @@ O início da jornada foi dedicado à entrada na comunidade, às primeiras conex�
 <summary><strong>🌐 14/08 — Entrada na comunidade</strong></summary>
 
 <br>
-
 
 ### 🎯 O que foi proposto
 
@@ -252,7 +201,7 @@ O espaço seria utilizado principalmente para:
 
 Comecei acompanhando as conversas e conhecendo participantes de diferentes áreas.
 
-A partir dali, passei a compartilhar um pouco da minha trajetória e experiências com tecnologia, projetos, comunidades e hackathons.
+A partir dali, passei a compartilhar um pouco da minha trajetória e das minhas experiências com tecnologia, projetos, comunidades e hackathons.
 
 ### 🧠 Primeira percepção
 
@@ -262,15 +211,18 @@ A partir dali, passei a compartilhar um pouco da minha trajetória e experiênci
 >
 > Minha primeira reação foi justamente tentar conhecer melhor as pessoas: entender o que cada uma estudava, o que sabia compartilhar, o que queria aprender e quais interesses poderiam aproximá-las.
 >
-> Foi daí que surgiu uma das minhas primeiras iniciativas espontâneas dentro da comunidade — e também um dos primeiros aprendizados da jornada: **tecnologia conecta ferramentas, mas são as pessoas, seus contextos e suas necessidades que dão sentido ao que construímos.**
+> Foi daí que surgiu uma das minhas primeiras iniciativas espontâneas dentro da comunidade — e também um dos primeiros aprendizados da jornada:
+>
+> **tecnologia conecta ferramentas, mas são as pessoas, seus contextos e suas necessidades que dão sentido ao que construímos.**
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
 </details>
 
 ---
+
 <a id="onboarding-networking"></a>
 
 <details>
@@ -278,15 +230,14 @@ A partir dali, passei a compartilhar um pouco da minha trajetória e experiênci
 
 <br>
 
-
 ### 🎯 O contexto
 
 Com a abertura da comunidade para interação, começamos a conhecer estudantes de diferentes cursos, áreas e regiões.
 
 As conversas passaram rapidamente por:
 
-`💻 Desenvolvimento` `🎮 Jogos` `🏆 Hackathons`
-`🎨 Criatividade` `📚 Estudos` `🌎 Idiomas`
+`💻 Desenvolvimento` `🎮 Jogos` `🏆 Hackathons`  
+`🎨 Criatividade` `📚 Estudos` `🌎 Idiomas`  
 `🚀 Carreira` `🤝 Comunidades`
 
 ### 💬 Algumas coisas que compartilhei
@@ -303,9 +254,7 @@ Também contei que já havia participado de hackathons nacionais e internacionai
 
 ---
 
-## 🌐 Iniciativa espontânea — Networking entre participantes
-
-### 💡 De onde surgiu
+### 🌐 Iniciativa espontânea — Networking entre participantes
 
 Durante as conversas, percebi que várias pessoas tinham interesse em:
 
@@ -320,9 +269,9 @@ Então surgiu a ideia de facilitar esse networking.
 
 ### 🚀 O que eu fiz
 
-Criei uma iniciativa **não oficial e voluntária** de organização de contatos e interesses.
+Criei uma iniciativa **não oficial e voluntária** para organizar contatos e interesses.
 
-A proposta permitia que cada pessoa escolhesse se queria compartilhar:
+Cada pessoa poderia escolher se gostaria de compartilhar:
 
 - 🎓 área de estudo ou atuação;
 - 💡 conhecimentos que poderia ensinar;
@@ -331,10 +280,8 @@ A proposta permitia que cada pessoa escolhesse se queria compartilhar:
 - 🌐 redes e comunidades;
 - 💬 observações e ideias.
 
-### ✍️ Texto que escrevi
-
 <details>
-<summary><strong>💬 Ver o texto que enviei</strong></summary>
+<summary><strong>💬 Abrir o texto que enviei</strong></summary>
 
 > Fala, pessoal! 👋✨
 >
@@ -361,66 +308,46 @@ A proposta permitia que cada pessoa escolhesse se queria compartilhar:
 
 </details>
 
-> 🔐 O link original não é publicado aqui porque a iniciativa tinha circulação restrita.
-
 ### 🧠 O que aprendi
 
-Essa iniciativa me ensinou que **facilitar conexões entre pessoas também exige pensar em segurança, privacidade e contexto**.
+Essa experiência me ensinou que **facilitar conexões entre pessoas também exige pensar em segurança, privacidade e contexto**.
 
-A intenção inicial era simples: tornar mais fácil descobrir pessoas com interesses, conhecimentos e objetivos em comum. Mas, ao longo da experiência, percebi que qualquer mecanismo de networking também envolve decisões sobre:
+A intenção inicial era simples: tornar mais fácil descobrir pessoas com interesses, conhecimentos e objetivos em comum.
 
-- quais informações realmente precisam ser compartilhadas;
-- quem pode acessar essas informações;
-- por quanto tempo elas devem permanecer disponíveis;
-- como deixar claro que a participação é opcional;
-- como evitar exposição desnecessária;
-- como equilibrar descoberta, colaboração e segurança.
+Mas fui percebendo que networking também envolve perguntas importantes:
 
-Também percebi que existe uma tensão real entre **visibilidade e privacidade**.
+- quais informações realmente precisam ser compartilhadas?
+- quem precisa ter acesso?
+- por quanto tempo?
+- como deixar claro que participar é opcional?
+- como evitar exposição desnecessária?
+- como equilibrar descoberta, colaboração e segurança?
 
-Em comunidades, projetos, carreira e criação de conteúdo, alguma exposição pode facilitar encontros, oportunidades e colaborações. Ao mesmo tempo, quanto mais informações ficam concentradas ou organizadas em um único lugar, maior precisa ser o cuidado com acesso, consentimento e finalidade.
+> **Não basta perguntar “isso conecta pessoas?” — também é preciso perguntar “isso conecta de forma segura, consciente e responsável?”**
 
-Foi uma experiência que me fez pensar de forma mais crítica sobre tecnologia e comunidade:
+### 📈 Como eu faria hoje
 
-> **não basta perguntar “isso conecta pessoas?” — também é preciso perguntar “isso conecta de forma segura, consciente e responsável?”**
+Hoje eu começaria pelo desenho da experiência e pela privacidade antes de pensar na ferramenta.
 
-### 📈 Evolução
-
-**Conexões que surgiram:**  
-A iniciativa ajudou a estimular conversas sobre interesses, áreas de atuação, conhecimentos e possibilidades de colaboração entre participantes.
-
-Mais importante do que contabilizar conexões específicas foi perceber que existia uma demanda real por mecanismos que facilitassem descobrir **quem está interessado em quê** dentro de uma comunidade grande.
-
-**Projetos ou conversas que nasceram disso:**  
-A experiência gerou principalmente uma discussão mais ampla sobre como criar espaços de networking que sejam úteis sem depender de exposição excessiva de informações pessoais.
-
-Isso acabou transformando uma iniciativa simples de organização de contatos em uma reflexão sobre:
-
-`comunidade` → `descoberta` → `privacidade` → `confiança` → `responsabilidade`
-
-**O que faria diferente hoje:**  
-Hoje eu começaria pela privacidade e pelo desenho do fluxo antes de pensar na planilha ou na ferramenta.
-
-Em vez de concentrar informações pessoais em uma base compartilhada, eu exploraria alternativas como:
+Exploraria alternativas como:
 
 - perfis com informações mínimas e opcionais;
 - interesses representados por tags;
-- busca por temas ou habilidades sem exibir todos os dados;
+- busca por temas ou habilidades;
 - conexões mediadas por interesse mútuo;
-- acesso restrito e com finalidade definida;
-- informações com prazo de validade;
-- possibilidade simples de editar ou remover dados;
-- orientações claras sobre o que é seguro compartilhar.
+- acesso restrito;
+- possibilidade simples de editar ou remover dados.
 
-A principal mudança seria aplicar uma lógica de **privacy by design** desde o início: coletar o mínimo necessário e criar a experiência de networking em torno das pessoas, e não em torno da quantidade de dados disponíveis.
+A principal mudança seria pensar em **privacy by design** desde o início.
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
 </details>
 
 ---
+
 <a id="onboarding-quebra-gelo"></a>
 
 <details>
@@ -428,49 +355,43 @@ A principal mudança seria aplicar uma lógica de **privacy by design** desde o 
 
 <br>
 
-
 ### 🎯 O que foi proposto
 
 Criar uma apresentação pessoal criativa utilizando o **Google Gemini**.
 
-A atividade tinha três partes principais.
+A atividade tinha três partes:
 
-### 📋 Como fazer
+#### 1️⃣ Criar uma imagem
 
-**1. Criar uma imagem**
-
-A proposta era criar uma imagem com Gemini que representasse:
+A imagem deveria representar aspectos como:
 
 - personalidade;
 - trajetória;
 - interesses;
 - propósito.
 
-Como o espaço não permitia fotos pessoais, a recomendação era explorar:
+Como o espaço não permitia fotos pessoais, era possível explorar:
 
 - avatares;
 - ilustrações;
 - personagens;
-- imagens criativas;
 - representações simbólicas.
 
-**2. Compartilhar a imagem**
+#### 2️⃣ Compartilhar a criação
 
 Salvar a imagem gerada e apresentá-la ao grupo.
 
-**3. Se apresentar junto com a imagem**
+#### 3️⃣ Se apresentar
 
-A mensagem deveria incluir:
+A apresentação deveria incluir:
 
 1. nome;
 2. curso e universidade;
-3. breve resumo do motivo de participar da jornada.
-
-Depois da própria apresentação, a ideia era interagir com as apresentações dos colegas.
+3. breve resumo do motivo para participar da jornada.
 
 ---
 
-# 🚀 O que eu fiz
+### 🚀 O que eu fiz
 
 Em vez de criar apenas uma apresentação tradicional, fiz **duas respostas complementares**.
 
@@ -480,10 +401,10 @@ Na segunda, fiz uma apresentação direta.
 
 ---
 
-## 🐈‍⬛ Resposta #01 — Batman apresenta Beatriz
+### 🐈‍⬛ Resposta #01 — Batman apresenta Beatriz
 
 <details>
-<summary><strong>🐾 Abrir minha apresentação completa</strong></summary>
+<summary><strong>🐾 Abrir apresentação completa</strong></summary>
 
 > 🐾 **Miau, Embaixadores! Permitam-me fazer as apresentações…**
 >
@@ -604,10 +525,10 @@ Na segunda, fiz uma apresentação direta.
 
 ---
 
-## 👩‍💻 Resposta #02 — Minha apresentação direta
+### 👩‍💻 Resposta #02 — Minha apresentação direta
 
 <details>
-<summary><strong>💬 Abrir minha segunda resposta</strong></summary>
+<summary><strong>💬 Abrir segunda apresentação</strong></summary>
 
 > Oi, pessoal! 💜🚀
 >
@@ -629,11 +550,13 @@ Na segunda, fiz uma apresentação direta.
 
 ---
 
-# 🎨 Resultado visual
+### 🎨 Resultado
+
+<div align="center">
 
 <img src="semana00-entrega01-desafio01-quebra-gelo-batman.png" width="720" alt="Imagem criada com Gemini para o quebra-gelo">
 
-### 🔎 Elementos da imagem
+</div>
 
 | Elemento | O que representa |
 |---|---|
@@ -644,17 +567,18 @@ Na segunda, fiz uma apresentação direta.
 | ❤️ Saúde | Minha trajetória em Enfermagem |
 | 🎮 Games | Jogos, game jams e criatividade |
 | 🧶 Novelos | Batman e a identidade felina |
-| 🌉 Cidade | Espaço urbano, território e diferentes caminhos |
+| 🌉 Cidade | Território e diferentes caminhos |
 | ✨ Constelações | Conexões entre áreas aparentemente distantes |
 | ♾️ Fluxos | Aprendizado contínuo |
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
 </details>
 
 ---
+
 <a id="onboarding-conquista"></a>
 
 <details>
@@ -662,101 +586,55 @@ Na segunda, fiz uma apresentação direta.
 
 <br>
 
-
-**Semana:** 00 — Onboarding  
-**Tipo:** Ação de Impacto / Publicação  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
 Contar publicamente que passei a fazer parte do **Programa de Embaixadores Estudantis do Google**, transformando a conquista em um registro da minha jornada.
 
-### 📋 Como fazer
-
 A atividade sugeria:
 
-1. preparar o material de celebração;
+1. preparar o material;
 2. compartilhar em uma rede social;
 3. explicar o que a conquista representava;
 4. falar sobre o propósito da participação;
-5. utilizar a hashtag `#EmbaixadoresEstudantisGoogle`.
-
----
+5. utilizar `#EmbaixadoresEstudantisGoogle`.
 
 ### 🚀 O que eu fiz
 
-Transformei esse momento em uma publicação no **LinkedIn**, compartilhando publicamente minha entrada no Programa de Embaixadores Estudantis do Google.
+Transformei esse momento em uma publicação no **LinkedIn**, compartilhando publicamente minha entrada no programa.
 
-Além de celebrar a conquista, a publicação se tornou um dos primeiros registros públicos desta jornada e um ponto de partida para documentar os experimentos, aprendizados, conteúdos e projetos desenvolvidos durante o programa.
+Além de celebrar a conquista, a publicação se tornou um dos primeiros registros públicos da jornada.
 
----
+<div align="center">
 
-### 🌐 Publicação da atividade
+### 💼 Publicação no LinkedIn
 
-| Plataforma | Publicação |
-|---|---|
-| 💼 LinkedIn | [Ver publicação](https://www.linkedin.com/posts/beatrizkcs_embaixadoresestudantisgoogle-embaixadoresestudantisgooglegemini-activity-7494394307228049408-2Iqe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACr1MqMByBIAjO5wlUJa0E77dw2bL0lnWOQ) |
+[**🌐 Abrir publicação**](https://www.linkedin.com/posts/beatrizkcs_embaixadoresestudantisgoogle-embaixadoresestudantisgooglegemini-activity-7494394307228049408-2Iqe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACr1MqMByBIAjO5wlUJa0E77dw2bL0lnWOQ)
 
----
-
-### 🖼️ Evidência
-
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHxBrEUbBuMOA/feedshare-image-high-res/B4DaAFv6LDKQAQ-/0/1786802840501?e=1790812800&v=beta&t=g1B4ftmC3iaRtYcVtfkeEy8Ja0qGuTX_9jl6dtPvyio"
-       width="680"
-       alt="Publicação anunciando minha participação como Embaixadora Estudantil do Google">
-</p>
-
----
+</div>
 
 ### 🧠 O que aprendi
 
-Essa atividade marcou a passagem entre **viver uma experiência** e também **documentá-la publicamente**.
+Compartilhar uma conquista pode ir além de simplesmente anunciar que algo aconteceu.
 
-Percebi que compartilhar uma conquista pode ir além de simplesmente anunciar que algo aconteceu. Também pode ser uma oportunidade para:
+Também pode ser uma maneira de:
 
-- 📝 registrar um marco da trajetória;
-- 🎯 explicar o propósito por trás daquela conquista;
+- 📝 registrar um marco;
+- 🎯 explicar o propósito;
 - 🤝 encontrar pessoas com interesses semelhantes;
-- 🌐 ampliar conexões e trocas;
-- 💼 fortalecer a construção de um portfólio público;
-- 🚀 criar continuidade para projetos e conteúdos futuros.
+- 🌐 ampliar conexões;
+- 💼 construir um portfólio público;
+- 🚀 criar continuidade para projetos futuros.
 
-Esse primeiro registro também ajudou a estabelecer uma ideia que quero manter durante toda a jornada:
+> **Não quero mostrar apenas resultados finais. Quero registrar processo, experimentação, aprendizado e evolução.**
 
-> **não mostrar apenas o resultado final, mas registrar o processo, os experimentos, os aprendizados e a evolução.**
-
----
-
-### 📈 Evolução
-
-A publicação passou a funcionar como um dos pontos iniciais da minha presença pública durante o programa.
-
-A partir dela, comecei a pensar a experiência não apenas como uma sequência de atividades, mas como uma jornada que também poderia ser transformada em:
-
-`aprendizado` → `experimento` → `conteúdo` → `compartilhamento` → `conexão` → `impacto`
-
----
-
-### 🌐 Onde acompanhar minha jornada
-
-Além deste repositório, compartilho projetos, experimentos, conteúdos e partes da minha jornada em diferentes plataformas:
-
-| Rede | Perfil |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/beatrizkcs](https://www.linkedin.com/in/beatrizkcs/) |
-| ▶️ YouTube | [@1aspiraqualquer](https://www.youtube.com/@1aspiraqualquer) |
-| 📸 Instagram | [@1aspiraqualquer](https://www.instagram.com/1aspiraqualquer/) |
-| 🎵 TikTok | [@1aspiraqualquer](https://www.tiktok.com/@1aspiraqualquer) |
-
-> 🐱 **Miau na área!** Ao longo da jornada, essas redes também funcionam como espaços para transformar experimentos com IA em conteúdos mais acessíveis, criativos e compartilháveis.
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
 </details>
 
 ---
+
 <a id="onboarding-lancamento"></a>
 
 <details>
@@ -764,18 +642,11 @@ Além deste repositório, compartilho projetos, experimentos, conteúdos e parte
 
 <br>
 
-
-**Semana:** 00 — Onboarding  
-**Tipo:** 🎓 Encontro de lançamento  
-**Status:** ✅ Participação registrada
-
 ### 🎯 O que foi proposto
 
 Participar do encontro que marcou oficialmente o início da jornada como **Embaixadora Estudantil do Google**.
 
-O encontro apresentou a estrutura do programa, o papel dos embaixadores e alguns dos principais temas que seriam explorados durante os meses seguintes.
-
-Entre eles estavam:
+Entre os temas apresentados estavam:
 
 - 💼 carreira;
 - 📢 criação de conteúdo;
@@ -787,86 +658,47 @@ Entre eles estavam:
 - 🌎 networking;
 - 🤝 liderança e comunidade.
 
-Também conhecemos melhor a dinâmica da jornada, que seria construída por meio de sessões, atividades, desafios e ações de impacto ao longo das semanas.
-
----
-
 ### 🚀 O que eu fiz
 
-Participei do encontro de lançamento e comecei a organizar como queria viver e documentar essa experiência.
+Participei do encontro e comecei a organizar como queria viver e documentar a experiência.
 
-Mais do que acompanhar as atividades propostas, decidi transformar o programa em uma oportunidade para:
+Decidi utilizar o programa para:
 
 - experimentar diferentes formas de utilizar IA;
-- registrar prompts, resultados e aprendizados;
+- registrar prompts e aprendizados;
 - transformar experiências em conteúdo;
-- compartilhar conhecimento com outras pessoas;
+- compartilhar conhecimento;
 - fortalecer meu portfólio;
-- criar conexões com estudantes de diferentes áreas;
-- observar minha própria evolução ao longo da jornada.
+- criar conexões;
+- observar minha própria evolução.
 
-Foi também a partir desse início que este repositório começou a ganhar uma função maior: não apenas guardar entregas, mas **documentar todo o processo**.
+Foi nesse momento que este repositório começou a ganhar uma função maior:
 
----
+> **não apenas guardar entregas, mas documentar o caminho até elas.**
 
-### 💡 Principais insights
+### 💡 O que ficou comigo
 
-#### 1. Ser embaixadora vai além de conhecer uma ferramenta
-
-Uma das primeiras percepções foi que o papel de embaixadora não seria apenas aprender a utilizar o Gemini.
-
-Também envolveria **experimentar, compartilhar, ensinar, criar conteúdo e multiplicar conhecimento** dentro e fora da comunidade.
-
----
-
-#### 2. A jornada seria construída pela prática
-
-O programa apresentou uma dinâmica baseada em atividades, desafios, sessões e ações de impacto.
-
-Isso reforçou para mim a ideia de que aprender IA não acontece apenas consumindo conteúdo.
-
-É preciso:
+<div align="center">
 
 `testar` → `errar` → `ajustar` → `entender` → `aplicar` → `compartilhar`
 
----
+</div>
 
-#### 3. Comunidade também fazia parte do aprendizado
+A jornada começava a se mostrar como uma combinação de:
 
-O lançamento reforçou algo que eu já tinha começado a perceber durante o onboarding: grande parte do valor da experiência estaria também nas pessoas.
-
-Cursos, conhecimentos, perspectivas e interesses diferentes poderiam gerar novas ideias, projetos e formas de utilizar tecnologia.
-
-Por isso, comecei a olhar para o programa como uma combinação de:
+<div align="center">
 
 **IA + aprendizado + comunidade + experimentação + impacto**
 
----
+</div>
 
-### 📈 O que se tornou prática depois?
-
-Algumas ideias apresentadas nesse início acabaram se tornando parte da forma como passei a viver o programa.
-
-Entre elas:
-
-- 📝 documentar minhas atividades e aprendizados;
-- 🤖 experimentar diferentes recursos do Gemini;
-- 🎨 utilizar IA também em processos criativos;
-- 📢 transformar aprendizados em conteúdo;
-- 🌐 compartilhar parte da jornada publicamente;
-- 🤝 buscar conexões e possibilidades de colaboração;
-- 🔍 refletir não apenas sobre o resultado, mas sobre o processo;
-- 📚 testar formas diferentes de utilizar IA para estudar e organizar conhecimento.
-
-Este próprio repositório é uma consequência dessa decisão.
-
-> **Em vez de guardar apenas as entregas finais, comecei a registrar também o caminho até elas.**
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
 </details>
+
+---
 
 <a id="semana-1"></a>
 
@@ -874,25 +706,13 @@ Este próprio repositório é uma consequência dessa decisão.
 
 ### 📅 24 a 31 de agosto de 2026
 
-> **Preparar → Aprender → Experimentar → Compartilhar → Aprofundar**
+<div align="center">
+
+**Preparar → Aprender → Experimentar → Compartilhar → Aprofundar**
+
+</div>
 
 O primeiro ciclo oficial teve como foco observar **como cada pessoa já trabalhava com IA** e experimentar formas melhores de estudar, pesquisar e criar utilizando Gemini.
-
----
-
-## 🧭 Sumário da Semana 1
-
-| Data | Etapa |
-|---|---|
-| 24/08 | [🛠️ Preparação para a Semana 1](#semana1-preparacao) |
-| Semana 1 | [🐱🎨 Chibi — Identidade do Team 03](#semana1-chibi) |
-| 25/08 | [🧠 Desafio #01 — Auditoria de Prompt](#semana1-auditoria-prompt) |
-| 26/08 | [💎 Explorando recursos avançados](#semana1-recursos-avancados) |
-| 28/08 | [📚 Sessão Gemini #01 — Study Notebooks](#semana1-study-notebooks) |
-| Semana 1 | [🌟 Atividades de Impacto](#semana1-impacto) |
-| Encerramento | [🏁 Retrospectiva](#semana1-retrospectiva) |
-
-> **As atividades abaixo são recolhíveis.** Abra apenas o que quiser consultar.
 
 ---
 
@@ -903,70 +723,34 @@ O primeiro ciclo oficial teve como foco observar **como cada pessoa já trabalha
 
 <br>
 
-
-**Semana:** 01  
-**Tema:** 🤖✨ Meu Jeito de Trabalhar com IA  
-**Tipo:** 🛠️ Preparação + 🎨 Construção de comunidade  
-**Status:** ✅ Concluído
-
 ### 🎯 O que precisava ser feito
 
-Antes das primeiras missões práticas, a orientação era preparar o ambiente para o início da Semana 1.
+Antes das primeiras missões práticas, a orientação era preparar o ambiente para a semana:
 
-Entre os pontos dessa preparação estavam:
-
-- revisar as informações necessárias para a jornada;
+- revisar informações importantes;
 - organizar o ambiente;
 - garantir acesso aos recursos;
 - acompanhar o calendário;
-- preparar-se para os primeiros desafios;
+- preparar-se para os desafios;
 - preparar-se para a primeira Sessão Gemini.
-
----
-
-## ⚡ O que esperar da Semana 1
-
-A primeira semana oficial começou com uma missão maior conectando todas as atividades:
-
-> ## 🤖✨ MEU JEITO DE TRABALHAR COM IA
-
-A proposta era observar como cada pessoa já utilizava inteligência artificial, experimentar novas formas de trabalhar e estudar com o Gemini e, ao final da semana, avançar para o uso de conteúdos, referências e materiais de estudo em um ambiente estruturado de conhecimento.
-
-### 🗓️ Resumão da semana
-
-| Dia | Etapa | O que estava previsto |
-|---|---|---|
-| 💎 Segunda-feira | **PREPARAR** | Validar os dados e preparar a semana |
-| 🛠️ Terça-feira | **APRENDER** | Primeiro desafio prático da semana |
-| ⚡ Quarta-feira | **PREPARAR** | Orientações relacionadas aos recursos necessários para as próximas atividades |
-| 💼 Quinta-feira | **COMPARTILHAR** | Sacadas de uso do Gemini no cotidiano acadêmico e preparação para a sessão |
-| 📣 Sexta-feira | **APROFUNDAR E IMPACTAR** | Primeira Sessão Gemini, aprofundamento em Study Notebooks e novas atividades de compartilhamento |
-
-A lógica da semana começava a ficar clara:
-
-`PREPARAR` → `APRENDER` → `EXPERIMENTAR` → `COMPARTILHAR` → `APROFUNDAR` → `IMPACTAR`
-
----
 
 ### 🚀 O que eu fiz
 
-Durante essa preparação:
+- [x] acompanhei as orientações e o calendário;
+- [x] organizei os próximos passos;
+- [x] comecei a estruturar como registraria meus aprendizados;
+- [x] participei das interações do **Team 03**;
+- [x] contribuí para a identidade visual do mascote;
+- [x] criei diferentes figurinhas do **Chibi**.
 
-- [x] acompanhei as orientações e o calendário da primeira semana;
-- [x] organizei os próximos passos da jornada;
-- [x] acompanhei a preparação para os primeiros desafios;
-- [x] comecei a estruturar como registraria minhas experiências e aprendizados;
-- [x] participei das interações e construções coletivas do **Team 03**;
-- [x] contribuí para a construção da identidade visual do mascote escolhido pelo time;
-- [x] criei diferentes figurinhas do **Chibi** para serem utilizadas pelo grupo.
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
 </details>
 
 ---
+
 <a id="semana1-chibi"></a>
 
 <details>
@@ -974,12 +758,7 @@ Durante essa preparação:
 
 <br>
 
-
-Durante a preparação para a primeira semana, também aconteceu uma movimentação mais descontraída dentro do **Team 03**: a escolha de um mascote para representar o grupo.
-
-A proposta de termos um mascote começou a partir da iniciativa de outro colega. A ideia ganhou participação do grupo e acabou se transformando em uma votação.
-
-E o escolhido foi...
+Durante a preparação da primeira semana, o **Team 03** escolheu um mascote para representar o grupo.
 
 <div align="center">
 
@@ -989,11 +768,7 @@ E o escolhido foi...
 
 </div>
 
----
-
-### 🗳️ O resultado da votação
-
-A escolha foi anunciada de forma divertida, como se o Chibi tivesse acabado de vencer uma eleição:
+### 🗳️ O anúncio
 
 > 🗳️ **ATENÇÃO, ATENÇÃO! SAIU O RESULTADO DAS URNAS!** 🚨🐾
 >
@@ -1011,96 +786,49 @@ A escolha foi anunciada de forma divertida, como se o Chibi tivesse acabado de v
 > ✅ Mais inteligência artificial para transformar realidades.  
 > ✅ E, claro, muito mais fofura nessa jornada! 🐾
 >
-> A decisão foi democrática, a vitória foi merecida e o mandato começa agora! 🚀
->
 > **CHIBI ELEITO! A escolha do TEAM 03!** 💙❤️💛💚
->
-> `#EmbaixadoresEstudantisGoogle` `#Team03` `#ChibiEleito` `#ProtagonismoEstudantil` `#Inovação`
-
----
 
 ### 🎨 Minha contribuição
 
-Embora a proposta inicial de criação de um mascote tenha surgido a partir de outro integrante do grupo, minha principal contribuição aconteceu depois da escolha:
+A ideia inicial do mascote surgiu a partir de outro integrante do grupo.
+
+Minha contribuição veio depois:
 
 > **transformar o Chibi em uma identidade visual que pudesse realmente ser utilizada pelo Team 03.**
 
-A partir do personagem escolhido coletivamente, trabalhei na construção visual do mascote e criei **diversas figurinhas do Chibi** para que ele pudesse aparecer nas conversas, interações e momentos da comunidade.
-
-O personagem deixou de ser apenas o vencedor de uma votação e começou a ganhar diferentes expressões e situações.
-
-Isso também tornou o Chibi uma forma divertida de criar:
-
-- 🐾 identidade para o Team 03;
-- 🎨 consistência visual;
-- 💬 figurinhas para comunicação;
-- 😺 expressões e reações para diferentes situações;
-- 🤝 sensação de pertencimento ao grupo;
-- 🚀 uma linguagem visual própria para acompanhar a jornada.
-
----
-
-### 🖼️ Conheça o Chibi
+Criei diferentes versões e figurinhas para que o personagem pudesse aparecer nas conversas e interações da comunidade.
 
 <div align="center">
 
-
-<img src="chibi-01.png" width="720" alt="Chibi, mascote escolhido pelo Team 03 durante o Programa de Embaixadores Estudantis do Google">
+<img src="chibi-01.png" width="720" alt="Chibi, mascote do Team 03">
 
 <br><br>
 
-<strong>🐱 Chibi — Mascote do Team 03</strong><br>
-<em>Curiosidade • Colaboração • Criatividade • Inovação</em>
+**🐱 Chibi — Mascote do Team 03**  
+*Curiosidade • Colaboração • Criatividade • Inovação*
+
+<br><br>
+
+<img src="chibi-02.png" width="180" alt="Figurinha do Chibi">
 
 </div>
-
----
-
-### 😺 As figurinhas do Chibi
-
-Além da identidade principal, criei diferentes versões e figurinhas do personagem para que o mascote pudesse acompanhar as interações do grupo.
-
-<div align="center">
-
-<img src="chibi-02.png" width="180" alt="Figurinha do Chibi 02">
-
-</div>
-
-> 🖼️ **Nota:** a galeria pode crescer conforme novas versões do Chibi forem recuperadas e adicionadas ao repositório.
-
----
 
 ### 🧠 O que aprendi
 
-Essa experiência mostrou que construir uma comunidade também passa por elementos que parecem pequenos.
+Um mascote, uma figurinha ou uma brincadeira interna podem ajudar a criar **identidade, pertencimento e uma linguagem compartilhada**.
 
-Um mascote, uma figurinha ou uma brincadeira interna podem ajudar a criar **identidade, pertencimento e uma linguagem compartilhada entre pessoas que ainda estão começando a se conhecer**.
-
-Também foi interessante participar de algo que nasceu de forma colaborativa: uma pessoa trouxe a ideia, o grupo participou da escolha e eu pude contribuir utilizando criatividade e design para transformar o personagem em algo que pudesse ser usado pela comunidade.
+Também foi uma experiência sobre colaboração:
 
 > **Nem toda contribuição precisa começar com a ideia original. Às vezes, colaborar significa pegar uma boa ideia coletiva e usar aquilo que você sabe fazer para ajudá-la a ganhar forma.**
 
----
-
-### 📈 Como isso evoluiu
-
-O Chibi não ficou restrito à votação.
-
-Com a criação da identidade visual e das figurinhas, o personagem começou a se tornar um elemento recorrente da experiência do grupo e também passou a representar visualmente valores que combinavam com aquela primeira semana:
-
-`curiosidade` → `experimentação` → `criatividade` → `colaboração` → `compartilhamento`
-
-E isso combinava bastante com a missão que estava apenas começando:
-
-> 🤖✨ **descobrir o nosso próprio jeito de trabalhar com IA.**
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
 </details>
 
 ---
+
 <a id="semana1-auditoria-prompt"></a>
 
 <details>
@@ -1108,63 +836,40 @@ E isso combinava bastante com a missão que estava apenas começando:
 
 <br>
 
-
-**Semana:** 01 — Meu Jeito de Trabalhar com IA  
-**Etapa:** 🛠️ APRENDER  
-**Tipo:** 🎯 Desafio oficial  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
-Depois da preparação para a primeira semana, chegou o primeiro desafio prático.
-
-A comunidade recebeu exatamente o mesmo ponto de partida: um prompt simples e bastante comum na rotina de estudos:
+Todas as pessoas receberam o mesmo prompt:
 
 > **“Tenho uma prova na sexta-feira. Monte um plano de estudos para mim.”**
 
-A partir dele, cada participante deveria assumir o papel de **Auditor(a) de Prompts** e responder:
+A missão era assumir o papel de **Auditor(a) de Prompts** e responder:
 
 > **Se esse prompt fosse seu, o que você mudaria para receber uma resposta muito melhor?**
 
-O objetivo não era encontrar uma única resposta correta, mas observar **quantas formas diferentes a comunidade conseguiria encontrar para melhorar o mesmo pedido**.
-
----
-
-### 📋 Como fazer
-
 Era possível:
 
-- acrescentar informações;
-- contextualizar a prova;
-- informar conteúdos e referências;
-- incluir disponibilidade;
-- criar regras e restrições;
+- acrescentar contexto;
+- informar conteúdos;
+- adicionar referências;
+- explicar disponibilidade;
+- criar restrições;
 - mudar a estrutura;
-- fazer novas perguntas;
-- adicionar estratégias já utilizadas;
-- ou reconstruir completamente o prompt.
-
-Depois, era necessário criar uma versão aprimorada e compartilhá-la no formato:
-
-> 💬 **EU MELHORARIA O PROMPT…**  
-> contando rapidamente o que havia sido alterado ou qual estratégia havia sido utilizada.
-
-Não existia um único gabarito.
-
-A proposta era justamente comparar diferentes maneiras de pensar e trabalhar com IA.
+- fazer perguntas;
+- adicionar estratégias;
+- reconstruir o prompt.
 
 ---
 
-## 🚀 O que eu fiz
+### 🚀 O que eu fiz
 
-Minha primeira percepção foi que **não existe necessariamente um “prompt perfeito” isolado do contexto**.
+Minha primeira percepção foi que **não existe necessariamente um prompt perfeito isolado do contexto**.
 
-A qualidade da resposta dependeria das informações que eu conseguisse fornecer sobre a prova, minha rotina, minhas preferências e os materiais disponíveis.
+A resposta dependeria das informações disponíveis sobre a prova, minha rotina, minhas preferências e os materiais.
 
-### 💬 Minha resposta — #01
+### 💬 Minha resposta #01
 
 <details>
-<summary><strong>💬 Ver minha resposta original</strong></summary>
+<summary><strong>Abrir resposta original</strong></summary>
 
 > Acho que dependeria do contexto, e também do quanto eu estivesse conseguindo organizar o que gostaria, quanto mais detalhes do que quero, mais precisa está é, porém para começar de maneira simplificada.
 >
@@ -1174,11 +879,7 @@ A qualidade da resposta dependeria das informações que eu conseguisse fornecer
 
 </details>
 
----
-
 ### ✨ Meu prompt aprimorado
-
-A estrutura que propus foi:
 
 ```text
 Sendo meu professor particular da matéria de [especificar] e sabendo que tenho uma prova na sexta-feira desta, onde irá ser sobre [assunto], conforme meu cronograma e disponibilidade e sem afetar meu tempo de sono, sabendo que estamos usando as referências [indicar quais], faça um cronograma de estudo completo para que eu estude até a quinta antes da prova.
@@ -1186,88 +887,52 @@ Sendo meu professor particular da matéria de [especificar] e sabendo que tenho 
 Tenho preferência por estudos [especificar método, longo ou curto e afins].
 ```
 
-Além do texto, eu também sugeri fornecer à IA materiais que ajudassem a entender melhor minha rotina e o contexto acadêmico, como:
+Também sugeri fornecer:
 
-- 📅 minha agenda da semana;
-- 🎓 minha grade curricular;
-- 📚 referências utilizadas na disciplina;
-- 📝 conteúdo previsto para a prova;
-- ⏰ horários realmente disponíveis;
-- 😴 a restrição de não prejudicar meu tempo de sono;
-- 🧠 minhas preferências de estudo.
+- 📅 agenda;
+- 🎓 grade curricular;
+- 📚 referências;
+- 📝 conteúdo da prova;
+- ⏰ disponibilidade;
+- 😴 limite para não prejudicar o sono;
+- 🧠 preferências de estudo.
 
----
+Minha lógica saiu de:
 
-### 🔎 O que mudei
-
-O prompt original dizia apenas:
-
-> “Tenho uma prova na sexta-feira. Monte um plano de estudos para mim.”
-
-Para mim, faltavam informações essenciais.
-
-Por isso, acrescentei diferentes camadas de contexto:
-
-| Elemento | O que acrescentei | Por quê |
-|---|---|---|
-| 🎓 Papel | Professor particular | Dar um contexto para a forma de orientação |
-| 📚 Disciplina | Matéria específica | Evitar um planejamento genérico |
-| 📝 Conteúdo | Assuntos da prova | Direcionar o estudo |
-| 📖 Fontes | Referências utilizadas | Aproximar o plano do material real |
-| 📅 Agenda | Cronograma e disponibilidade | Criar um plano possível de executar |
-| 😴 Restrição | Não afetar meu sono | Evitar um cronograma irreal |
-| 🧠 Preferências | Meu método de estudo | Personalizar a estratégia |
-| 📎 Contexto adicional | Agenda, grade e outros materiais | Dar mais informações para a IA raciocinar sobre minha rotina |
-
-A principal mudança foi sair de:
+<div align="center">
 
 `pedido genérico`
 
-para:
+⬇️
 
 `contexto + objetivo + materiais + disponibilidade + restrições + preferências`
 
+</div>
+
 ---
 
-## 💡 Uma segunda estratégia que sugeri
+### 💡 Minha segunda estratégia
 
-Depois da primeira resposta, acrescentei outra possibilidade: **usar a própria IA para ajudar a melhorar o prompt antes de executar a tarefa principal**.
-
-### 💬 Minha resposta — #02
-
-<details>
-<summary><strong>💬 Ver minha segunda contribuição</strong></summary>
+Também sugeri usar a própria IA para ajudar a melhorar o prompt antes de executar a tarefa principal.
 
 > Uma coisa é pedir a própria IA para estruturar e melhorar o prompt antes, principalmente no início, se eu não usasse ela, poderia ajudar, pois cada IA atende melhor por formulações diferentes
 
-</details>
+<div align="center">
 
-Essa ideia adicionava uma etapa anterior ao processo:
+`ideia inicial` → `IA ajuda a estruturar` → `revisão` → `prompt aprimorado` → `execução`
 
-`ideia inicial` → `IA ajuda a estruturar o prompt` → `revisão` → `prompt aprimorado` → `execução`
-
-Em vez de depender apenas de saber escrever um prompt avançado desde o início, a própria IA poderia funcionar como uma parceira na estruturação da solicitação.
+</div>
 
 ---
 
-## 🔥 Aprendendo com a comunidade
+### 🔥 Aprendendo com a comunidade
 
-Depois que todos trabalharam sobre o mesmo prompt, surgiu uma segunda parte do desafio.
+Na segunda parte do desafio, precisávamos escolher uma estratégia utilizada por outra pessoa que gostaríamos de incorporar.
 
-A orientação foi procurar entre as respostas dos outros participantes uma técnica, melhoria ou estratégia que eu gostaria de incorporar aos meus próximos prompts.
-
-Depois de escolher uma contribuição, era necessário completar:
-
-> 💡 **VOU USAR ESSA DICA PORQUE…**
-
-Eu concluí essa etapa escolhendo **o prompt de uma colega** que utilizava Markdown, definição de formato de saída, restrições e a própria GenIA como apoio para melhorar o prompt.
-
-### 👥 Contribuição que escolhi
-
-> 🔐 **Privacidade:** a identificação da colega não é reproduzida neste README. O conteúdo da contribuição é mantido porque faz parte do aprendizado da atividade.
+Escolhi uma contribuição que utilizava **Markdown, formato de saída, restrições e meta-prompting**.
 
 <details>
-<summary><strong>💬 Ver a contribuição e o prompt da colega</strong></summary>
+<summary><strong>💬 Abrir contribuição escolhida</strong></summary>
 
 > 💬 **EU MELHORARIA O PROMPT…**
 >
@@ -1296,54 +961,21 @@ Evite introduções longas ou textos teóricos; vá direto ao plano de ação di
 
 </details>
 
-### 💬 Minha resposta — #03
-
-<details>
-<summary><strong>🔥 Por que escolhi essa dica</strong></summary>
+### 💬 Minha resposta #03
 
 > Eu usaria essa dica, para entender melhor o funcionamento de markdowns na IA, pois não é algo que costumo utilizar tanto e dependendo da IA pode realmente funcionar bem
 
-</details>
-
-### 💡 O que levei dessa contribuição
-
-O que mais me chamou atenção foi que o prompt da colega não melhorava apenas o **conteúdo do pedido**. Ele também organizava a maneira como a solicitação seria interpretada e como a resposta deveria ser entregue.
-
-| Elemento | O que aparecia no prompt |
-|---|---|
-| 🧱 **Markdown / estrutura** | Separação entre contexto, formato de saída e restrições |
-| 🎯 **Contexto** | Matéria, tópicos, tempo disponível e nível de conhecimento |
-| 🖥️ **Formato de saída** | Cronograma por dias, tabelas ou listas e leitura visual |
-| 🚧 **Restrições** | Exclusão de fontes, carga leve na véspera e resposta direta |
-| 🤖 **Meta-prompting** | Uso da própria GenIA para ajudar a melhorar o prompt |
-
-Essa etapa foi importante porque me permitiu comparar minha forma de construir prompts com a de outra participante e identificar uma técnica concreta que eu realmente queria testar depois.
-
----
-
 ### 🧠 O que aprendi
 
-O desafio reforçou algo que eu já percebia no uso cotidiano de IA: **quanto mais contexto relevante eu consigo fornecer, menor a necessidade de a IA preencher lacunas por conta própria**.
+O desafio mostrou que melhorar prompts não significa decorar uma fórmula.
 
-Mas também trouxe um aprendizado novo.
+> **É desenvolver repertório para decidir quais informações, estruturas e restrições fazem sentido para cada problema.**
 
-Como todas as pessoas começaram exatamente com o mesmo prompt, ficou muito evidente que existem várias maneiras de chegar a uma solicitação melhor.
-
-Algumas pessoas acrescentaram contexto. Outras trabalharam a estrutura. Outras utilizaram técnicas que eu ainda não costumava aplicar.
-
-Foi justamente essa comparação que tornou o exercício interessante.
-
-> **Melhorar prompts não é apenas aprender uma fórmula. É desenvolver repertório para decidir quais informações, estruturas e restrições fazem sentido para cada problema.**
-
-Também saí do desafio querendo experimentar mais o **Markdown como ferramenta de estruturação de prompts**.
-
----
+Também comecei a explorar mais **Markdown como ferramenta de estruturação**.
 
 ### 📈 Como eu faria hoje
 
-Hoje eu manteria a ideia central da minha resposta original — fornecer contexto real sobre minha rotina — mas acrescentaria uma etapa de diagnóstico antes de pedir o cronograma definitivo.
-
-Por exemplo:
+Hoje eu adicionaria uma etapa de diagnóstico:
 
 ```text
 # Papel
@@ -1394,35 +1026,28 @@ Apresente:
 4. uma checklist final para acompanhar meu progresso.
 ```
 
-### 🔄 Evolução do meu raciocínio
+<div align="center">
 
-Comparando as duas versões, minha lógica evoluiu de:
-
-**2026 — resposta original**
+**Antes**
 
 `dar mais contexto → pedir um cronograma melhor`
 
-para:
-
-**releitura posterior**
+**Depois**
 
 `dar contexto → identificar lacunas → perguntar → priorizar → planejar → acompanhar`
 
-A ideia principal continua a mesma, mas hoje eu daria mais espaço para a IA **entender o problema antes de tentar resolvê-lo**.
+</div>
 
----
+> 🐾 **Um bom prompt não precisa nascer pronto. Ele pode ser construído em diálogo, ganhar contexto, incorporar técnicas de outras pessoas e melhorar conforme entendemos melhor o problema.**
 
-### 🐾 Principal aprendizado da missão
-
-> **Um bom prompt não precisa nascer pronto. Ele pode ser construído em diálogo, ganhar contexto, incorporar técnicas de outras pessoas e melhorar conforme entendemos melhor o problema que queremos resolver.**
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
 </details>
 
 ---
+
 <a id="semana1-recursos-avancados"></a>
 
 <details>
@@ -1430,13 +1055,9 @@ A ideia principal continua a mesma, mas hoje eu daria mais espaço para a IA **e
 
 <br>
 
-**Semana:** 01 — Meu jeito de trabalhar com IA  
-**Tipo:** 🧪 Exploração  
-**Status:** ✅ Concluído
+### 🎯 O que foi explorado
 
-### 🎯 O que foi apresentado
-
-Explorar possibilidades ampliadas do ecossistema Gemini para:
+A etapa apresentou possibilidades ampliadas do ecossistema Gemini para:
 
 - tarefas complexas;
 - pesquisa aprofundada;
@@ -1444,16 +1065,12 @@ Explorar possibilidades ampliadas do ecossistema Gemini para:
 - documentos;
 - produtividade;
 - criação;
-- experimentos com IA;
+- experimentos;
 - prototipagem.
 
-### 🧠 Registro disponível
+Foi uma etapa de exploração que ampliou o repertório para as missões seguintes da jornada.
 
-A atividade foi **concluída**. No entanto, o material recuperado até aqui não contém uma entrega individual específica dessa exploração com detalhes suficientes para reproduzi-la com fidelidade.
-
-Por isso, o README registra a conclusão da atividade e mantém somente as informações que estão confirmadas, sem inventar prompts, imagens ou resultados que não foram recuperados.
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -1468,13 +1085,9 @@ Por isso, o README registra a conclusão da atividade e mantém somente as infor
 
 <br>
 
-**Semana:** 01 — Meu jeito de trabalhar com IA  
-**Tipo:** 🎓 Sessão Gemini  
-**Status:** ✅ Participação registrada
+### 🎯 O que foi explorado
 
-### 🎯 O que foi proposto
-
-Aprender a transformar:
+A sessão mostrou formas de transformar:
 
 - fontes;
 - artigos;
@@ -1484,7 +1097,7 @@ Aprender a transformar:
 
 em um **espaço estruturado de conhecimento**.
 
-A proposta era utilizar Study Notebooks para:
+Entre as possibilidades estavam:
 
 - pesquisar;
 - organizar informações;
@@ -1493,13 +1106,19 @@ A proposta era utilizar Study Notebooks para:
 - trabalhar com fontes;
 - construir uma experiência de aprendizagem mais estruturada.
 
-### 🧠 Registro atual
+### 🧠 O que ficou da sessão
 
-A participação na sessão está registrada, mas ainda não recuperei de forma confiável o tema, os materiais e os prompts utilizados na minha experimentação individual.
+A experiência começou a ampliar meu olhar sobre IA para além de perguntas isoladas.
 
-Por isso, esta versão do README **não associa uma imagem ou um prompt inventado à atividade**.
+Em vez de apenas:
 
----
+`perguntar → responder`
+
+o conhecimento também poderia ser:
+
+`reunido → organizado → explorado → conectado → aprofundado`
+
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -1514,13 +1133,13 @@ Por isso, esta versão do README **não associa uma imagem ou um prompt inventad
 
 <br>
 
-### Antes
+### 🌱 Antes
 
-Eu já utilizava IA em diferentes tarefas, mas muitas vezes começava pela pergunta ou pelo resultado que queria obter.
+Eu já utilizava IA em diferentes tarefas, mas muitas vezes começava diretamente pela pergunta ou pelo resultado.
 
-### Depois
+### 🚀 Depois
 
-A Auditoria de Prompt me fez prestar mais atenção em:
+Passei a prestar mais atenção em:
 
 - contexto;
 - objetivo;
@@ -1528,19 +1147,15 @@ A Auditoria de Prompt me fez prestar mais atenção em:
 - restrições;
 - preferências;
 - estrutura;
-- perguntas que ainda precisavam ser respondidas antes da execução.
+- perguntas que ainda precisam ser respondidas.
 
-Também passei a observar melhor como outras pessoas estruturavam suas solicitações e comecei a experimentar Markdown como apoio na organização de prompts.
+Também comecei a observar como outras pessoas estruturavam suas solicitações.
 
 ### ⭐ Maior aprendizado
 
 > **Um bom prompt não precisa nascer pronto. Ele pode ser construído, testado, comparado e refinado conforme entendemos melhor o problema.**
 
-### 🔄 Próxima melhoria
-
-Dar mais espaço para uma etapa de diagnóstico antes de pedir uma resposta definitiva à IA.
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -1556,38 +1171,31 @@ Dar mais espaço para uma etapa de diagnóstico antes de pedir uma resposta defi
 
 Na segunda semana, o foco mudou.
 
-Em vez de olhar apenas para **como eu utilizo IA**, a proposta passou a ser observar:
+<div align="center">
 
-```text
-PESSOAS
-   ↓
-CONTEXTO
-   ↓
-NECESSIDADES
-   ↓
-OPORTUNIDADES
-   ↓
-IA
-```
+`PESSOAS`
+
+⬇️
+
+`CONTEXTO`
+
+⬇️
+
+`NECESSIDADES`
+
+⬇️
+
+`OPORTUNIDADES`
+
+⬇️
+
+`IA`
+
+</div>
 
 A pergunta principal era:
 
 > **Onde existem situações reais em que o Gemini pode ampliar possibilidades?**
-
----
-
-## 🧭 Sumário da Semana 2
-
-| Data | Etapa |
-|---|---|
-| 01/09 | [🗺️ Desafio #01 — Meu Mapa de Impacto](#semana2-mapa-impacto) |
-| 02–03/09 | [🕵️ Missão Embaixadora em Campo](#semana2-embaixadora-campo) |
-| 03/09 | [📡 Radar de Oportunidades](#semana2-radar-oportunidades) |
-| 04/09 | [💻 Sessão Gemini #02 — Canvas + Bases de Dados](#semana2-canvas-bases) |
-| 04/09 | [🎙️ Ação de Impacto — Do Campo ao Conteúdo](#semana2-campo-conteudo) |
-| Encerramento | [🏁 Retrospectiva](#semana2-retrospectiva) |
-
-> **Nesta versão foram removidos dois blocos antigos — “Compartilhando oportunidades” e “Conteúdo para estudantes” — porque o material recuperado não sustentava essas atividades como entregas separadas.**
 
 ---
 
@@ -1598,74 +1206,65 @@ A pergunta principal era:
 
 <br>
 
-**Semana:** 02 — Onde a IA pode expandir possibilidades?  
-**Tipo:** 🎯 Desafio oficial  
-**Pontuação:** ⭐ 25 pontos  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
 Criar com o **Google Gemini** uma representação visual do meu próprio **Mapa de Impacto** como Embaixadora Estudantil.
 
-O mapa deveria explorar três níveis:
+O mapa deveria explorar:
 
-```text
-MEU GRUPO
-     ↓
-MINHA INSTITUIÇÃO
-     ↓
-MINHA COMUNIDADE
-```
+<div align="center">
 
-A reflexão deveria considerar:
+`MEU GRUPO` → `MINHA INSTITUIÇÃO` → `MINHA COMUNIDADE`
+
+</div>
+
+A reflexão considerava:
 
 - quem eu poderia impactar;
 - qual necessidade ou oportunidade existia;
-- qual ação concreta eu poderia realizar;
-- como o Gemini ou a IA poderiam apoiar aquela ação.
+- qual ação concreta poderia realizar;
+- como Gemini ou IA poderiam apoiar.
 
-Depois, as ideias deveriam ser transformadas em uma representação visual.
+---
 
 ### 🚀 O que eu fiz
 
-Transformei os três níveis de impacto em um **mapa de aventura inspirado em RPG e literatura fantástica**, com gatinhos, cachorrinhos e galinhas pelo caminho. 🐱🐶🐔📚
-
-A ideia era mostrar que o impacto começa perto, atravessa novos territórios e pode alcançar pessoas que eu ainda nem conheço.
+Transformei os três níveis em um **mapa de aventura inspirado em RPG e literatura fantástica**, com gatinhos, cachorrinhos e galinhas pelo caminho. 🐱🐶🐔📚
 
 > **E por que galinhas? Porque elas são nossas amigas. @-@**
 
 ### 🌲 Meu Grupo
 
-Quero começar pelas pessoas mais próximas, compartilhando:
+Compartilhar:
 
 - prompts;
 - experiências;
-- formas práticas de usar o Gemini nos estudos;
+- formas práticas de usar Gemini;
 - aplicações em projetos;
 - maneiras de organizar ideias.
 
 ### 🏰 Minha Instituição
 
-Quero ampliar esse conhecimento para:
+Ampliar esse conhecimento para:
 
 - estudantes;
 - professores;
 - projetos acadêmicos;
-- pessoas de diferentes cursos e áreas.
-
-O foco é mostrar aplicações responsáveis da IA em educação, pesquisa, criatividade e produtividade.
+- pessoas de diferentes áreas.
 
 ### 🌎 Minha Comunidade
 
-Quero levar essas descobertas ainda mais longe, alcançando:
+Levar as descobertas para:
 
 - outros estudantes;
 - jovens;
 - comunidades digitais;
 - projetos sociais;
-- pessoas e iniciativas que ainda posso encontrar durante a jornada.
+- novas pessoas e iniciativas.
 
-### 🎨 Entrega #01 — Meu Mapa de Impacto
+---
+
+### 💬 Minha entrega
 
 > 🗺️✨ **Meu Mapa de Impacto**
 >
@@ -1680,23 +1279,27 @@ Quero levar essas descobertas ainda mais longe, alcançando:
 > No centro do mapa está a ideia que mais representa essa jornada para mim:
 >
 > **“Uma ideia compartilhada pode atravessar fronteiras.”** 💙
->
-> Porque acredito que o impacto começa perto da gente, mas pode crescer.
 
-### 🖼️ Resultado visual
+<div align="center">
 
-<p align="center">
-  <img src="semana02-entrega01-desafio01-meu-mapa-de-impacto.png" width="720" alt="Meu Mapa de Impacto como Embaixadora Estudantil Google Gemini">
-</p>
+<img src="semana02-entrega01-desafio01-meu-mapa-de-impacto.png" width="720" alt="Meu Mapa de Impacto">
 
-### 🎬 Entrega #02 — A Jornada do Impacto
+</div>
 
-Além da imagem, criei uma versão em vídeo acompanhada de uma pequena narrativa.
+---
 
-https://github.com/user-attachments/assets/25e5edae-a93f-4704-bafc-ebf85e8558ab
+### 🎬 A Jornada do Impacto
+
+Além da imagem, transformei o mapa em um vídeo acompanhado de uma pequena narrativa.
+
+<div align="center">
+
+### ▶️ [Assistir ao vídeo — A Jornada do Impacto](https://github.com/user-attachments/assets/25e5edae-a93f-4704-bafc-ebf85e8558ab)
+
+</div>
 
 <details>
-<summary><strong>📖 Abrir a história — A Jornada do Impacto</strong></summary>
+<summary><strong>📖 Abrir a história completa</strong></summary>
 
 > Dizem que todo mapa guarda uma história… e este começa bem perto de mim. 🗺️🐾
 >
@@ -1732,11 +1335,11 @@ https://github.com/user-attachments/assets/25e5edae-a93f-4704-bafc-ebf85e8558ab
 
 ### 🧠 O que descobri
 
-A atividade me fez perceber que **impacto não precisa começar grande para poder crescer**.
+> **Impacto não precisa começar grande para poder crescer.**
 
 Uma troca próxima pode se transformar em conteúdo, uma descoberta pode virar ponte e uma ideia pode chegar a contextos que eu não previa inicialmente.
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -1751,21 +1354,19 @@ Uma troca próxima pode se transformar em conteúdo, uma descoberta pode virar p
 
 <br>
 
-**Semana:** 02 — Onde a IA pode expandir possibilidades?  
-**Tipo:** 🕵️ Investigação em campo  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
-Conversar com **pelo menos duas pessoas da comunidade acadêmica** e observar situações da rotina que mereciam atenção.
+Conversar com pelo menos duas pessoas da comunidade acadêmica e observar situações da rotina que mereciam atenção.
 
 O foco era:
 
-```text
-OUVIR → OBSERVAR → COMPREENDER
-```
+<div align="center">
 
-Perguntas sugeridas:
+`OUVIR → OBSERVAR → COMPREENDER`
+
+</div>
+
+Algumas perguntas sugeridas eram:
 
 > **O que mais toma seu tempo ou energia na faculdade hoje?**
 
@@ -1775,7 +1376,7 @@ Perguntas sugeridas:
 
 ### 🚀 O que eu fiz
 
-Em vez de conversar apenas individualmente com duas pessoas, ampliei a escuta e enviei uma pergunta aberta para estudantes e pessoas da minha rede.
+Em vez de conversar apenas com duas pessoas, ampliei a escuta e enviei uma pergunta aberta para estudantes e pessoas da minha rede.
 
 <details>
 <summary><strong>💬 Abrir mensagem original</strong></summary>
@@ -1796,7 +1397,7 @@ Em vez de conversar apenas individualmente com duas pessoas, ampliei a escuta e 
 
 ### 🔎 Padrões que apareceram
 
-As respostas apontaram problemas recorrentes relacionados a:
+As respostas apontaram temas recorrentes:
 
 - informações acadêmicas espalhadas;
 - dificuldade para encontrar orientações;
@@ -1811,15 +1412,11 @@ As respostas apontaram problemas recorrentes relacionados a:
 - trabalhos em grupo;
 - conciliação entre faculdade e outras responsabilidades.
 
-> 🔐 Os relatos são apresentados de forma agregada, sem identificar participantes.
-
-### 💭 O que mais chamou minha atenção
-
-Apesar das experiências diferentes, muitos relatos convergiam para um mesmo problema:
+O principal padrão foi:
 
 > **encontrar, compreender e organizar informações acadêmicas.**
 
-A investigação começou a mudar minha pergunta de:
+A pergunta começou a mudar de:
 
 > **“Qual processo posso automatizar?”**
 
@@ -1827,7 +1424,7 @@ para:
 
 > **“Como reduzir o esforço necessário para o estudante encontrar, compreender e organizar aquilo que já existe?”**
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -1842,14 +1439,9 @@ para:
 
 <br>
 
-**Semana:** 02 — Onde a IA pode expandir possibilidades?  
-**Tipo:** 🎯 Desafio oficial  
-**Pontuação:** ⭐ 25 pontos  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
-Pegar as anotações da investigação em campo, escolher uma situação que chamasse atenção e formular uma hipótese de onde o Google Gemini poderia apoiar.
+Usar as descobertas da investigação em campo para formular uma hipótese de onde o Google Gemini poderia apoiar.
 
 A entrega deveria responder:
 
@@ -1857,7 +1449,9 @@ A entrega deveria responder:
 - 👥 quem vive essa situação;
 - 💭 onde o Gemini poderia apoiar.
 
-> O objetivo **não era construir uma solução pronta**, mas formular uma boa hipótese.
+> O objetivo não era construir uma solução pronta, mas formular uma boa hipótese.
+
+---
 
 ### 🚀 Minha entrega
 
@@ -1889,16 +1483,22 @@ A entrega deveria responder:
 
 > **Se o estudante tiver uma forma simples de centralizar, consultar e organizar as informações da própria vida acadêmica com apoio do Google Gemini, parte da burocracia percebida, da desorganização e do tempo gasto procurando informações pode ser reduzida.**
 
-### 🤝 Evolução — EntreNós
+---
 
-A hipótese acabou evoluindo para um primeiro protótipo chamado **EntreNós**.
+### 🤝 Da hipótese ao EntreNós
 
-A proposta é criar um espaço de apoio coletivo entre estudantes, no qual dúvidas, experiências e informações possam se conectar, com IA apoiando a organização e a síntese — sem substituir fontes e canais oficiais.
+Essa hipótese acabou evoluindo para um primeiro protótipo chamado **EntreNós**.
 
-[🤝 Conhecer o EntreNós](https://entrenos.goskip.app/)
+A proposta é criar um espaço de apoio coletivo entre estudantes, no qual dúvidas, experiências e informações possam se conectar, com IA apoiando a organização e a síntese.
+
+<div align="center">
+
+### 🤝 [Abrir EntreNós](https://entrenos.goskip.app/)
+
+</div>
 
 <details>
-<summary><strong>💬 Ver a mensagem que compartilhei com quem participou da escuta</strong></summary>
+<summary><strong>💬 Abrir mensagem que compartilhei</strong></summary>
 
 > Gente, passando aqui pra agradecer de novo quem respondeu aquelas perguntas sobre o que mais dá trabalho na faculdade 💛
 >
@@ -1920,23 +1520,35 @@ A proposta é criar um espaço de apoio coletivo entre estudantes, no qual dúvi
 
 ### 🧠 O que aprendi
 
-```text
-OUVIR
-  ↓
-COMPARAR RELATOS
-  ↓
-IDENTIFICAR PADRÕES
-  ↓
-ENTENDER O PROBLEMA
-  ↓
-FORMULAR UMA HIPÓTESE
-  ↓
-SÓ DEPOIS PENSAR EM TECNOLOGIA
-```
+<div align="center">
+
+`OUVIR`
+
+⬇️
+
+`COMPARAR RELATOS`
+
+⬇️
+
+`IDENTIFICAR PADRÕES`
+
+⬇️
+
+`ENTENDER O PROBLEMA`
+
+⬇️
+
+`FORMULAR UMA HIPÓTESE`
+
+⬇️
+
+`SÓ DEPOIS PENSAR EM TECNOLOGIA`
+
+</div>
 
 > **Uma boa oportunidade de uso de IA nem sempre começa com uma ideia de tecnologia. Às vezes, começa simplesmente ouvindo pessoas até que um padrão fique impossível de ignorar.**
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -1951,18 +1563,11 @@ SÓ DEPOIS PENSAR EM TECNOLOGIA
 
 <br>
 
-**Semana:** 02 — Onde a IA pode expandir possibilidades?  
-**Tipo:** 🎓 Sessão Gemini  
-**Pontuação:** ⭐ 20 pontos pela participação ao vivo  
-**Status:** ✅ Participação registrada
-
 ### 🎯 O que foi explorado
 
-A sessão apresentou uma introdução ao **Gemini Canvas** e mostrou como ele pode ser utilizado para ir além de uma conversa tradicional com IA.
+A sessão apresentou uma introdução ao **Gemini Canvas** e mostrou possibilidades como:
 
-Foram exploradas possibilidades como:
-
-- 📊 dashboards visuais;
+- 📊 dashboards;
 - ⚡ aplicações funcionais;
 - 🔄 experiências atualizadas;
 - 💻 protótipos;
@@ -1970,29 +1575,39 @@ Foram exploradas possibilidades como:
 
 ### 🚀 O que eu fiz
 
-Como esse foi um dos meus primeiros contatos com o **Gemini Canvas**, usei a sessão principalmente para entender como a ferramenta funciona e o que muda em relação ao uso tradicional do Gemini pelo chat.
+Como foi um dos meus primeiros contatos com o Gemini Canvas, usei a sessão principalmente para entender o que mudava em relação ao uso tradicional pelo chat.
 
-Passei a observar uma lógica mais próxima de:
+<div align="center">
 
-```text
-IDEIA
-  ↓
-INFORMAÇÕES
-  ↓
-ESTRUTURA
-  ↓
-CANVAS
-  ↓
-VISUALIZAÇÃO / PROTÓTIPO
-  ↓
-AJUSTES
-```
+`IDEIA`
+
+⬇️
+
+`INFORMAÇÕES`
+
+⬇️
+
+`ESTRUTURA`
+
+⬇️
+
+`CANVAS`
+
+⬇️
+
+`VISUALIZAÇÃO / PROTÓTIPO`
+
+⬇️
+
+`AJUSTES`
+
+</div>
 
 ### 🧠 O que aprendi
 
 O principal aprendizado foi perceber a diferença entre **conversar com a IA** e **construir com a IA**.
 
-Uma primeira geração pode funcionar apenas como ponto de partida para:
+Uma primeira geração pode ser apenas o ponto de partida para:
 
 - analisar;
 - reorganizar;
@@ -2001,13 +1616,9 @@ Uma primeira geração pode funcionar apenas como ponto de partida para:
 - ajustar;
 - melhorar.
 
-Também percebi que usar Canvas não elimina a necessidade de revisar criticamente o resultado.
+> **O Gemini não precisa terminar na resposta. A resposta também pode ser o começo de algo que ainda vou organizar, testar, transformar e construir.**
 
-> **O Gemini não precisa terminar na resposta. A resposta também pode ser o começo de algo que eu ainda vou organizar, testar, transformar e construir.**
-
-> 📌 Não incluí imagem ou prompt específico nesta atividade porque esses materiais não foram recuperados de forma confiável.
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -2022,45 +1633,28 @@ Também percebi que usar Canvas não elimina a necessidade de revisar criticamen
 
 <br>
 
-**Semana:** 02 — Onde a IA pode expandir possibilidades?  
-**Tipo:** 🌟 Ação de Impacto  
-**Pontuação:** ⭐ 40 pontos  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
-Transformar o que havia sido observado, investigado, ouvido e analisado durante a semana em **conteúdo**.
-
-Era necessário escolher uma situação, ideia ou possibilidade de uso do Gemini e contar **o que passei a enxergar depois das conversas**.
+Transformar o que havia sido observado, investigado e analisado durante a semana em **conteúdo**.
 
 O formato era livre:
 
 - 📹 vídeo;
 - 📲 publicação;
 - ✍️ reflexão;
-- outro formato que fizesse sentido.
+- outro formato criativo.
 
 ### 🚀 O que eu fiz
 
-Criei um **vídeo com o próprio Google Gemini** e publiquei o resultado no TikTok.
+Criei um **vídeo com o próprio Google Gemini** e publiquei no TikTok.
 
 O conteúdo partiu diretamente da investigação realizada em **Embaixadora em Campo** e da hipótese construída no **Radar de Oportunidades**.
 
-### 🔎 Situação escolhida
+### 💭 A ideia
 
-A dificuldade recorrente de estudantes para:
+A oportunidade de IA não precisava estar em substituir os sistemas universitários.
 
-- encontrar informações acadêmicas;
-- compreender regras e processos;
-- acompanhar prazos;
-- organizar exigências da graduação;
-- lidar com informações espalhadas em sistemas e canais diferentes.
-
-### 💭 O que passei a enxergar
-
-A oportunidade de IA não precisava estar em substituir os sistemas da universidade.
-
-O Gemini poderia funcionar como uma camada de apoio para ajudar o estudante a:
+Gemini poderia funcionar como uma camada de apoio para:
 
 - localizar;
 - interpretar;
@@ -2068,35 +1662,21 @@ O Gemini poderia funcionar como uma camada de apoio para ajudar o estudante a:
 - resumir;
 - planejar;
 
-a partir de informações que já existem.
+informações que já existem.
 
-### 🎨 Formato escolhido
+<div align="center">
 
-**Vídeo curto para redes sociais**, gerado com apoio do próprio Gemini.
+### 🎵 [Assistir ao vídeo no TikTok](https://vt.tiktok.com/ZSq8K1pdS/)
 
-### 🌐 Resultado
-
-| Plataforma | Publicação |
-|---|---|
-| 🎵 TikTok | [Assistir ao vídeo](https://vt.tiktok.com/ZSq8K1pdS/) |
+</div>
 
 ### 🧠 O que aprendi
 
-A sequência da semana ficou muito clara para mim:
+<div align="center">
 
-```text
-PESSOAS
-   ↓
-CONTEXTO
-   ↓
-PROBLEMA
-   ↓
-HIPÓTESE
-   ↓
-TECNOLOGIA
-   ↓
-CONTEÚDO
-```
+`PESSOAS → CONTEXTO → PROBLEMA → HIPÓTESE → TECNOLOGIA → CONTEÚDO`
+
+</div>
 
 O conteúdo não começou com:
 
@@ -2106,9 +1686,7 @@ Começou com:
 
 > **“O que as pessoas estão vivendo?”**
 
-Isso tornou o Gemini menos uma “solução mágica” e mais uma possibilidade concreta de apoio dentro de um contexto observado.
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -2123,37 +1701,25 @@ Isso tornou o Gemini menos uma “solução mágica” e mais uma possibilidade 
 
 <br>
 
-### Semana 1
+### 🤖 Semana 1
 
 > **Como eu trabalho com IA?**
 
-### Semana 2
+### 🌎 Semana 2
 
 > **Como eu identifico situações reais em que IA pode fazer sentido?**
 
-### 📈 Mudança de perspectiva
+<div align="center">
 
-```text
-PESSOAS
-  ↓
-CONTEXTO
-  ↓
-PROBLEMA
-  ↓
-PADRÕES
-  ↓
-HIPÓTESE
-  ↓
-TECNOLOGIA
-  ↓
-EXPERIMENTO / CONTEÚDO
-```
+`PESSOAS → CONTEXTO → PROBLEMA → PADRÕES → HIPÓTESE → TECNOLOGIA → EXPERIMENTO`
+
+</div>
 
 ### 💡 Principal aprendizado
 
 > **Antes de pensar no que a IA consegue fazer, vale entender quem vive o problema, como ele aparece na rotina e qual parte dele realmente precisa de apoio.**
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -2171,17 +1737,6 @@ Nesta semana, a proposta foi explorar como Gemini pode ajudar a compreender cont
 
 ---
 
-## 🧭 Sumário da Semana 3
-
-| Data | Etapa | Status |
-|---|---|:---:|
-| 08/09 | [💬 Desafio #01 — Onde está o seu desafio?](#semana3-onde-desafio) | ✅ |
-| 09/09 | [🎨 Desafio #02 — Transforme seu desafio](#semana3-transforme-desafio) | ✅ |
-| 10/09 | [🧩 Sessão Gemini #03 — Gemini Canvas no dia a dia](#semana3-visualizacoes) | ✅ |
-| 11/09 | [🎬 Ação de Impacto — Minha Semana em Vídeo com Gemini Omni](#semana3-video-omni) | ✅ |
-
----
-
 <a id="semana3-onde-desafio"></a>
 
 <details>
@@ -2189,16 +1744,9 @@ Nesta semana, a proposta foi explorar como Gemini pode ajudar a compreender cont
 
 <br>
 
-**Semana:** 03 — Aprendizagem visual e interativa  
-**Tipo:** 🎯 Desafio oficial  
-**Pontuação:** ⭐ 25 pontos  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
-Identificar uma dificuldade **específica de aprendizagem**.
-
-A missão era completar:
+Identificar uma dificuldade **específica de aprendizagem** completando:
 
 > **“Eu tenho dificuldade para entender ______ porque ______.”**
 
@@ -2206,44 +1754,47 @@ A orientação era evitar uma disciplina inteira e localizar exatamente **onde a
 
 ### 🚀 O que eu fiz
 
-Percebi que meu desafio não estava necessariamente em uma disciplina específica, mas na forma como organizo, recupero e estruturo determinadas informações para depois conseguir explicá-las ou utilizá-las com confiança.
+Percebi que meu desafio não estava necessariamente em uma disciplina específica, mas na maneira como organizo, recupero e estruturo informações para depois explicá-las ou utilizá-las com confiança.
 
-### 💬 Minha resposta — #01
+### 💬 Minha resposta #01
 
 > **Eu tenho dificuldade em organizar uma boa linha de raciocínio que eu me sinta mais confiante quando for repassar e relembrar o conteúdo.**
 
-Essa resposta apontava uma dificuldade especialmente entre compreender algo e conseguir:
-
-- organizar;
-- recuperar;
-- conectar;
-- explicar;
-
-o conteúdo de maneira segura.
-
-### 💬 Minha resposta — #02
+### 💬 Minha resposta #02
 
 > **Eu tenho dificuldade em entender certas lógicas principalmente em questão de estruturação social, por que tenho TEA, então consigo estudar e compreender de modo geral, mas não ter uma visão neurotipica.**
 
-A segunda resposta aprofundou o problema: em alguns temas, compreender o conteúdo geral não significa que relações sociais, convenções e lógicas implícitas se tornem automaticamente intuitivas.
+### 🔎 Onde estava o desafio?
 
-### 🔎 Onde estava realmente o desafio?
+<div align="center">
 
-```text
-CONTEÚDO
-   ↓
-ESTUDAR
-   ↓
-COMPREENDER
-   ↓
-ORGANIZAR O RACIOCÍNIO
-   ↓
-CONECTAR AS PARTES
-   ↓
-RELEMBRAR
-   ↓
-EXPLICAR COM CONFIANÇA
-```
+`CONTEÚDO`
+
+⬇️
+
+`ESTUDAR`
+
+⬇️
+
+`COMPREENDER`
+
+⬇️
+
+`ORGANIZAR O RACIOCÍNIO`
+
+⬇️
+
+`CONECTAR`
+
+⬇️
+
+`RELEMBRAR`
+
+⬇️
+
+`EXPLICAR COM CONFIANÇA`
+
+</div>
 
 ### 🧠 O que descobri
 
@@ -2252,17 +1803,17 @@ A dificuldade não estava simplesmente em “aprender”.
 Ela aparecia principalmente na construção de uma **representação mental organizada**, especialmente quando eu precisava:
 
 - visualizar relações;
-- estabelecer uma sequência;
+- estabelecer sequência;
 - identificar hierarquias;
 - conectar causa e efeito;
-- recuperar informações depois;
+- recuperar informações;
 - transformar o que compreendi em uma explicação clara.
 
-Isso abriu uma hipótese para o desafio seguinte: experimentar formas de **externalizar a estrutura do raciocínio** por meio de representações visuais.
+Isso abriu uma hipótese para o desafio seguinte:
 
-> 📌 Esta atividade foi textual. Por isso, retirei a imagem que aparecia anteriormente apenas como placeholder.
+> **externalizar a estrutura do raciocínio por meio de representações visuais.**
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -2277,77 +1828,32 @@ Isso abriu uma hipótese para o desafio seguinte: experimentar formas de **exter
 
 <br>
 
-**Semana:** 03 — Aprendizagem visual e interativa  
-**Tipo:** 🎯 Desafio oficial  
-**Pontuação:** ⭐ 25 pontos  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
-Pegar a dificuldade de aprendizagem identificada no desafio anterior e utilizar:
+Utilizar:
 
 > **meu próprio raciocínio + Google Gemini + uma forma de representação visual**
 
-para experimentar uma nova maneira de compreender e explicar esse conteúdo.
+para experimentar uma nova maneira de compreender e explicar o desafio da atividade anterior.
 
-A proposta apresentava um processo simples para aplicar no dia a dia:
+<div align="center">
 
-```text
-👀 OBSERVE
-   ↓
-🧩 SIMPLIFIQUE
-   ↓
-✏️ VISUALIZE
-   ↓
-🔗 CONECTE
-   ↓
-✅ REFINE
-   ↓
-📤 COMPARTILHE
-```
+`👀 OBSERVE → 🧩 SIMPLIFIQUE → ✏️ VISUALIZE → 🔗 CONECTE → ✅ REFINE → 📤 COMPARTILHE`
 
-A ideia era utilizar recursos visuais — como símbolos, formas, conexões, esquemas e diagramas — para apoiar a compreensão, a organização, a memória e a comunicação de ideias.
-
-### 🤖 Onde o Gemini entrava
-
-O Google Gemini poderia funcionar como **apoio de raciocínio**, ajudando a:
-
-- observar o tema por outros ângulos;
-- identificar o que era essencial;
-- perceber relações entre ideias;
-- explorar diferentes formas de representação;
-- comparar possibilidades;
-- refinar a explicação criada.
-
-O objetivo não era deixar a IA decidir a representação final, mas utilizá-la para ampliar a análise antes da escolha.
+</div>
 
 ---
 
-## 📋 Como fazer
+### 🤖 Onde o Gemini entrava
 
-### 1️⃣ Análise pessoal
+O Gemini poderia funcionar como apoio para:
 
-Antes de abrir o Gemini, a proposta era pensar:
-
-- onde estava a maior dificuldade;
-- se o problema envolvia sequência;
-- comparação;
-- causa e efeito;
-- hierarquia;
-- conexões;
-- ou uma ideia abstrata.
-
-Também era necessário formular uma hipótese inicial sobre **o que poderia tornar aquele conteúdo mais fácil de assimilar**.
-
-### 2️⃣ Ampliar a análise com Gemini
-
-O desafio forneceu um prompt-base para conduzir o raciocínio em cinco etapas:
-
-1. **OBSERVE** — identificar o que precisava ser compreendido;
-2. **SIMPLIFIQUE** — separar o central do secundário;
-3. **VISUALIZE** — propor três formas diferentes de representação;
-4. **CONECTE** — mostrar quais relações deveriam aparecer visualmente;
-5. **ANALISE MINHA HIPÓTESE** — comparar a análise da IA com a hipótese inicial, sem decidir por mim.
+- observar o tema por outros ângulos;
+- identificar o essencial;
+- perceber relações;
+- explorar representações;
+- comparar possibilidades;
+- refinar a explicação.
 
 <details>
 <summary><strong>🤖 Abrir prompt-base do desafio</strong></summary>
@@ -2361,11 +1867,11 @@ Quero que você seja meu apoio de raciocínio visual. Ainda não gere nenhuma im
 
 2. SIMPLIFIQUE: Organize essa informação nas ideias e estruturas essenciais. Separe o central do secundário, conservando tudo o que for necessário para que a explicação continue correta e faça sentido.
 
-3. VISUALIZE: Proponha 3 maneiras diferentes de dar forma visual a essas ideias. Você pode considerar, quando fizer sentido: mapa mental, mapa conceitual, fluxograma, storyboard, analogia visual, sketchnote/anotações visuais, linha do tempo, diagrama, infográfico ou outra técnica adequada. Para cada possibilidade, explique: o que ajudaria a tornar mais visível; por que poderia ajudar especificamente com a dificuldade apresentada; e o que poderia ficar menos evidente ou simplificado demais nesse formato.
+3. VISUALIZE: Proponha 3 maneiras diferentes de dar forma visual a essas ideias. Você pode considerar, quando fizer sentido: mapa mental, mapa conceitual, fluxograma, storyboard, analogia visual, sketchnote/anotações visuais, linha do tempo, diagrama, infográfico ou outra técnica adequada.
 
-4. CONECTE: Para cada possibilidade visual, mostre quais relações entre os elementos deveriam ficar claramente representadas. Considere, quando couber: sequência, causa e consequência, comparação, hierarquia, dependência, parte e todo, associação entre conceitos ou transformação ao longo do tempo.
+4. CONECTE: Para cada possibilidade visual, mostre quais relações entre os elementos deveriam ficar claramente representadas.
 
-5. ANALISE MINHA HIPÓTESE: Compare sua análise com a minha hipótese inicial. Diga-me se parece coerente e explique brevemente o porquê. Se identificar outra relação que possa ser mais importante para que eu compreenda o conteúdo, apresente-a como uma possibilidade, sem decidir por mim.
+5. ANALISE MINHA HIPÓTESE: Compare sua análise com a minha hipótese inicial. Diga-me se parece coerente e explique brevemente o porquê.
 
 Ao final, não escolha a representação por mim. Faça-me uma pergunta que me ajude a decidir qual das possibilidades quero testar.
 ```
@@ -2374,102 +1880,87 @@ Ao final, não escolha a representação por mim. Faça-me uma pergunta que me a
 
 ---
 
-## 🚀 O que eu fiz
+### 🚀 O que eu fiz
 
-Decidi transformar meu desafio em uma representação visual mais lúdica e acessível usando o **Chibi** e a metáfora de um **novelo do raciocínio**.
+Decidi transformar meu desafio em uma representação visual mais lúdica usando o **Chibi** e a metáfora de um **novelo do raciocínio**.
 
-A ideia nasceu da sensação descrita no desafio anterior: às vezes eu consigo compreender um conteúdo, mas, na hora de recuperar, estruturar ou explicar o raciocínio, parece que o “fio” se perdeu dentro de um novelo.
+Às vezes eu consigo compreender um conteúdo, mas na hora de recuperar, estruturar ou explicar parece que o “fio” se perdeu dentro de um novelo.
 
-Em vez de criar apenas um esquema técnico, quis transformar o processo em uma espécie de **guia visual para desenrolar as ideias uma etapa de cada vez**.
+Então transformei o processo em uma espécie de **guia visual para desenrolar ideias uma etapa de cada vez**.
 
----
+### ✅ Representação escolhida
 
-## 🧠 Ponto de partida
+<div align="center">
 
-No desafio anterior, eu havia identificado duas dificuldades complementares:
+`1. TEMA`
 
-> **Eu tenho dificuldade em organizar uma boa linha de raciocínio que eu me sinta mais confiante quando for repassar e relembrar o conteúdo.**
+⬇️
 
-E também:
+`2. PISTAS`
 
-> **Eu tenho dificuldade em entender certas lógicas principalmente em questão de estruturação social, por que tenho TEA, então consigo estudar e compreender de modo geral, mas não ter uma visão neurotipica.**
+⬇️
 
-A partir dessas respostas, minha hipótese era que uma representação visual poderia ajudar principalmente a:
+`3. CONTEXTO`
 
-- organizar as etapas do raciocínio;
-- diferenciar fatos de suposições;
-- tornar o contexto mais explícito;
-- enxergar relações entre ideias;
-- considerar perspectivas diferentes;
-- reconstruir uma explicação com minhas próprias palavras.
+⬇️
 
----
+`4. CONEXÕES`
 
-## ✅ Representação escolhida
+⬇️
 
-Escolhi organizar o raciocínio em **seis etapas numeradas**:
+`5. PERSPECTIVAS`
 
-```text
-1. TEMA
-   ↓
-2. PISTAS
-   ↓
-3. CONTEXTO
-   ↓
-4. CONEXÕES
-   ↓
-5. PERSPECTIVAS
-   ↓
-6. EXPLICAÇÃO
-```
+⬇️
 
-### 1️⃣ Tema — O que vamos entender?
+`6. EXPLICAÇÃO`
 
-Começar delimitando exatamente o assunto que quero explorar.
+</div>
 
-### 2️⃣ Pistas — O que sabemos de fato?
+#### 1️⃣ Tema — O que vamos entender?
+
+Delimitar exatamente o assunto.
+
+#### 2️⃣ Pistas — O que sabemos de fato?
 
 Separar informações conhecidas de interpretações e suposições.
 
-### 3️⃣ Contexto — O que falta descobrir?
+#### 3️⃣ Contexto — O que falta descobrir?
 
-Observar a situação, as regras e os elementos explícitos ou implícitos que podem alterar a compreensão.
+Observar situação, regras e elementos explícitos ou implícitos.
 
-### 4️⃣ Conexões — Como as ideias se ligam?
+#### 4️⃣ Conexões — Como as ideias se ligam?
 
-Seguir o “fio” entre os elementos e diferenciar evidências de possibilidades.
+Seguir o “fio” entre os elementos.
 
-### 5️⃣ Perspectivas — Dá para olhar de outro jeito?
+#### 5️⃣ Perspectivas — Dá para olhar de outro jeito?
 
-Considerar que podem existir outras explicações e que perguntar também faz parte do processo.
+Considerar outras explicações e lembrar que perguntar também faz parte do processo.
 
-### 6️⃣ Explicação — Vamos contar com nossas palavras?
-
-Reorganizar aquilo que foi compreendido em uma explicação própria:
+#### 6️⃣ Explicação — Vamos contar com nossas palavras?
 
 ```text
 Entendi que...
-        ↓
+      ↓
 porque...
-        ↓
+      ↓
 por exemplo...
 ```
 
 ---
 
-## ✨ Resultado — Chibi e o Novelo do Raciocínio
+### ✨ Chibi e o Novelo do Raciocínio
 
-<p align="center">
-  <img src="semana03-entrega01-desafio02-transforme-seu-desafio.png"
-       width="900"
-       alt="Chibi e o Novelo do Raciocínio — representação visual criada para o Desafio #02 da Semana 3">
-</p>
+<div align="center">
 
-A metáfora do novelo representa justamente o processo de encontrar a “pontinha” de uma ideia e seguir o fio até que as relações fiquem mais claras.
+<img src="semana03-entrega01-desafio02-transforme-seu-desafio.png"
+     width="900"
+     alt="Chibi e o Novelo do Raciocínio">
 
----
+</div>
 
-## 💬 Texto que compartilhei com a imagem
+A metáfora do novelo representa o processo de encontrar a “pontinha” de uma ideia e seguir o fio até que as relações fiquem mais claras.
+
+### 💬 Texto que compartilhei
 
 > 🐈🧶 **Desafio #02 - Semana 3 - 09/09/2026 - Chibi e o Novelo do Raciocínio!**
 >
@@ -2479,67 +1970,41 @@ A metáfora do novelo representa justamente o processo de encontrar a “pontinh
 >
 > E fica o meu lembrete de frajola: cada pessoa tem seu jeito de aprender, então vamos no nosso ritmo, com curiosidade e sem medo de perguntar - uma patinha de cada vez! 💜
 
----
+### 🧠 O que aprendi
 
-## 🔎 O que ficou mais claro
+A atividade mostrou que compreender melhor nem sempre significa **receber mais informação**.
 
-A atividade me ajudou a perceber que, no meu caso, compreender melhor nem sempre significa simplesmente **receber mais informação**.
+Às vezes, preciso tornar a estrutura do raciocínio mais explícita.
 
-Muitas vezes, eu preciso tornar a estrutura do raciocínio mais explícita.
+<div align="center">
 
-A sequência visual ajudou a externalizar perguntas que eu posso fazer durante o processo:
+`Qual é o tema?`
 
-```text
-Qual é o tema?
-      ↓
-O que eu realmente sei?
-      ↓
-Que contexto ainda falta?
-      ↓
-Como as partes se conectam?
-      ↓
-Existe outra perspectiva?
-      ↓
-Consigo explicar com minhas palavras?
-```
+⬇️
 
-Isso transforma algo abstrato — “organizar melhor meu raciocínio” — em etapas mais concretas que posso percorrer.
+`O que eu realmente sei?`
 
----
+⬇️
 
-## 🧠 O que aprendi
+`Que contexto falta?`
 
-A visualização pode funcionar não apenas como uma forma de **mostrar** o que já entendi, mas como uma ferramenta para **pensar enquanto tento entender**.
+⬇️
 
-Nesse caso, ela me ajudou a transformar:
+`Como as partes se conectam?`
 
-```text
-"preciso organizar melhor meu raciocínio"
-```
+⬇️
 
-em:
+`Existe outra perspectiva?`
 
-```text
-delimitar
-   ↓
-observar
-   ↓
-contextualizar
-   ↓
-conectar
-   ↓
-mudar de perspectiva
-   ↓
-explicar
-```
+⬇️
 
-Também gostei de transformar o exercício em algo mais leve e memorável com o Chibi e o novelo, porque a metáfora faz sentido com a própria dificuldade que eu queria representar.
+`Consigo explicar com minhas palavras?`
 
-### 🐾 Principal aprendizado da missão
+</div>
 
-> **Às vezes, compreender não é encontrar imediatamente uma resposta. É conseguir localizar a ponta do fio e construir o caminho do raciocínio uma conexão de cada vez.**
+> 🐾 **Às vezes, compreender não é encontrar imediatamente uma resposta. É conseguir localizar a ponta do fio e construir o caminho do raciocínio uma conexão de cada vez.**
 
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -2554,17 +2019,11 @@ Também gostei de transformar o exercício em algo mais leve e memorável com o 
 
 <br>
 
-**Semana:** 03 — Aprendizagem visual e interativa  
-**Tipo:** 🎓 Sessão Gemini  
-**Status:** ✅ Participação registrada
-
 ### 🎯 O que foi explorado
 
-A terceira Sessão Gemini ampliou o olhar sobre o **Gemini Canvas** e mostrou que ele pode ser utilizado em contextos muito diferentes — não apenas para criar uma aplicação ou uma representação visual específica.
+A terceira Sessão Gemini ampliou meu olhar sobre o **Gemini Canvas**.
 
-A proposta foi explorar o Canvas como um espaço de construção que pode acompanhar diferentes necessidades do cotidiano.
-
-Entre as possibilidades apresentadas estavam usos para:
+Entre os possíveis usos estavam:
 
 - 📚 estudar;
 - 🔎 aprofundar um assunto;
@@ -2572,279 +2031,91 @@ Entre as possibilidades apresentadas estavam usos para:
 - 💭 desenvolver uma ideia;
 - 📝 estruturar conteúdos;
 - 🏠 trabalhar em algo pessoal;
-- 💻 criar e experimentar projetos;
-- 🔄 refinar algo ao longo de várias interações;
-- 📊 transformar informações em formatos mais organizados;
-- ✨ explorar novas formas de aprender, criar e resolver tarefas do dia a dia.
+- 💻 experimentar projetos;
+- 🔄 refinar algo;
+- 📊 organizar informações;
+- ✨ explorar novas formas de aprender e criar.
+
+### 💡 Uma ferramenta, vários contextos
+
+#### 📚 Estudo
+
+`aprofundar → organizar → explorar → refinar`
+
+#### 🏠 Vida pessoal
+
+`ideia → planejamento → estrutura`
+
+#### 💻 Projetos
+
+`explorar → criar → testar → ajustar → refinar`
+
+#### 🔄 Dia a dia
+
+`informação dispersa → organização → transformação`
+
+Comecei a enxergar Canvas menos como uma ferramenta com função única e mais como um **ambiente onde uma ideia pode evoluir**.
 
 ---
 
-## 💡 Uma ferramenta, diferentes contextos
-
-Uma das ideias que mais ficaram da sessão foi perceber que o Canvas não precisa estar associado a um único tipo de tarefa.
-
-Ele pode começar a partir de necessidades muito diferentes.
-
-### 📚 Estudo
-
-```text
-ESTUDO
-   ↓
-aprofundar um conteúdo
-   ↓
-organizar conceitos
-   ↓
-explorar outra explicação
-   ↓
-refinar a compreensão
-```
-
-### 🏠 Vida pessoal
-
-```text
-VIDA PESSOAL
-   ↓
-organizar uma ideia
-   ↓
-planejar algo
-   ↓
-estruturar informações
-```
-
-### 💻 Projetos
-
-```text
-PROJETOS
-   ↓
-explorar possibilidades
-   ↓
-criar uma primeira versão
-   ↓
-testar
-   ↓
-ajustar
-   ↓
-refinar
-```
-
-### 🔄 Dia a dia
-
-```text
-DIA A DIA
-   ↓
-pegar algo que está disperso
-   ↓
-organizar
-   ↓
-transformar
-   ↓
-continuar trabalhando em cima
-```
-
-Isso tornou o Canvas menos uma ferramenta com uma função única e mais um **ambiente no qual uma ideia pode evoluir**.
-
----
-
-## 📚 Canvas para estudar
-
-No contexto de aprendizagem, o Canvas pode ajudar a transformar um assunto em algo que possa ser trabalhado de outras formas.
-
-Por exemplo:
-
-- organizar um tema em partes;
-- aprofundar conceitos;
-- comparar informações;
-- explorar relações entre ideias;
-- estruturar uma linha de raciocínio;
-- transformar conteúdos em esquemas;
-- desenvolver materiais de apoio;
-- continuar refinando uma explicação conforme novas dúvidas aparecem.
-
-Essa possibilidade se conectou diretamente com os desafios da própria Semana 3.
-
-Depois de pensar em como **visualizar e estruturar o raciocínio**, o Canvas aparece como mais um espaço no qual esse processo pode continuar acontecendo.
-
----
-
-## 🔎 Canvas para se aprofundar
-
-Outro ponto importante foi perceber que não é necessário utilizar o Gemini apenas para receber uma resposta rápida.
-
-Um assunto pode começar simples e continuar sendo desenvolvido:
-
-```text
-PERGUNTA
-   ↓
-PRIMEIRA EXPLORAÇÃO
-   ↓
-NOVAS DÚVIDAS
-   ↓
-APROFUNDAMENTO
-   ↓
-REORGANIZAÇÃO
-   ↓
-NOVA VERSÃO
-```
-
-Nesse sentido, o Canvas pode servir como um espaço para **permanecer no problema por mais tempo**.
-
-Em vez de:
-
-> **perguntar → receber → encerrar**
-
-a lógica pode se aproximar de:
-
-> **explorar → construir → revisar → aprofundar → transformar**
-
----
-
-## 🏠 Canvas para algo pessoal
-
-A sessão também ajudou a mostrar que esse tipo de uso não precisa ficar restrito à universidade ou ao trabalho.
-
-O Canvas também pode apoiar situações pessoais nas quais seja útil:
-
-- organizar pensamentos;
-- planejar;
-- comparar possibilidades;
-- estruturar informações;
-- transformar uma ideia em algo mais concreto;
-- desenvolver algo aos poucos.
-
-Isso amplia bastante a forma como eu enxergava a ferramenta.
-
----
-
-## 💻 Canvas como espaço de construção
-
-Uma diferença que comecei a perceber foi entre utilizar o Gemini apenas como uma conversa e utilizar o Canvas como um espaço para **continuar trabalhando sobre aquilo que está sendo criado**.
-
-```text
-CHAT
-
-pergunta
-   ↓
-resposta
-```
-
-versus:
-
-```text
-CANVAS
-
-ideia
-   ↓
-primeira estrutura
-   ↓
-experimentação
-   ↓
-alterações
-   ↓
-aprofundamento
-   ↓
-refinamento
-   ↓
-nova versão
-```
-
-Não significa que um formato substitui o outro.
-
-São maneiras diferentes de interagir com a IA dependendo daquilo que quero fazer.
-
----
-
-## 🔗 Conexão com as sessões anteriores
-
-Também comecei a perceber uma evolução entre as Sessões Gemini.
-
-### 📚 Sessão #01
-
-O foco estava em trabalhar melhor com **fontes, conteúdos e conhecimento estruturado**.
-
-### 💻 Sessão #02
-
-Foi meu primeiro contato mais direto com o **Canvas**, entendendo que uma resposta poderia começar a se transformar em algo construído.
-
-### 🧩 Sessão #03
-
-O olhar se ampliou para perceber **quantas situações diferentes poderiam utilizar esse espaço de construção**:
-
-```text
-ESTUDAR
-   +
-APROFUNDAR
-   +
-ORGANIZAR
-   +
-CRIAR
-   +
-EXPERIMENTAR
-   +
-USAR NO DIA A DIA
-        ↓
-GEMINI CANVAS
-```
-
----
-
-## 🧠 O que aprendi
-
-O principal aprendizado desta sessão foi que uma mesma ferramenta pode assumir papéis diferentes dependendo do contexto.
-
-Não preciso pensar:
-
-> **“Para que serve o Canvas?”**
-
-como se existisse apenas uma resposta.
-
-Uma pergunta mais útil pode ser:
-
-> **“O que estou tentando compreender, organizar ou construir — e de que forma o Canvas pode me ajudar nesse processo?”**
-
-Isso também reforçou uma ideia que vem aparecendo ao longo da jornada:
-
-> **a ferramenta não precisa definir o problema; o problema e o contexto ajudam a definir como a ferramenta será utilizada.**
-
-### 🐾 Principal aprendizado da sessão
-
-> **O Canvas pode ser menos um lugar para gerar uma coisa pronta e mais um espaço para desenvolver uma ideia — seja para estudar, se aprofundar, criar algo pessoal ou simplesmente organizar melhor alguma parte do dia a dia.**
-
----
-
-## 🌐 Aplicação prática — Portfólio da jornada no Gemini Canvas
-
-Além da experiência de aprendizagem da sessão, utilizei o **Gemini Canvas** para construir um portfólio público dedicado à minha jornada como **Embaixadora Estudantil do Google 2026**.
+### 💻 Chat x Canvas
 
 <div align="center">
 
-### 🐱✨ Portfólio 2026 — Embaixadora Estudantil Google
+**CHAT**
 
-[**🌐 Abrir portfólio criado no Gemini Canvas**](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/)
+`pergunta → resposta`
+
+<br>
+
+**CANVAS**
+
+`ideia → estrutura → experimentação → alterações → aprofundamento → refinamento → nova versão`
 
 </div>
 
-Esse projeto se tornou uma aplicação concreta do que comecei a perceber sobre o Canvas durante a semana:
+Não significa que um substitua o outro.
 
-```text
-JORNADA
-   ↓
-REGISTROS
-   ↓
-ORGANIZAÇÃO
-   ↓
-GEMINI CANVAS
-   ↓
-CONSTRUÇÃO
-   ↓
-PORTFÓLIO PÚBLICO
-```
+São formas diferentes de interagir com IA dependendo da necessidade.
 
-Em vez de utilizar o Canvas apenas como espaço de experimentação, ele também passou a fazer parte da construção de uma presença pública para reunir e apresentar a evolução da jornada.
+### 🔗 Evolução entre as sessões
 
-> ✅ **Ferramenta utilizada:** Gemini Canvas  
-> 🌐 **Resultado público:** [Portfolio2026_EmbaixadorEstudantilGoogle](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/)
+**📚 Sessão #01**  
+Fontes, conteúdos e conhecimento estruturado.
+
+**💻 Sessão #02**  
+Primeiro contato mais direto com Canvas como espaço de construção.
+
+**🧩 Sessão #03**  
+Ampliação para diferentes contextos de estudo, criação e cotidiano.
+
+### 🧠 Principal aprendizado
+
+> **A ferramenta não precisa definir o problema; o problema e o contexto ajudam a definir como a ferramenta será utilizada.**
 
 ---
+
+### 🌐 Aplicação prática — Portfólio da jornada
+
+Utilizei o **Gemini Canvas** para construir um portfólio público dedicado à minha jornada como **Embaixadora Estudantil do Google 2026**.
+
+<div align="center">
+
+## 🐱✨ Portfólio 2026
+
+### [🌐 Abrir portfólio criado no Gemini Canvas](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/)
+
+</div>
+
+O projeto se tornou uma aplicação concreta da sessão:
+
+<div align="center">
+
+`JORNADA → REGISTROS → ORGANIZAÇÃO → GEMINI CANVAS → CONSTRUÇÃO → PORTFÓLIO PÚBLICO`
+
+</div>
+
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -2859,201 +2130,127 @@ Em vez de utilizar o Canvas apenas como espaço de experimentação, ele também
 
 <br>
 
-**Semana:** 03 — Aprendizagem visual e interativa  
-**Tipo:** 🌟 Ação de Impacto  
-**Pontuação:** ⭐ 40 pontos  
-**Status:** ✅ Concluído
-
 ### 🎯 O que foi proposto
 
-Encerrar a Semana 3 transformando parte da experiência em um **vídeo curto criado com Gemini Omni** e publicá-lo em uma rede social.
+Encerrar a Semana 3 transformando parte da experiência em um **vídeo curto criado com Gemini Omni**.
 
-O desafio permitia escolher entre três rotas.
+O desafio oferecia três caminhos possíveis:
 
-### 🧠 Rota 1 — Minha dificuldade superada
+#### 🧠 Rota 1 — Minha dificuldade superada
 
 Contar:
 
-- qual era o desafio de aprendizagem;
-- o que estava dificultando a compreensão;
-- como uma representação visual ajudou;
-- o que ficou mais claro;
-- o que ainda permaneceu como dúvida.
+- qual era o desafio;
+- o que dificultava a compreensão;
+- como a representação visual ajudou;
+- o que ficou mais claro.
 
-### 🧩 Rota 2 — Resumo da Sessão Gemini #03
+#### 🧩 Rota 2 — Resumo da Sessão Gemini #03
 
-Criar um resumo em vídeo com:
+Criar um resumo com as principais ideias e aprendizados da sessão.
 
-- principais sacadas;
-- aprendizados da sessão;
-- formas como as interações com Gemini podem apoiar níveis mais profundos de compreensão.
+#### 🚀 Rota 3 — Minha semana como Embaixadora
 
-### 🚀 Rota 3 — Minha semana como Embaixadora
+Contar a experiência geral da Semana 3, integrando trocas, criação, aprendizagem e experimentação.
 
-Contar a experiência geral da Semana 3, integrando:
+### 📋 Como fazer
 
-- trocas;
-- criação;
-- aprendizagem;
-- experimentação;
-- evolução ao longo da semana.
+1. escolher um recorte;
+2. abrir uma nova conversa no Gemini;
+3. utilizar `+ → Criar vídeo`;
+4. produzir o conteúdo;
+5. publicar em uma rede social;
+6. utilizar `#EmbaixadoresEstudantisGoogle`.
 
 ---
 
-## 📋 Como fazer
+### 🚀 O que eu fiz
 
-### 1️⃣ Escolher uma rota
+Produzi o vídeo utilizando o **Gemini Omni** e ampliei a entrega publicando o conteúdo em **três plataformas**:
 
-Definir qual recorte da Semana 3 seria transformado em vídeo.
+<div align="center">
 
-### 2️⃣ Criar com Gemini Omni
+### 📸 [Instagram Reels](https://www.instagram.com/reel/DdKJ6b7ukht/?stkn=a3dsNHB2Y2JtMDZ4)
 
-A orientação era iniciar uma nova conversa no Gemini e utilizar o recurso:
+### 🎵 [TikTok](https://www.tiktok.com/@1aspiraqualquer/video/7684356709984259335?is_from_webapp=1&sender_device=pc)
 
-```text
-+ → Criar vídeo
-```
+### ▶️ [YouTube Shorts](https://youtube.com/shorts/G8pfajemQfI?si=qbdQBbPdJsNUrIa2)
 
-### 3️⃣ Publicar
+</div>
 
-O vídeo deveria ser compartilhado publicamente em uma rede como:
+### 🤖 Gemini em ação
 
-- Instagram Reels;
-- TikTok;
-- YouTube Shorts;
-- LinkedIn Video.
+Nesta atividade, o Gemini foi utilizado diretamente na **criação do vídeo**.
 
-Também era solicitado o uso da hashtag:
+<div align="center">
 
-`#EmbaixadoresEstudantisGoogle`
+`EXPERIÊNCIA`
 
----
+⬇️
 
-## 🚀 O que eu fiz
+`RECORTE`
 
-Produzi o vídeo utilizando o **Gemini Omni** e ampliei a entrega publicando o conteúdo em **três plataformas diferentes**:
+⬇️
 
-- 📸 Instagram Reels;
-- 🎵 TikTok;
-- ▶️ YouTube Shorts.
+`GEMINI OMNI`
 
-Em vez de deixar o experimento restrito à comunidade do programa, transformei a atividade em conteúdo público e distribuí o resultado em diferentes formatos de vídeo curto.
+⬇️
 
----
+`VÍDEO`
 
-## 🎯 Rota escolhida
+⬇️
 
-> **Ainda preciso recuperar qual das três rotas utilizei como base do vídeo.**
+`PUBLICAÇÃO`
 
-Como este repositório prioriza fidelidade ao que realmente aconteceu, não associei uma rota específica sem ter o registro original.
+⬇️
 
----
+`3 REDES`
 
-## 🤖 Gemini em ação
+</div>
 
-Nesta atividade, o Gemini não apareceu apenas como tema ou apoio de raciocínio.
+### 🔄 Fechando o ciclo da Semana 3
 
-Ele foi utilizado diretamente para a **criação do vídeo** por meio do recurso Gemini Omni.
+A semana começou identificando uma dificuldade de aprendizagem e terminou transformando a experiência em conteúdo.
 
-```text
-EXPERIÊNCIA DA SEMANA
-        ↓
-ESCOLHA DO RECORTE
-        ↓
-GEMINI OMNI
-        ↓
-CRIAÇÃO DO VÍDEO
-        ↓
-PUBLICAÇÃO
-        ↓
-DISTRIBUIÇÃO EM 3 REDES
-```
+<div align="center">
 
----
+`IDENTIFICAR`
 
-## 🎥 Resultado
+⬇️
 
-### 🌐 Publicações
+`VISUALIZAR`
 
-| Plataforma | Publicação |
-|---|---|
-| 📸 Instagram Reels | [Assistir no Instagram](https://www.instagram.com/reel/DdKJ6b7ukht/?stkn=a3dsNHB2Y2JtMDZ4) |
-| 🎵 TikTok | [Assistir no TikTok](https://www.tiktok.com/@1aspiraqualquer/video/7684356709984259335?is_from_webapp=1&sender_device=pc) |
-| ▶️ YouTube Shorts | [Assistir no YouTube](https://youtube.com/shorts/G8pfajemQfI?si=qbdQBbPdJsNUrIa2) |
+⬇️
 
----
+`ORGANIZAR`
 
-## 🔄 Fechando o ciclo da Semana 3
+⬇️
 
-A atividade funcionou como uma síntese prática de uma semana que começou identificando uma dificuldade de aprendizagem e passou por diferentes formas de organizar, visualizar e aprofundar o raciocínio.
+`EXPERIMENTAR`
 
-```text
-IDENTIFICAR A DIFICULDADE
-        ↓
-TORNAR O RACIOCÍNIO VISUAL
-        ↓
-EXPERIMENTAR OUTRAS FORMAS DE COMPREENDER
-        ↓
-EXPLORAR O CANVAS
-        ↓
-TRANSFORMAR A EXPERIÊNCIA EM VÍDEO
-        ↓
-COMPARTILHAR
-```
+⬇️
 
-Ao longo da semana, o foco deixou de ser apenas:
+`CONSTRUIR`
 
-> **“Como obter uma resposta?”**
+⬇️
 
-e passou cada vez mais por perguntas como:
+`TRANSFORMAR EM VÍDEO`
 
-> **“Como tornar uma ideia mais compreensível?”**
+⬇️
 
-> **“Como organizar o raciocínio?”**
+`COMPARTILHAR`
 
-> **“Como testar outra representação?”**
+</div>
 
-> **“Como transformar o que aprendi em algo que outra pessoa também consiga acessar?”**
+### 🧠 O que aprendi
 
----
+> **Criar com IA também pode envolver traduzir uma experiência para outra linguagem.**
 
-## 🧠 O que aprendi
+O que começou como texto e reflexão passou por representação visual, Canvas e finalmente se transformou em vídeo.
 
-Essa atividade reforçou uma ideia que vem aparecendo em diferentes momentos da jornada:
+> 🐾 **Aprender, criar e compartilhar podem fazer parte do mesmo processo: uma experiência pode virar uma representação, uma representação pode virar conteúdo e o conteúdo pode levar aquele aprendizado para outras pessoas.**
 
-> **criar com IA também pode envolver traduzir uma experiência para outra linguagem.**
-
-Nesse caso, o aprendizado e as experimentações da semana saíram de:
-
-```text
-texto
-   ↓
-reflexão
-   ↓
-representação visual
-   ↓
-Canvas
-```
-
-e chegaram a:
-
-```text
-vídeo
-   ↓
-conteúdo
-   ↓
-compartilhamento público
-```
-
-Também foi interessante publicar em mais de uma plataforma, porque a mesma criação passou a circular em contextos diferentes sem precisar permanecer presa ao formato original da atividade.
-
-### 🐾 Principal aprendizado da missão
-
-> **Aprender, criar e compartilhar podem fazer parte do mesmo processo: uma experiência pode virar uma representação, uma representação pode virar conteúdo e o conteúdo pode levar aquele aprendizado para outras pessoas.**
-
-> 📌 O roteiro, o prompt exato e a rota escolhida ainda não foram recuperados. Quando esses registros forem encontrados, podem ser acrescentados sem alterar a estrutura desta seção.
-
----
+<br>
 
 [⬆️ Voltar ao sumário](#sumario)
 
@@ -3061,188 +2258,84 @@ Também foi interessante publicar em mais de uma plataforma, porque a mesma cria
 
 ---
 
-<a id="evolucao-prompts"></a>
+<a id="projetos-gemini"></a>
 
-# 💬 Evolução dos Prompts
+# 🤖 Projetos que utilizam Gemini
 
-Quero acompanhar não apenas **o que pedi à IA**, mas como minha maneira de estruturar problemas evolui.
-
-## 🌱 Começo
-
-```text
-PERGUNTA → RESPOSTA
-```
-
-## 🧠 Evolução
-
-```text
-CONTEXTO
-    ↓
-OBJETIVO
-    ↓
-RESTRIÇÕES
-    ↓
-PROMPT
-    ↓
-RESULTADO
-    ↓
-ANÁLISE
-    ↓
-REFINAMENTO
-```
-
-## 🚀 Próximo nível
-
-```text
-PESSOAS
-    ↓
-PROBLEMA REAL
-    ↓
-CONTEXTO
-    ↓
-EVIDÊNCIAS
-    ↓
-HIPÓTESE
-    ↓
-IA
-    ↓
-EXPERIMENTO
-    ↓
-VALIDAÇÃO
-    ↓
-IMPACTO
-    ↓
-APRENDIZADO
-```
-
----
-
-## 🔬 Prompt que evoluiu comigo — Auditoria de estudos
-
-### Primeira versão
-
-```text
-Tenho uma prova na sexta-feira.
-Monte um plano de estudos para mim.
-```
-
-### Minha primeira melhoria
-
-```text
-Sendo meu professor particular da matéria de [especificar] e sabendo que tenho uma prova na sexta-feira sobre [assunto], conforme meu cronograma e disponibilidade e sem afetar meu tempo de sono, sabendo que estamos usando as referências [indicar quais], faça um cronograma de estudo completo para que eu estude até a quinta antes da prova.
-
-Tenho preferência por estudos [especificar método, longo ou curto e afins].
-```
-
-### Como eu faria hoje
-
-Hoje eu adicionaria uma etapa anterior de diagnóstico:
-
-```text
-# Papel
-
-Atue como meu professor particular e orientador de estudos para [DISCIPLINA].
-
-# Contexto
-
-Tenho uma prova na sexta-feira sobre:
-[CONTEÚDOS]
-
-As principais referências utilizadas são:
-[REFERÊNCIAS]
-
-Também fornecerei minha agenda da semana, minha grade curricular e os materiais que considerar relevantes.
-
-# Restrições
-
-- O planejamento deve terminar na quinta-feira.
-- Não reduza meu tempo habitual de sono.
-- Considere apenas os horários realmente disponíveis.
-- Minha preferência de estudo é [MÉTODO/PREFERÊNCIA].
-- Priorize os conteúdos em que eu demonstrar maior dificuldade.
-
-# Antes de criar o cronograma
-
-Analise as informações fornecidas e identifique o que ainda está faltando.
-
-Faça apenas as perguntas necessárias para preencher essas lacunas.
-
-Depois das minhas respostas:
-
-1. identifique os conteúdos prioritários;
-2. distribua os estudos de acordo com minha disponibilidade;
-3. inclua momentos de revisão e recuperação;
-4. indique objetivos concretos para cada bloco;
-5. reserve um momento final de revisão antes da prova.
-```
-
-### 🔎 O que mudou?
-
-```text
-ANTES
-dar mais contexto → pedir um cronograma melhor
-
-DEPOIS
-dar contexto → identificar lacunas → perguntar → priorizar → planejar → acompanhar
-```
-
----
-
-<a id="conteudos-publicacoes"></a>
-
-# 🎥 Conteúdos e Projetos Públicos
-
-Esta seção reúne somente projetos, protótipos, conteúdos e publicações que possuem **link público confirmado**.
-
----
-
-## 🤖 Projetos que utilizam Gemini
-
-Além das atividades diretamente propostas durante a jornada, também utilizei o **Gemini em projetos próprios**, explorando IA dentro de experiências, protótipos e aplicações diferentes.
+A jornada também transbordou das atividades do programa para projetos próprios.
 
 <div align="center">
 
-| Projeto | Uso registrado | Link |
+| Projeto | Como Gemini aparece | Link |
 |---|---|---|
-| 🤖 **Racha AI** | Projeto que utiliza Gemini | [Abrir projeto](https://racha-ai.goskip.app/) |
-| 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir projeto](https://quintal-das-missoes.vercel.app/) |
-| 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir projeto](https://entrenos.goskip.app/) |
-| 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir portfólio](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
+| 🤖 **Racha AI** | Projeto que utiliza Gemini | [Abrir](https://racha-ai.goskip.app/) |
+| 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir](https://quintal-das-missoes.vercel.app/) |
+| 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenos.goskip.app/) |
+| 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
 
 </div>
 
-Esses projetos ajudam a mostrar uma evolução importante da jornada: o Gemini deixou de aparecer apenas como ferramenta para responder perguntas ou apoiar atividades e passou a fazer parte de **projetos públicos que podem ser acessados e experimentados por outras pessoas**.
+Esses projetos mostram uma mudança importante:
 
-```text
-APRENDER
-   ↓
-EXPERIMENTAR
-   ↓
-CRIAR
-   ↓
-INTEGRAR GEMINI
-   ↓
-PUBLICAR
-   ↓
-TRANSFORMAR EM PROJETO REAL
-```
+<div align="center">
+
+`APRENDER`
+
+⬇️
+
+`EXPERIMENTAR`
+
+⬇️
+
+`CRIAR`
+
+⬇️
+
+`INTEGRAR GEMINI`
+
+⬇️
+
+`PUBLICAR`
+
+⬇️
+
+`TRANSFORMAR EM PROJETO REAL`
+
+</div>
 
 ---
 
-## 🌐 Registro público da jornada
+<a id="evolucao-prompts"></a>
 
-| Período | Conteúdo / Projeto | Origem / Uso de IA | Plataforma | Link |
-|---|---|---|---|---|
-| Onboarding | Anúncio como Embaixadora Estudantil | Onboarding | LinkedIn | [Abrir publicação](https://www.linkedin.com/posts/beatrizkcs_embaixadoresestudantisgoogle-embaixadoresestudantisgooglegemini-activity-7494394307228049408-2Iqe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACr1MqMByBIAjO5wlUJa0E77dw2bL0lnWOQ) |
-| Semana 2 | EntreNós | Projeto com Gemini / Radar de Oportunidades | Protótipo | [Abrir projeto](https://entrenos.goskip.app/) |
-| Semana 2 | Do Campo ao Conteúdo | Ação de Impacto com Gemini | TikTok | [Assistir](https://vt.tiktok.com/ZSq8K1pdS/) |
-| Semana 3 | Portfólio da Jornada 2026 | Criado com Gemini Canvas | GitHub Pages | [Abrir portfólio](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
-| Semana 3 | Minha Semana em Vídeo | Ação de Impacto com Gemini Omni | Instagram Reels | [Assistir](https://www.instagram.com/reel/DdKJ6b7ukht/?stkn=a3dsNHB2Y2JtMDZ4) |
-| Semana 3 | Minha Semana em Vídeo | Ação de Impacto com Gemini Omni | TikTok | [Assistir](https://www.tiktok.com/@1aspiraqualquer/video/7684356709984259335?is_from_webapp=1&sender_device=pc) |
-| Semana 3 | Minha Semana em Vídeo | Ação de Impacto com Gemini Omni | YouTube Shorts | [Assistir](https://youtube.com/shorts/G8pfajemQfI?si=qbdQBbPdJsNUrIa2) |
-| Projeto público | Racha AI | Projeto que utiliza Gemini | Web App | [Abrir projeto](https://racha-ai.goskip.app/) |
-| Projeto público | Quintal das Missões | Projeto que utiliza Gemini | Web App | [Abrir projeto](https://quintal-das-missoes.vercel.app/) |
+# 💬 Como meus prompts evoluíram
 
+No começo, a lógica muitas vezes era:
+
+<div align="center">
+
+`PERGUNTA → RESPOSTA`
+
+</div>
+
+Com os desafios, comecei a pensar mais em:
+
+<div align="center">
+
+`CONTEXTO → OBJETIVO → RESTRIÇÕES → PROMPT → RESULTADO → ANÁLISE → REFINAMENTO`
+
+</div>
+
+E, ao longo das semanas, isso se ampliou ainda mais:
+
+<div align="center">
+
+`PESSOAS → PROBLEMA REAL → CONTEXTO → HIPÓTESE → IA → EXPERIMENTO → VALIDAÇÃO → IMPACTO → APRENDIZADO`
+
+</div>
+
+O ponto mais importante dessa evolução talvez seja este:
+
+> **a pergunta deixou de ser apenas “como escrever um prompt melhor?” e passou a incluir “estou entendendo corretamente o problema que quero resolver?”**
 
 ---
 
@@ -3250,35 +2343,31 @@ TRANSFORMAR EM PROJETO REAL
 
 # 📈 Minha Evolução
 
-## 🤖 Como eu trabalho com IA
+### 🌱 No início
 
-### No início
+> **IA como ferramenta para obter respostas.**
 
-> IA como ferramenta para obter respostas.
+### 🚀 Durante a jornada
 
-### Depois
+> **IA como ferramenta para pesquisar, estruturar, visualizar, experimentar e criar.**
 
-> IA como ferramenta para pesquisar, estruturar, visualizar, experimentar e criar.
+### 🌎 O que quero continuar desenvolvendo
 
-### O que quero desenvolver
+> **IA como parte de um processo em que pessoas, pensamento crítico, contexto e validação continuam sendo fundamentais.**
 
-> IA como parte de um processo em que **pessoas, pensamento crítico, contexto e validação continuam sendo fundamentais**.
+Minha pergunta também mudou.
 
----
+**Antes:**
 
-## 🌎 Minha mudança de perspectiva
+> “O que eu consigo criar com IA?”
 
-### Antes
+**Depois:**
 
-> **“O que eu consigo criar com IA?”**
+> “Qual é o problema?”
 
-### Depois
+**Agora:**
 
-> **“Qual é o problema?”**
-
-### Evolução
-
-> **“Quem vive esse problema e qual contexto preciso compreender antes de decidir se IA faz sentido?”**
+> **“Quem vive esse problema, qual é o contexto e onde a IA realmente pode ajudar?”**
 
 ---
 
@@ -3290,205 +2379,83 @@ TRANSFORMAR EM PROJETO REAL
 - [x] 🤝 Primeiras conexões
 - [x] 🌐 Iniciativa espontânea de networking
 - [x] 🐈‍⬛ Batman promovido a porta-voz
-- [x] 🎨 Primeira imagem com Gemini
+- [x] 🎨 Primeira criação visual com Gemini
 - [x] 📢 Compartilhamento da conquista
 - [x] 🚀 Encontro de lançamento
+- [x] 🐱 Chibi escolhido como mascote do Team 03
+- [x] 🎨 Criação da identidade visual e figurinhas do Chibi
 - [x] 🧠 Auditoria de Prompt
-- [x] 📚 Participação na Sessão Gemini #01
-- [x] 🌎 Semana 2 documentada
+- [x] 📚 Sessão Gemini #01
 - [x] 🗺️ Mapa de Impacto
+- [x] 🎬 A Jornada do Impacto
 - [x] 🕵️ Embaixadora em Campo
 - [x] 📡 Radar de Oportunidades
-- [x] 🤝 Primeiro protótipo do EntreNós
-- [x] 💻 Participação na Sessão Gemini #02 — Canvas
+- [x] 🤝 Criação do EntreNós
+- [x] 💻 Sessão Gemini #02 — Canvas
 - [x] 🎙️ Do Campo ao Conteúdo
 - [x] 💬 Onde está o seu desafio?
-- [x] 🎨 Transforme seu desafio
-- [x] 🧩 Participação na Sessão Gemini #03 — Gemini Canvas
-- [x] 🌐 Portfólio público da jornada criado no Gemini Canvas
+- [x] 🎨 Chibi e o Novelo do Raciocínio
+- [x] 🧩 Sessão Gemini #03 — Canvas no dia a dia
+- [x] 🌐 Portfólio público criado com Gemini Canvas
 - [x] 🤖 Racha AI utilizando Gemini
 - [x] 🌱 Quintal das Missões utilizando Gemini
 - [x] 🤝 EntreNós utilizando Gemini
 - [x] 🎬 Minha Semana em Vídeo com Gemini Omni
-- [ ] 🚀 Próxima missão...
+- [x] 📱 Conteúdo distribuído em Instagram, TikTok e YouTube
 
 ---
 
-# 🔄 Evolução ao longo do tempo
+# 🧶 O fio que conecta tudo
 
-Uma missão não termina obrigatoriamente quando é entregue.
+Ao longo dessas primeiras semanas, as atividades pareceram diferentes:
 
-```text
-ATIVIDADE
-   ↓
-PRIMEIRO RESULTADO
-   ↓
-APRENDIZADO
-   ↓
-NOVO EXPERIMENTO
-   ↓
-MELHORIA
-   ↓
-APLICAÇÃO REAL
-```
+`prompt` • `imagem` • `comunidade` • `mapa` • `pesquisa` • `Canvas` • `protótipo` • `vídeo`
 
-Quero que este repositório registre não apenas:
+Mas todas acabaram se conectando.
 
-> **“Eu fiz.”**
+<div align="center">
 
-Mas:
+`APRENDER`
 
-> **“Eu fiz, analisei, aprendi, testei de novo e melhorei.”**
+⬇️
 
----
+`EXPERIMENTAR`
 
-<a id="modelo-atividades"></a>
+⬇️
 
-# 📝 Modelo das próximas atividades
+`ERRAR`
 
-<details>
-<summary><strong>📋 Abrir template</strong></summary>
+⬇️
 
-```markdown
-<a id="identificador-da-atividade"></a>
+`ANALISAR`
 
-<details>
-<summary><strong>🎯 DD/MM — Nome da atividade</strong></summary>
+⬇️
 
-<br>
+`ENTENDER`
 
-**Semana:** XX  
-**Tipo:** Desafio / Sessão / Impacto / Atividade  
-**Pontuação:** XX — somente se houver pontuação confirmada  
-**Status:** ✅ / 📝
+⬇️
 
-### 🎯 O que foi proposto
+`MELHORAR`
 
-### 📋 Como fazer
+⬇️
 
-### 🚀 O que eu fiz
+`CRIAR`
 
-### 💬 Resposta / Entrega
-> ...
+⬇️
 
-### 🤖 Gemini em ação
-Somente se houver prompt ou uso recuperado com fidelidade.
+`COMPARTILHAR`
 
-### ✨ Resultado
-Somente se existir um resultado concreto.
+⬇️
 
-### 📸 Evidência
-Somente se houver arquivo real de imagem, vídeo ou screenshot.
+`IMPACTAR`
 
-### 🌐 Publicação
-Somente se existir link público.
+⬇️
 
-### 🧠 O que aprendi
+`APRENDER DE NOVO`
 
-### 🔄 O que faria diferente
+↺
 
-### 📈 Evolução posterior
-Somente quando houver evolução real para registrar.
-
----
-
-[⬆️ Voltar ao sumário](#sumario)
-
-</details>
-```
-
-</details>
-
----
-
-<a id="politica-evidencias"></a>
-
-# 📸 Política de evidências
-
-Para evitar que o README pareça incompleto ou contenha arquivos que nunca existiram, sigo estas regras:
-
-### ✅ Incluo uma imagem quando
-
-- a atividade realmente gerou uma imagem;
-- existe screenshot ou evidência que quero tornar pública;
-- o arquivo está no repositório;
-- a imagem acrescenta contexto à atividade.
-
-### ✅ Incluo vídeo quando
-
-- o vídeo realmente foi produzido;
-- existe um link público ou arquivo que possa ser referenciado.
-
-### ✅ Incluo prompt quando
-
-- tenho o prompt original;
-- ou deixo explicitamente claro que se trata de uma reconstrução ou exemplo.
-
-### ❌ Não incluo
-
-- `img-XXX.png` apenas para reservar espaço;
-- métricas que não foram recuperadas;
-- links fictícios;
-- campos `[Adicionar]` dentro da versão pública;
-- imagens em atividades que foram somente textuais;
-- prompts apresentados como originais quando não tenho o texto real.
-
-### 📌 Padrão de nomes para novos arquivos
-
-Quando houver evidência real, prefiro nomes descritivos:
-
-```text
-semanaXX-entregaYY-assunto.extensao
-```
-
-Exemplos:
-
-```text
-semana00-entrega01-quebra-gelo-batman.png
-semana01-entrega02-auditoria-prompt.png
-semana02-entrega01-mapa-impacto.png
-```
-
----
-
-# 🐱 Miau na área!
-
-O Batman apareceu logo no começo da jornada e acabou se tornando parte natural da identidade dos meus experimentos.
-
-<p align="center">
-
-🐈‍⬛ + 🤖 + 💻 + 🎨 + 🚀
-
-</p>
-
-Quero mostrar que tecnologia e Inteligência Artificial podem ser técnicas e, ao mesmo tempo:
-
-**criativas • acessíveis • curiosas • divertidas • humanas**
-
----
-
-# 💭 O que quero levar desta jornada
-
-```text
-APRENDER
-   ↓
-EXPERIMENTAR
-   ↓
-ERRAR
-   ↓
-ANALISAR
-   ↓
-ENTENDER
-   ↓
-MELHORAR
-   ↓
-COMPARTILHAR
-   ↓
-IMPACTAR
-   ↓
-APRENDER DE NOVO
-        ↺
-```
+</div>
 
 Ferramentas mudam.  
 Modelos mudam.  
@@ -3509,10 +2476,16 @@ Por isso, mais importante do que aprender apenas **qual botão apertar** é apre
 
 <div align="center">
 
+## 🐈‍⬛ + 🤖 + 💻 + 🎨 + 🚀
+
+### Tecnologia também pode ser criativa, curiosa, acessível e divertida.
+
+<br>
+
 # 🐱✨ Continua...
 
-### Cada semana, uma nova missão.
-### Cada missão, um novo experimento.
+### Cada semana, uma nova missão.  
+### Cada missão, um novo experimento.  
 ### Cada experimento, uma oportunidade de evoluir.
 
 <br>
