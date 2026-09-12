@@ -1412,18 +1412,6 @@ A ideia principal continua a mesma, mas hoje eu daria mais espaço para a IA **e
 
 ---
 
-### 🖼️ Evidência
-
-<p align="center">
-  <img
-    src="./semana01-entrega02-desafio01-auditoria-prompt.png"
-    width="680"
-    alt="Desafio de Auditoria de Prompt da Semana 1"
-  >
-</p>
-
----
-
 ### 🐾 Principal aprendizado da missão
 
 > **Um bom prompt não precisa nascer pronto. Ele pode ser construído em diálogo, ganhar contexto, incorporar técnicas de outras pessoas e melhorar conforme entendemos melhor o problema que queremos resolver.**
