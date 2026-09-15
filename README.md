@@ -35,9 +35,21 @@
 
 ---
 
-## 🎓 Acesso rápido · Site dos Embaixadores Estudantis
+<div align="center">
 
-**[🌐 Abrir o site dos Embaixadores Estudantis](https://amplifica.me/siteembaixadoresestudantis)**
+### 🎓✨ Portal dos Embaixadores
+
+*Uma patinha de distância para continuar a missão.* 🐾
+
+<br>
+
+[![Acessar o site dos Embaixadores Estudantis](https://img.shields.io/badge/ACESSAR_O_PORTAL-8A2BE2?style=for-the-badge&logo=google&logoColor=white)](https://amplifica.me/siteembaixadoresestudantis)
+
+**Embaixadores Estudantis · 2026**
+
+<br>
+
+</div>
 
 ---
 
