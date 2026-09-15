@@ -124,7 +124,6 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 <details>
 <summary><strong>🗓️ Semana 4 — Organização e acolhimento na rotina acadêmica</strong></summary>
 
-- [📅 Agenda da semana](#semana4-agenda)
 - [💜 Abertura — O que eu gostaria de ter ouvido antes do ENEM](#semana4-enem)
 
 </details>
@@ -2283,29 +2282,6 @@ O que começou como texto e reflexão passou por representação visual, Canvas 
 </div>
 
 A Semana 4 aproxima o Google Gemini da vida acadêmica: como deixar a rotina mais organizada e prática? A abertura também trouxe um convite para olhar para a própria trajetória e acolher quem está se preparando para o ENEM.
-
----
-
-<a id="semana4-agenda"></a>
-
-<details open>
-<summary><strong>📅 Agenda da Semana 4</strong></summary>
-
-| Data | Atividade | Pontuação anunciada | Status em 14/09 |
-|---|---|---|---|
-| 14/09 · Segunda-feira | 🎓 Agenda da semana + reflexão sobre o ENEM | Não informada | Reflexão compartilhada ✅ |
-| 15/09 · Terça-feira | 🗓️ Check-out da Semana 3 + Desafio #01 · Parte 1 | Não informada | Previsto |
-| 16/09 · Quarta-feira | 💡 Desafio #02 | +25 pts | Previsto |
-| 16/09 · Quarta-feira | 🎙️ Masterclass com Creator #01 · Pompeu IA | +20 pts | Prevista |
-| 17/09 · Quinta-feira | 🧩 Sessão de Google Gemini #04 | +20 pts | Prevista |
-| 17/09 · Quinta-feira | 🎯 Desafio #01 · Parte 2 | +25 pts | Previsto |
-| 18/09 · Sexta-feira | 📣 Ação de Impacto | +40 pts | Prevista |
-
-Registro atualizado em 14/09/2026. A semana está em andamento. As pontuações são as anunciadas para as atividades, sem indicar pontos já recebidos; participação nos próximos encontros e entregas ainda a confirmar.
-
-[⬆️ Voltar ao sumário](#sumario)
-
-</details>
 
 ---
 
