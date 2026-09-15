@@ -35,6 +35,12 @@
 
 ---
 
+## 🎓 Acesso rápido · Site dos Embaixadores Estudantis
+
+**[🌐 Abrir o site dos Embaixadores Estudantis](https://amplifica.me/siteembaixadoresestudantis)**
+
+---
+
 # 🌟 Sobre o Gemini em Missão
 
 O **Gemini em Missão** é o meu diário público de evolução durante minha jornada como **Embaixadora Estudantil do Google 2026**.
