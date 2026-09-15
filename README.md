@@ -163,7 +163,6 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 09/09/2026 | 🧠 Semana 3 | Transforme seu desafio | ✅ |
 | 10/09/2026 | 🧠 Semana 3 | Gemini Canvas no dia a dia | ✅ |
 | 11/09/2026 | 🧠 Semana 3 | Minha Semana em Vídeo com Gemini Omni | ✅ |
-| 14–18/09/2026 | 🗓️ Semana 4 | Organização e acolhimento na rotina acadêmica | 🔄 Em andamento |
 | 14/09/2026 | 🗓️ Semana 4 | O que eu gostaria de ter ouvido antes do ENEM | ✅ |
 
 ---
