@@ -43,7 +43,11 @@
       --green:#13875e;
     }
     *{box-sizing:border-box}
-    html{scroll-behavior:smooth}
+    html{
+      scroll-behavior:smooth;
+      scrollbar-width:none;
+    }
+    html::-webkit-scrollbar{width:0;height:0}
     body{
       margin:0;
       color:var(--text);
@@ -56,6 +60,7 @@
       line-height:1.68;
       min-height:100vh;
       overflow-x:hidden;
+      -ms-overflow-style:none;
     }
     body::before{
       content:"";
@@ -112,7 +117,8 @@
     .pill-btn{padding:0 14px; display:flex; gap:8px; align-items:center; font-weight:800}
     .icon-btn:hover,.pill-btn:hover{transform:translateY(-2px); border-color:color-mix(in srgb,var(--blue) 52%,var(--line));}
     .hero{
-      max-width:var(--max); margin:0 auto; padding:84px 20px 48px;
+      max-width:var(--max); min-height:calc(100svh - 63px); margin:0 auto;
+      padding:clamp(32px,7vh,84px) 20px clamp(28px,5vh,48px);
       display:grid; grid-template-columns:1.3fr .7fr; gap:34px; align-items:center;
     }
     .hero h1{
@@ -352,7 +358,7 @@
     .cat-toast.show{opacity:1;transform:none}
     .mobile-menu{display:none}
     @media (max-width:980px){
-      .hero{grid-template-columns:1fr; padding-top:55px}
+      .hero{grid-template-columns:1fr; min-height:auto; padding-top:55px}
       .cat-orbit{min-height:290px}
       .orb{width:260px}
       .layout{grid-template-columns:1fr}
@@ -500,7 +506,7 @@
           </div>
         </div>
 
-        <details class="activity searchable" open>
+        <details class="activity searchable">
           <summary><span class="summary-title">🌐 Entrada na comunidade</span><span><span class="summary-meta">14/08</span> <span class="chev">⌄</span></span></summary>
           <div class="activity-body">
             <h4>🎯 O que foi proposto</h4>
@@ -666,7 +672,7 @@ Após uma votação histórica, com intensa campanha de fofura e propostas irres
           </div>
         </details>
 
-        <details class="activity searchable" open>
+        <details class="activity searchable">
           <summary><span class="summary-title">🧠 Desafio #01 — Auditoria de Prompt</span><span><span class="summary-meta">25/08</span> <span class="chev">⌄</span></span></summary>
           <div class="activity-body">
             <h4>🎯 O ponto de partida</h4>
@@ -909,7 +915,7 @@ A ideia é criar um espaço de apoio coletivo entre estudantes, onde dúvidas e 
           </div>
         </details>
 
-        <details class="activity searchable" open>
+        <details class="activity searchable">
           <summary><span class="summary-title">🎨 Desafio #02 — Chibi e o Novelo do Raciocínio</span><span><span class="summary-meta">09/09</span> <span class="chev">⌄</span></span></summary>
           <div class="activity-body">
             <p>A proposta era usar <strong>meu próprio raciocínio + Google Gemini + uma forma de representação visual</strong>.</p>
@@ -956,7 +962,7 @@ E fica o meu lembrete de frajola: cada pessoa tem seu jeito de aprender, então 
           </div>
         </details>
 
-        <details class="activity searchable" open>
+        <details class="activity searchable">
           <summary><span class="summary-title">🎬 Minha Semana em Vídeo com Gemini Omni</span><span><span class="summary-meta">11/09</span> <span class="chev">⌄</span></span></summary>
           <div class="activity-body">
             <h4>🎯 O que foi proposto</h4>
@@ -983,7 +989,7 @@ E fica o meu lembrete de frajola: cada pessoa tem seu jeito de aprender, então 
         </div>
         <div class="flow"><span>🗓️ ORGANIZAR</span><b>→</b><span>💜 ACOLHER</span><b>→</b><span>📚 APRENDER</span><b>→</b><span>📣 COMPARTILHAR</span></div>
 
-        <details id="semana4-enem" class="activity searchable" open>
+        <details id="semana4-enem" class="activity searchable">
           <summary><span class="summary-title">💜 Abertura — O que eu gostaria de ter ouvido antes do ENEM</span><span><span class="summary-meta">14/09</span> <span class="chev">⌄</span></span></summary>
           <div class="activity-body">
             <span class="tag">✅ Resposta compartilhada · 14/09/2026</span>
@@ -998,7 +1004,7 @@ E fica o meu lembrete de frajola: cada pessoa tem seu jeito de aprender, então 
           </div>
         </details>
 
-        <details id="semana4-rotina-em-ordem" class="activity searchable" open>
+        <details id="semana4-rotina-em-ordem" class="activity searchable">
           <summary><span class="summary-title">🧩 Desafio #01 — Minha Rotina em Ordem</span><span><span class="summary-meta">15 e 17/09</span> <span class="chev">⌄</span></span></summary>
           <div class="activity-body">
             <span class="tag">✅ Rotina criada, revisada e testada</span>
@@ -1019,7 +1025,7 @@ Como tenho TEA e TDAH, adaptei o sistema com poucas prioridades por dia, micro-e
           </div>
         </details>
 
-        <details id="semana4-mural-organizacao" class="activity searchable" open>
+        <details id="semana4-mural-organizacao" class="activity searchable">
           <summary><span class="summary-title">📚 Desafio #02 — Mural de Organização da Vida Acadêmica</span><span><span class="summary-meta">16/09</span> <span class="chev">⌄</span></span></summary>
           <div class="activity-body">
             <span class="tag">📝 Dica criada</span>
@@ -1188,9 +1194,17 @@ Como tenho TEA e TDAH, adaptei o sistema com poucas prioridades por dia, micro-e
 
     // Expandir / recolher todas
     let allOpen = false;
+    const activities = [...document.querySelectorAll('details.activity')];
+    function closeAllActivities(){
+      allOpen = false;
+      activities.forEach(d => d.open = false);
+      expandBtn.innerHTML = '🧩 <span class="label">Abrir tudo</span>';
+    }
+    closeAllActivities();
+    addEventListener('pageshow', closeAllActivities);
     expandBtn.addEventListener('click',()=>{
       allOpen = !allOpen;
-      document.querySelectorAll('details.activity').forEach(d => d.open = allOpen);
+      activities.forEach(d => d.open = allOpen);
       expandBtn.innerHTML = allOpen ? '🧶 <span class="label">Recolher tudo</span>' : '🧩 <span class="label">Abrir tudo</span>';
     });
 
