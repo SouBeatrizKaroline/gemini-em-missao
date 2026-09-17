@@ -143,6 +143,8 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 <summary><strong>🗓️ Semana 4 — Organização e acolhimento na rotina acadêmica</strong></summary>
 
 - [💜 Abertura — O que eu gostaria de ter ouvido antes do ENEM](#semana4-enem)
+- [🧩 Desafio #01 — Minha Rotina em Ordem](#semana4-rotina-em-ordem)
+- [📚 Desafio #02 — Mural de Organização da Vida Acadêmica](#semana4-mural-organizacao)
 
 </details>
 
@@ -182,6 +184,8 @@ Quando uma atividade aconteceu dentro de um espaço privado, registro apenas aqu
 | 10/09/2026 | 🧠 Semana 3 | Gemini Canvas no dia a dia | ✅ |
 | 11/09/2026 | 🧠 Semana 3 | Minha Semana em Vídeo com Gemini Omni | ✅ |
 | 14/09/2026 | 🗓️ Semana 4 | O que eu gostaria de ter ouvido antes do ENEM | ✅ |
+| 15–17/09/2026 | 🗓️ Semana 4 | Minha Rotina em Ordem | ✅ |
+| 16/09/2026 | 🗓️ Semana 4 | Mural de Organização da Vida Acadêmica | 📝 |
 
 ---
 
@@ -2294,7 +2298,7 @@ O que começou como texto e reflexão passou por representação visual, Canvas 
 
 **Organizar → Acolher → Aprender → Compartilhar**
 
-**🔄 Semana em andamento · Atualização de 14/09/2026**
+**🔄 Semana em andamento · Atualização de 17/09/2026**
 
 </div>
 
@@ -2331,6 +2335,64 @@ Reconhecer o esforço de quem está se preparando, com uma frase de incentivo e 
 
 </details>
 
+<a id="semana4-rotina-em-ordem"></a>
+
+<details open>
+<summary><strong>🧩 Desafio #01 — Minha Rotina em Ordem</strong></summary>
+
+### 📅 15 e 17/09/2026 · ✅ Rotina criada, revisada e testada
+
+### 🎯 O que foi proposto
+
+Usar o Google Gemini para tirar as pendências da cabeça, organizá-las em categorias, definir prioridades e transformar cada uma em próximos passos possíveis. Na segunda parte, a proposta foi revisar o plano, aproveitar apenas estratégias úteis da comunidade e criar um sistema simples com ferramentas Google.
+
+### 🚀 O que eu fiz
+
+Estruturei minha rotina em compromissos fixos, blocos flexíveis, tarefas recorrentes e prazos a confirmar. O planejamento considera faculdade EAD, aulas de inglês e espanhol no NLC, busca profissional, portfólio, CNH, projetos, autocuidado, cuidados com o gato, organização da casa e lazer.
+
+Como tenho **TEA e TDAH**, adaptei o sistema com poucas prioridades por dia, micro-etapas, pausas, margens para imprevistos e duas alternativas para dias de baixa energia: **Modo Sobrevivência** e **Modo Mínimo**.
+
+### ⚙️ Sistema sem duplicação
+
+- **Google Agenda:** compromissos fixos e blocos de tempo que eu decidir reservar.
+- **Google Tarefas:** ações específicas, etapas e prazos.
+- **Gemini:** revisão, priorização e adaptação semanal.
+
+### 🧪 Teste com uma situação real
+
+Usei o próprio Desafio da Semana 4 para verificar se o sistema mostrava o que fazer, qual era o próximo passo, quando agir e onde acompanhar cada informação. O teste também separou requisitos confirmados, práticas habituais do programa e informações ainda **a confirmar**, sem inventar prazos.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
+<a id="semana4-mural-organizacao"></a>
+
+<details open>
+<summary><strong>📚 Desafio #02 — Mural de Organização da Vida Acadêmica</strong></summary>
+
+### 📅 16/09/2026 · 📝 Dica criada
+
+### 🎯 O que foi proposto
+
+Compartilhar no mural uma estratégia de organização que funcione na vida acadêmica e explicar como o Google Gemini pode apoiar essa prática. Depois, explorar as contribuições da comunidade e selecionar apenas as ideias que façam sentido para a própria rotina.
+
+### 💡 Minha dica
+
+> Minha dica é separar compromissos fixos e variáveis. Os fixos ficam na agenda semanal, enquanto os pontuais e seus prazos aparecem na mensal. Também defino prazos para metas e tarefas. O Gemini ajuda a organizar as categorias, dividir objetivos em etapas e sugerir prazos realistas.
+
+### 🔄 Como a dica entrou na rotina
+
+A estratégia virou a base da minha organização: compromissos com horário ficam visíveis na agenda; ações e prazos ficam nas tarefas; e o Gemini ajuda a revisar a semana sem transformar o planejamento em uma estrutura rígida ou difícil de manter.
+
+<br>
+
+[⬆️ Voltar ao sumário](#sumario)
+
+</details>
+
 ---
 
 <a id="projetos-gemini"></a>
@@ -2347,6 +2409,7 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir](https://quintal-das-missoes.vercel.app/) |
 | 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenos.goskip.app/) |
 | 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
+| 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | App: [Demo](https://soubeatrizkaroline.github.io/conecta-app/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-app/)<br>API: [Online](https://conecta-api-2x27.onrender.com/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-api/)<br>Analytics: [Demo](https://soubeatrizkaroline.github.io/conecta-analytics/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
 
 </div>
 
@@ -2477,6 +2540,9 @@ Minha pergunta também mudou.
 - [x] 🤝 EntreNós utilizando Gemini
 - [x] 🎬 Minha Semana em Vídeo com Gemini Omni
 - [x] 📱 Conteúdo distribuído em Instagram, TikTok e YouTube
+- [x] 🧩 Minha Rotina em Ordem criada e testada
+- [x] 📚 Dica para o Mural de Organização criada
+- [x] 🔗 Conecta desenvolvido como App, API e Analytics integrados
 
 ---
 
