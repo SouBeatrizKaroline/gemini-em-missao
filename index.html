@@ -187,11 +187,13 @@
     }
     .sidebar{
       position:sticky; top:78px; align-self:start; max-height:calc(100vh - 96px); overflow:auto;
+      scrollbar-width:none; -ms-overflow-style:none;
       padding:18px;
       border:1px solid var(--line); background:var(--card);
       backdrop-filter:blur(16px); border-radius:22px;
       box-shadow:var(--shadow);
     }
+    .sidebar::-webkit-scrollbar{width:0;height:0}
     .sidebar h3{font-size:.86rem; text-transform:uppercase; letter-spacing:.12em; color:var(--muted); margin:0 0 10px}
     .nav-link{
       display:flex; gap:9px; align-items:center;
