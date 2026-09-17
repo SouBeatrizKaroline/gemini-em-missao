@@ -2409,7 +2409,23 @@ A jornada também transbordou das atividades do programa para projetos próprios
 | 🌱 **Quintal das Missões** | Projeto que utiliza Gemini | [Abrir](https://quintal-das-missoes.vercel.app/) |
 | 🤝 **EntreNós** | Projeto que utiliza Gemini | [Abrir](https://entrenos.goskip.app/) |
 | 🐱✨ **Portfólio da Jornada 2026** | Criado com Gemini Canvas | [Abrir](https://soubeatrizkaroline.github.io/Portfolio2026_EmbaixadorEstudantilGoogle/) |
-| 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | App: [Demo](https://soubeatrizkaroline.github.io/conecta-app/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-app/)<br>API: [Online](https://conecta-api-2x27.onrender.com/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-api/)<br>Analytics: [Demo](https://soubeatrizkaroline.github.io/conecta-analytics/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
+| 🔗 **Conecta** | Ecossistema integrado em três partes; o Gemini Canvas apoiou a construção do frontend | [Ver App, API e Analytics](#conecta) |
+
+</div>
+
+<a id="conecta"></a>
+
+## 🔗 Conecta
+
+Um ecossistema integrado em três partes. O **App** oferece a experiência para quem utiliza a solução, a **API** recebe e disponibiliza os dados, e o **Analytics** transforma esses dados em métricas e jornadas para acompanhamento.
+
+<div align="center">
+
+| 🖥️ **App** | ⚙️ **API** | 📊 **Analytics** |
+|:---:|:---:|:---:|
+| Frontend com telas, navegação e experiência do usuário.<br><br>[**Abrir demo**](https://soubeatrizkaroline.github.io/conecta-app/) · [**GitHub**](https://github.com/SouBeatrizKaroline/conecta-app/) | Backend responsável por receber, processar e disponibilizar os dados.<br><br>[**Abrir online**](https://conecta-api-2x27.onrender.com/) · [**GitHub**](https://github.com/SouBeatrizKaroline/conecta-api/) | Dashboard administrativo com métricas, jornadas, filtros e gestão de ações.<br><br>[**Abrir demo**](https://soubeatrizkaroline.github.io/conecta-analytics/) · [**GitHub**](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
+
+**🖥️ App** → **⚙️ API** → **📊 Analytics**
 
 </div>
 
