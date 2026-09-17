@@ -2415,17 +2415,15 @@ A jornada também transbordou das atividades do programa para projetos próprios
 
 <a id="conecta"></a>
 
-## 🔗 Conecta
+### 🔗 Conecta — App, API e Analytics
 
-Um ecossistema integrado em três partes. O **App** oferece a experiência para quem utiliza a solução, a **API** recebe e disponibiliza os dados, e o **Analytics** transforma esses dados em métricas e jornadas para acompanhamento.
+Projeto integrado em três partes, com apoio do **Gemini Canvas** na construção do frontend.
 
 <div align="center">
 
 | 🖥️ **App** | ⚙️ **API** | 📊 **Analytics** |
 |:---:|:---:|:---:|
-| Frontend com telas, navegação e experiência do usuário.<br><br>[**Abrir demo**](https://soubeatrizkaroline.github.io/conecta-app/) · [**GitHub**](https://github.com/SouBeatrizKaroline/conecta-app/) | Backend responsável por receber, processar e disponibilizar os dados.<br><br>[**Abrir online**](https://conecta-api-2x27.onrender.com/) · [**GitHub**](https://github.com/SouBeatrizKaroline/conecta-api/) | Dashboard administrativo com métricas, jornadas, filtros e gestão de ações.<br><br>[**Abrir demo**](https://soubeatrizkaroline.github.io/conecta-analytics/) · [**GitHub**](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
-
-**🖥️ App** → **⚙️ API** → **📊 Analytics**
+| Telas, navegação e experiência do usuário.<br><br>[Demo](https://soubeatrizkaroline.github.io/conecta-app/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-app/) | Processamento e disponibilização dos dados.<br><br>[Online](https://conecta-api-2x27.onrender.com/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-api/) | Métricas, jornadas, filtros e gestão de ações.<br><br>[Demo](https://soubeatrizkaroline.github.io/conecta-analytics/) · [GitHub](https://github.com/SouBeatrizKaroline/conecta-analytics/) |
 
 </div>
 
